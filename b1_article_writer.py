@@ -18,7 +18,7 @@ POSTS_DIR = Path("./_posts")
 LOG_DIR   = Path("./logs")
 HEARTBEAT = Path("./heartbeat_article_writer.json")
 API_KEY   = os.getenv("ANTHROPIC_API_KEY")
-ARTICLES_PER_RUN = int(os.getenv("ARTICLES_PER_RUN", "20"))
+ARTICLES_PER_RUN = int(os.getenv("ARTICLES_PER_RUN", "15"))
 
 POSTS_DIR.mkdir(exist_ok=True)
 LOG_DIR.mkdir(exist_ok=True)
