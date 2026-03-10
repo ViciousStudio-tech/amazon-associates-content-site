@@ -1,0 +1,57 @@
+name: Weekly Content Pipeline
+
+on:
+  schedule:
+    # Every Sunday at 8am UTC
+    - cron: '0 8 * * 0'
+  # Also allow manual runs from GitHub UI
+  workflow_dispatch:
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Step 1 — Find keywords
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DB_PATH: ./data/business1.db
+          GMAIL_TO: ${{ secrets.GMAIL_TO }}
+        run: python b1_keyword_finder.py
+
+      - name: Step 2 — Write articles
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          AMAZON_ASSOCIATE_TAG: ${{ secrets.AMAZON_ASSOCIATE_TAG }}
+          DB_PATH: ./data/business1.db
+          ARTICLES_PER_RUN: "3"
+        run: python b1_article_writer.py
+
+      - name: Step 3 — Publish to GitHub Pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_REPO: ${{ github.repository }}
+          DB_PATH: ./data/business1.db
+        run: python b1_publisher.py
+
+      - name: Step 4 — Save updated DB to repo
+        run: |
+          git config user.name "Amazon Empire Bot"
+          git config user.email "bot@amazon-empire.local"
+          git add data/business1.db heartbeat_*.json dashboard_data.json || true
+          git diff --staged --quiet || git commit -m "Auto: weekly pipeline run $(date +%Y-%m-%d)"
+          git push || true
+
+---
+# Separate workflow: monitor runs every 6 hours

@@ -1,0 +1,9 @@
+.env
+*.pyc
+__pycache__/
+data/
+logs/
+*.db
+*.log
+.DS_Store
+setup_state.json

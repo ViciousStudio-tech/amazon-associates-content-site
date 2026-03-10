@@ -1,0 +1,8 @@
+title: "Product Reviews & Buying Guides"
+description: "Expert reviews and buying guides to help you find the best products"
+url: "https://viciousstudio-tech.github.io"
+baseurl: "/amazon-associates-content-site"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
