@@ -166,9 +166,9 @@ def main():
     conn = init_db()
 
     total_saved = 0
-    # Run 3 categories per execution (keeps API cost low, ~60 keywords)
+    # Run 5 categories per execution (~100 keywords to feed 20 articles)
     import random
-    selected_categories = random.sample(NICHE_CATEGORIES, 3)
+    selected_categories = random.sample(NICHE_CATEGORIES, 5)
 
     for category in selected_categories:
         log.info(f"Researching category: {category}")
