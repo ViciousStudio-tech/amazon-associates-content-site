@@ -1,9 +1,25 @@
-title: "Product Reviews & Buying Guides"
-description: "Expert reviews and buying guides to help you find the best products"
+name: "HomeFinds"
+title: "HomeFinds — Home & Lifestyle Buying Guides"
+description: "Expert-researched product reviews and buying guides for your home, kitchen, smart home, and lifestyle. Find the best products, tested and curated."
 url: "https://viciousstudio-tech.github.io"
 baseurl: "/amazon-associates-content-site"
-theme: minima
 permalink: /:year/:month/:day/:title/
+
+# NO external theme — using custom layout
+# theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+# Exclude scripts from build
+exclude:
+  - b1_article_writer.py
+  - b1_keyword_finder.py
+  - b1_monitor.py
+  - b1_publisher.py
+  - setup_and_run.py
+  - setup_orchestrator.py
+  - requirements.txt
+  - data/
+  - "*.db"

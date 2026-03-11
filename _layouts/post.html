@@ -1,0 +1,86 @@
+---
+layout: default
+---
+
+<article class="post-page">
+  <div class="container">
+
+    <!-- BREADCRUMB -->
+    <nav class="breadcrumb">
+      <a href="{{ site.baseurl }}/">Home</a>
+      <span>›</span>
+      {% if page.categories %}
+      <a href="{{ site.baseurl }}/topics/{{ page.categories | first }}">{{ page.categories | first | replace: '-', ' ' | capitalize }}</a>
+      <span>›</span>
+      {% endif %}
+      <span>{{ page.title | truncatewords: 6 }}</span>
+    </nav>
+
+    <div class="post-layout">
+
+      <!-- MAIN CONTENT -->
+      <div class="post-main">
+
+        <!-- ARTICLE HEADER -->
+        <header class="post-header">
+          <span class="post-category-tag">{{ page.categories | first | replace: '-', ' ' | replace: 'aesthetic', '' | strip | capitalize }}</span>
+          <h1 class="post-title">{{ page.title }}</h1>
+          {% if page.description %}
+          <p class="post-description">{{ page.description }}</p>
+          {% endif %}
+          <div class="post-meta">
+            <span class="post-author">By The HomeFinds Editorial Team</span>
+            <span class="post-divider">·</span>
+            <time class="post-date">{{ page.date | date: "%B %d, %Y" }}</time>
+            <span class="post-divider">·</span>
+            <span class="post-read-time">{% assign words = content | number_of_words %}{{ words | divided_by: 200 | plus: 1 }} min read</span>
+          </div>
+        </header>
+
+        <!-- AFFILIATE DISCLOSURE -->
+        <div class="affiliate-disclosure">
+          <strong>Editorial note:</strong> HomeFinds earns a small commission when you purchase through our links, at no extra cost to you. Our editorial team selects products independently. <a href="{{ site.baseurl }}/affiliate-disclosure">Learn more</a>
+        </div>
+
+        <!-- FEATURED IMAGE AREA -->
+        <div class="post-featured-image">
+          <div class="featured-image-placeholder">
+            <span>{{ page.title }}</span>
+          </div>
+        </div>
+
+        <!-- ARTICLE BODY -->
+        <div class="post-content">
+          {{ content }}
+        </div>
+
+      </div>
+
+      <!-- SIDEBAR -->
+      <aside class="post-sidebar">
+
+        <!-- TABLE OF CONTENTS -->
+        <div class="sidebar-widget toc-widget">
+          <h4 class="widget-title">In This Guide</h4>
+          <div id="toc" class="toc-links">
+            <!-- Populated by JS -->
+          </div>
+        </div>
+
+        <!-- RELATED POSTS -->
+        <div class="sidebar-widget related-widget">
+          <h4 class="widget-title">Related Guides</h4>
+          {% assign related = site.posts | where_exp: "p", "p.url != page.url" | limit: 4 %}
+          {% for post in related %}
+          <a href="{{ post.url | prepend: site.baseurl }}" class="related-post">
+            <span class="related-category">{{ post.categories | first | replace: '-', ' ' | replace: 'aesthetic', '' | strip | capitalize }}</span>
+            <span class="related-title">{{ post.title | truncatewords: 7 }}</span>
+          </a>
+          {% endfor %}
+        </div>
+
+      </aside>
+
+    </div>
+  </div>
+</article>

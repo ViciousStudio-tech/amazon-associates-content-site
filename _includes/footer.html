@@ -1,0 +1,56 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+
+      <div class="footer-brand">
+        <a href="{{ site.baseurl }}/" class="footer-logo">
+          <span class="logo-icon">⌂</span> HomeFinds
+        </a>
+        <p>Expert-researched buying guides and product reviews for your home and lifestyle. We help you spend smarter.</p>
+        <p class="footer-disclosure-note">HomeFinds participates in the Amazon Services LLC Associates Program. We earn commissions on qualifying purchases.</p>
+      </div>
+
+      <div class="footer-col">
+        <h4>Topics</h4>
+        <ul>
+          <li><a href="{{ site.baseurl }}/topics/home-decor">Home Decor</a></li>
+          <li><a href="{{ site.baseurl }}/topics/smart-home">Smart Home</a></li>
+          <li><a href="{{ site.baseurl }}/topics/kitchen">Kitchen & Cooking</a></li>
+          <li><a href="{{ site.baseurl }}/topics/lighting">Lighting</a></li>
+          <li><a href="{{ site.baseurl }}/topics/organization">Organization</a></li>
+          <li><a href="{{ site.baseurl }}/best-picks">Editor's Best Picks</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Popular Guides</h4>
+        <ul>
+          {% for post in site.posts limit: 5 %}
+          <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncatewords: 6 }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>About HomeFinds</h4>
+        <ul>
+          <li><a href="{{ site.baseurl }}/about">Our Mission</a></li>
+          <li><a href="{{ site.baseurl }}/affiliate-disclosure">Affiliate Disclosure</a></li>
+          <li><a href="{{ site.baseurl }}/privacy-policy">Privacy Policy</a></li>
+          <li><a href="{{ site.baseurl }}/contact">Contact Us</a></li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; {{ site.time | date: "%Y" }} HomeFinds. All rights reserved.</p>
+      <div class="footer-bottom-links">
+        <a href="{{ site.baseurl }}/privacy-policy">Privacy</a>
+        <a href="{{ site.baseurl }}/affiliate-disclosure">Disclosure</a>
+        <a href="{{ site.baseurl }}/contact">Contact</a>
+      </div>
+    </div>
+
+  </div>
+</footer>

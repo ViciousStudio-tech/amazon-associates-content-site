@@ -1,7 +1,5 @@
 ---
 layout: home
 title: Home
+description: Expert-researched buying guides and product reviews for your home and lifestyle. Find the best-rated products for every room.
 ---
-# Product Reviews & Buying Guides
-
-Welcome! Find expert reviews and in-depth buying guides below.

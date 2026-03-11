@@ -1,0 +1,74 @@
+<header class="site-header">
+
+  <!-- TOP BAR -->
+  <div class="top-bar">
+    <div class="container">
+      <span class="top-bar-text">Expert-researched product guides you can trust</span>
+      <div class="top-bar-links">
+        <a href="{{ site.baseurl }}/about">About</a>
+        <a href="{{ site.baseurl }}/affiliate-disclosure">Disclosure</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- MAIN NAV -->
+  <div class="main-nav-wrap">
+    <div class="container nav-container">
+
+      <!-- LOGO -->
+      <a href="{{ site.baseurl }}/" class="site-logo">
+        <span class="logo-icon">⌂</span>
+        <div class="logo-text">
+          <span class="logo-name">HomeFinds</span>
+          <span class="logo-tagline">Guides &amp; Reviews</span>
+        </div>
+      </a>
+
+      <!-- NAV LINKS -->
+      <nav class="main-nav">
+        <a href="{{ site.baseurl }}/topics/home-decor">Home Decor</a>
+        <a href="{{ site.baseurl }}/topics/smart-home">Smart Home</a>
+        <a href="{{ site.baseurl }}/topics/kitchen">Kitchen</a>
+        <a href="{{ site.baseurl }}/topics/lighting">Lighting</a>
+        <a href="{{ site.baseurl }}/topics/organization">Organization</a>
+        <a href="{{ site.baseurl }}/best-picks" class="nav-highlight">Best Picks</a>
+      </nav>
+
+      <!-- SEARCH -->
+      <div class="nav-search">
+        <button class="search-toggle" aria-label="Search" onclick="document.getElementById('search-overlay').classList.toggle('active')">
+          <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        </button>
+      </div>
+
+      <!-- MOBILE MENU TOGGLE -->
+      <button class="mobile-menu-toggle" onclick="document.getElementById('mobile-menu').classList.toggle('open')">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+
+  <!-- MOBILE MENU -->
+  <div class="mobile-menu" id="mobile-menu">
+    <nav>
+      <a href="{{ site.baseurl }}/">Home</a>
+      <a href="{{ site.baseurl }}/topics/home-decor">Home Decor</a>
+      <a href="{{ site.baseurl }}/topics/smart-home">Smart Home</a>
+      <a href="{{ site.baseurl }}/topics/kitchen">Kitchen</a>
+      <a href="{{ site.baseurl }}/topics/lighting">Lighting</a>
+      <a href="{{ site.baseurl }}/topics/organization">Organization</a>
+      <a href="{{ site.baseurl }}/best-picks">Best Picks</a>
+      <a href="{{ site.baseurl }}/about">About</a>
+    </nav>
+  </div>
+
+</header>
+
+<!-- SEARCH OVERLAY -->
+<div class="search-overlay" id="search-overlay">
+  <div class="search-overlay-inner">
+    <button class="search-close" onclick="document.getElementById('search-overlay').classList.remove('active')">✕</button>
+    <input type="search" id="search-input" placeholder="Search guides... (e.g. 'best LED lights')" oninput="runSearch(this.value)" autocomplete="off">
+    <div id="search-results" class="search-results"></div>
+  </div>
+</div>

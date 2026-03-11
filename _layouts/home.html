@@ -1,0 +1,132 @@
+---
+layout: default
+---
+
+<div class="homepage">
+
+  <!-- HERO: Featured Article -->
+  {% assign featured = site.posts.first %}
+  {% if featured %}
+  <section class="hero">
+    <div class="container">
+      <div class="hero-inner">
+        <div class="hero-content">
+          <span class="hero-label">Editor's Pick</span>
+          <a href="{{ featured.url | prepend: site.baseurl }}">
+            <h1 class="hero-title">{{ featured.title }}</h1>
+          </a>
+          <p class="hero-excerpt">{{ featured.description | default: featured.excerpt | strip_html | truncatewords: 25 }}</p>
+          <a href="{{ featured.url | prepend: site.baseurl }}" class="btn-primary">Read the Guide →</a>
+        </div>
+        <div class="hero-image">
+          <div class="hero-image-placeholder">
+            <div class="hero-category-badge">{{ featured.categories | first | replace: '-', ' ' | capitalize }}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  {% endif %}
+
+  <!-- CATEGORY TABS -->
+  <section class="category-strip">
+    <div class="container">
+      <div class="category-pills">
+        <a href="{{ site.baseurl }}/" class="pill active">All</a>
+        {% for cat in site.categories_list %}
+        <a href="{{ site.baseurl }}/topics/{{ cat.slug }}" class="pill">{{ cat.name }}</a>
+        {% endfor %}
+        <a href="{{ site.baseurl }}/topics/home-decor-aesthetic" class="pill">Home Decor</a>
+        <a href="{{ site.baseurl }}/topics/smart-home" class="pill">Smart Home</a>
+        <a href="{{ site.baseurl }}/topics/kitchen" class="pill">Kitchen</a>
+        <a href="{{ site.baseurl }}/topics/lighting" class="pill">Lighting</a>
+        <a href="{{ site.baseurl }}/topics/organization" class="pill">Organization</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- LATEST ARTICLES GRID -->
+  <section class="articles-section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">Latest Guides</h2>
+        <p class="section-sub">Expert-researched product recommendations</p>
+      </div>
+
+      <div class="article-grid">
+        {% for post in site.posts limit: 12 %}
+        {% unless forloop.first %}
+        <article class="article-card">
+          <a href="{{ post.url | prepend: site.baseurl }}" class="card-image-link">
+            <div class="card-image">
+              <div class="card-image-inner">
+                <span class="card-category">{{ post.categories | first | replace: '-', ' ' | replace: 'aesthetic', '' | strip | capitalize }}</span>
+              </div>
+            </div>
+          </a>
+          <div class="card-body">
+            <a href="{{ post.url | prepend: site.baseurl }}" class="card-title-link">
+              <h3 class="card-title">{{ post.title }}</h3>
+            </a>
+            <p class="card-excerpt">{{ post.description | default: post.excerpt | strip_html | truncatewords: 18 }}</p>
+            <div class="card-footer">
+              <time class="card-date">{{ post.date | date: "%b %d, %Y" }}</time>
+              <a href="{{ post.url | prepend: site.baseurl }}" class="card-read-more">Read Guide →</a>
+            </div>
+          </div>
+        </article>
+        {% endunless %}
+        {% endfor %}
+      </div>
+
+      <div class="load-more-wrap">
+        <a href="{{ site.baseurl }}/archive" class="btn-outline">View All Guides</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- TRUST STRIP -->
+  <section class="trust-strip">
+    <div class="container">
+      <div class="trust-grid">
+        <div class="trust-item">
+          <div class="trust-icon">✓</div>
+          <div>
+            <strong>Expert-Researched</strong>
+            <p>Every guide is thoroughly researched before we recommend anything.</p>
+          </div>
+        </div>
+        <div class="trust-item">
+          <div class="trust-icon">★</div>
+          <div>
+            <strong>Top-Rated Picks</strong>
+            <p>We only surface products with proven track records and strong reviews.</p>
+          </div>
+        </div>
+        <div class="trust-item">
+          <div class="trust-icon">↗</div>
+          <div>
+            <strong>Updated Regularly</strong>
+            <p>Our guides are refreshed to reflect the latest models and best prices.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- NEWSLETTER -->
+  <section class="newsletter-section">
+    <div class="container">
+      <div class="newsletter-inner">
+        <h3>Get Our Best Picks Weekly</h3>
+        <p>Join thousands of readers who get our top-rated product roundups delivered every week.</p>
+        <form class="newsletter-form" onsubmit="return false;">
+          <input type="email" placeholder="Your email address" class="newsletter-input">
+          <button type="submit" class="btn-primary">Subscribe Free</button>
+        </form>
+        <p class="newsletter-fine">No spam, ever. Unsubscribe anytime.</p>
+      </div>
+    </div>
+  </section>
+
+</div>
