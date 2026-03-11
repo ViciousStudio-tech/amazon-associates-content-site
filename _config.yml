@@ -3,6 +3,7 @@ description: "Expert reviews and buying guides to help you find the best product
 url: "https://viciousstudio-tech.github.io"
 baseurl: "/amazon-associates-content-site"
 theme: minima
+permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-feed
   - jekyll-sitemap
