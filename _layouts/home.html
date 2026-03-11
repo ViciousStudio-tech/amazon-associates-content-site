@@ -19,7 +19,7 @@ layout: default
           <a href="{{ featured.url | prepend: site.baseurl }}" class="btn-primary">Read the Guide →</a>
         </div>
         <div class="hero-image">
-          <div class="hero-image-placeholder">
+          <div class="hero-image-placeholder" {% if featured.image %}style="background-image: url('{{ featured.image }}'); background-size: cover; background-position: center; border-radius: 12px;"{% endif %}>
             <div class="hero-category-badge">{{ featured.categories | first | replace: '-', ' ' | capitalize }}</div>
           </div>
         </div>
@@ -58,7 +58,7 @@ layout: default
         {% unless forloop.first %}
         <article class="article-card">
           <a href="{{ post.url | prepend: site.baseurl }}" class="card-image-link">
-            <div class="card-image">
+            <div class="card-image" {% if post.image %}style="background-image: url('{{ post.image }}'); background-size: cover; background-position: center;"{% endif %}>
               <div class="card-image-inner">
                 <span class="card-category">{{ post.categories | first | replace: '-', ' ' | replace: 'aesthetic', '' | strip | capitalize }}</span>
               </div>

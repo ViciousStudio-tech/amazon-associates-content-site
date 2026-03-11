@@ -4,6 +4,7 @@ title: "Best Holiday Mantle Garland With Lights"
 date: 2026-03-11
 categories: [home-decor]
 description: "Looking for the best holiday mantle garland with lights? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
+image: https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?w=800&auto=format&fit=crop&q=80
 affiliate: true
 ---
 

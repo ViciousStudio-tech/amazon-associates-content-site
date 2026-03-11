@@ -4,6 +4,7 @@ title: "Best Wireless Led Strips Under 100"
 date: 2026-03-11
 categories: [ambient-lighting]
 description: "Looking for the best wireless led strips under 100? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
+image: https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?w=800&auto=format&fit=crop&q=80
 affiliate: true
 ---
 

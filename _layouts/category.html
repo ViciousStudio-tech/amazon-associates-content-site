@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<div class="category-page">
+  <div class="container">
+    <div class="category-header">
+      <h1>{{ page.title }}</h1>
+      <p class="category-subtitle">Expert-researched guides and product reviews</p>
+    </div>
+
+    <div class="article-grid">
+      {% assign cat_posts = site.posts %}
+      {% if page.featured %}
+        {% assign cat_posts = site.posts | slice: 0, 20 %}
+      {% else %}
+        {% assign cat_slug = page.category | replace: '-', ' ' %}
+        {% assign cat_posts = site.posts | where_exp: "post", "post.categories contains page.category" %}
+        {% if cat_posts.size == 0 %}
+          {% assign cat_posts = site.posts | slice: 0, 12 %}
+        {% endif %}
+      {% endif %}
+
+      {% for post in cat_posts limit: 24 %}
+      <article class="article-card">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="card-image-link">
+          <div class="card-image" {% if post.image %} style="background-image: url('{{ post.image }}'); background-size: cover; background-position: center;" {% endif %}>
+            {% unless post.image %}
+            <div class="card-img-placeholder"></div>
+            {% endunless %}
+            <span class="card-category">{{ post.categories | first | replace: '-', ' ' | upcase }}</span>
+          </div>
+        </a>
+        <div class="card-content">
+          <h2 class="card-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          <p class="card-excerpt">{{ post.description | default: post.excerpt | strip_html | truncate: 120 }}</p>
+          <div class="card-meta">
+            <span class="card-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">READ GUIDE →</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</div>

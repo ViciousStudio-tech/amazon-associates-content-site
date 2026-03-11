@@ -4,6 +4,7 @@ title: "Best Philips Hue Alternatives Under 100"
 date: 2026-03-11
 categories: [ambient-lighting]
 description: "Looking for the best philips hue alternatives under 100? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
+image: https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&auto=format&fit=crop&q=80
 affiliate: true
 ---
 

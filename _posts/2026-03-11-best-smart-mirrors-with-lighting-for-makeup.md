@@ -4,6 +4,7 @@ title: "Best Smart Mirrors With Lighting for Makeup"
 date: 2026-03-11
 categories: [home-decor]
 description: "Looking for the best smart mirrors with lighting for makeup? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
+image: https://images.unsplash.com/photo-1558002038-1055907df827?w=800&auto=format&fit=crop&q=80
 affiliate: true
 ---
 

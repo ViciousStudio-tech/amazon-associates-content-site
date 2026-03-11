@@ -4,6 +4,7 @@ title: "Christmas Smart Light Outdoor Projector"
 date: 2026-03-11
 categories: [smart-home-devices]
 description: "Looking for the christmas smart light outdoor projector? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
+image: https://images.unsplash.com/photo-1558002038-1055907df827?w=800&auto=format&fit=crop&q=80
 affiliate: true
 ---
 
