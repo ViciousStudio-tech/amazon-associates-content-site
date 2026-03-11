@@ -22,12 +22,14 @@ jobs:
           GMAIL_SENDER: ${{ secrets.GMAIL_SENDER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           GMAIL_TO: ${{ secrets.GMAIL_TO }}
+          AMAZON_ASSOCIATE_TAG: ${{ secrets.AMAZON_ASSOCIATE_TAG }}
           DB_PATH: ./data/business1.db
         run: python b1_monitor.py
       - name: Save monitor results
         run: |
           git config user.name "Monitor Bot"
           git config user.email "monitor@amazon-empire.local"
-          git add dashboard_data.json heartbeat_monitor.json || true
-          git diff --staged --quiet || git commit -m "Monitor update $(date +%Y-%m-%d\ %H:%M)"
-          git push || true
+          mkdir -p data
+          git add -f dashboard_data.json heartbeat_monitor.json last_digest_sent.txt data/ 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "Monitor update $(date +%Y-%m-%d\ %H:%M) [skip ci]"
+          git push origin main || true
