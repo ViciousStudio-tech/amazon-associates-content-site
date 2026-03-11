@@ -35,7 +35,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           AMAZON_ASSOCIATE_TAG: ${{ secrets.AMAZON_ASSOCIATE_TAG }}
           DB_PATH: ./data/business1.db
-          ARTICLES_PER_RUN: "3"
+          ARTICLES_PER_RUN: "15"
         run: python b1_article_writer.py
 
       - name: Step 3 — Publish to GitHub Pages
