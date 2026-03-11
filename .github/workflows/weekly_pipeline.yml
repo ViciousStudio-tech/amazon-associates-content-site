@@ -49,9 +49,11 @@ jobs:
         run: |
           git config user.name "Amazon Empire Bot"
           git config user.email "bot@amazon-empire.local"
-          git add data/business1.db heartbeat_*.json dashboard_data.json || true
-          git diff --staged --quiet || git commit -m "Auto: weekly pipeline run $(date +%Y-%m-%d)"
-          git push || true
+          mkdir -p data
+          git add -f data/business1.db heartbeat_*.json dashboard_data.json last_digest_sent.txt 2>/dev/null || true
+          git status
+          git diff --staged --quiet || git commit -m "Auto: weekly pipeline run $(date +%Y-%m-%d) [skip ci]"
+          git push origin main || true
 
 ---
 # Separate workflow: monitor runs every 6 hours
