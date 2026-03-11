@@ -54,6 +54,3 @@ jobs:
           git status
           git diff --staged --quiet || git commit -m "Auto: weekly pipeline run $(date +%Y-%m-%d) [skip ci]"
           git push origin main || true
-
----
-# Separate workflow: monitor runs every 6 hours

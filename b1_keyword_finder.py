@@ -53,10 +53,11 @@ def init_db():
 
 # ── Core logic ────────────────────────────────────────────────────────────────
 NICHE_CATEGORIES = [
-    "Home Decor & Aesthetic", "LED & Ambient Lighting", "Kitchen Gadgets & Organizers",
-    "Smart Home Devices", "Wall Art & Prints", "Storage & Organization",
-    "Cozy Home Essentials", "Desk & Workspace Setup", "Indoor Plants & Planters",
-    "Minimalist Home Accessories"
+    "Home Decor",
+    "Kitchen Gadgets",
+    "Smart Home",
+    "Ambient Lighting",
+    "Organization & Storage",
 ]
 
 SYSTEM_PROMPT = """You are an expert Amazon affiliate keyword researcher with 10 years of experience.

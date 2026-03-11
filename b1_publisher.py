@@ -3,6 +3,7 @@ b1_publisher.py
 Pushes _posts/*.md articles to a GitHub repo for Jekyll / GitHub Pages publishing.
 """
 
+from __future__ import annotations
 import os, json, sqlite3, logging, time, base64
 from datetime import datetime
 from pathlib import Path
