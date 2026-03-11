@@ -1,8 +1,8 @@
-name: "HomeFinds"
-title: "HomeFinds — Home & Lifestyle Buying Guides"
+name: "DwellPicks"
+title: "DwellPicks — Home & Lifestyle Buying Guides"
 description: "Expert-researched product reviews and buying guides for your home, kitchen, smart home, and lifestyle. Find the best products, tested and curated."
-url: "https://viciousstudio-tech.github.io"
-baseurl: "/amazon-associates-content-site"
+url: "https://www.dwellpicks.com"
+baseurl: ""
 permalink: /:year/:month/:day/:title/
 
 # NO external theme — using custom layout

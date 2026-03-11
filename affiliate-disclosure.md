@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Affiliate Disclosure
-description: HomeFinds affiliate disclosure — how we earn and how it affects our recommendations.
+description: DwellPicks affiliate disclosure — how we earn and how it affects our recommendations.
 ---
 
 <div class="container" style="max-width:760px; padding:60px 24px;">
   <h1 style="font-family:var(--font-serif);font-size:36px;color:var(--navy);margin-bottom:24px;">Affiliate Disclosure</h1>
 
-  <p><strong>HomeFinds participates in the Amazon Services LLC Associates Program</strong>, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.</p>
+  <p><strong>DwellPicks participates in the Amazon Services LLC Associates Program</strong>, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.</p>
 
   <p style="margin-top:18px;">This means that when you click on certain product links on this site and make a purchase on Amazon, we may receive a small commission — at no additional cost to you.</p>
 
@@ -19,5 +19,5 @@ description: HomeFinds affiliate disclosure — how we earn and how it affects o
   <p style="margin-top:18px;">Our goal is to earn your trust over the long term. Recommending bad products for a quick commission would destroy that trust — and our business along with it.</p>
 
   <h2 style="font-family:var(--font-serif);font-size:22px;color:var(--navy);margin-top:32px;margin-bottom:12px;">Questions?</h2>
-  <p>If you have questions about our affiliate relationships or editorial process, please <a href="/amazon-associates-content-site/contact" style="color:var(--accent);">contact us</a>.</p>
+  <p>If you have questions about our affiliate relationships or editorial process, please <a href="contact" style="color:var(--accent);">contact us</a>.</p>
 </div>
