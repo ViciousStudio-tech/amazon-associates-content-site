@@ -49,7 +49,7 @@ def check_heartbeats() -> dict:
     for module, config in MODULE_SCHEDULES.items():
         hb_file = Path(config["file"])
         if not hb_file.exists():
-            results[module] = {"status": "never_run", "age_hours": None, "ok": False}
+            results[module] = {"status": "pending_first_run", "age_hours": None, "ok": True}
             continue
         try:
             data = json.loads(hb_file.read_text())
@@ -136,11 +136,13 @@ def send_email_digest(heartbeats: dict, apis: dict, db_stats: dict):
 
     now = datetime.now().strftime("%B %d, %Y %H:%M")
 
-    def status_badge(ok: bool) -> str:
+    def status_badge(ok: bool, status: str = "") -> str:
+        if status == "pending_first_run":
+            return "⏳ PENDING"
         return "🟢 OK" if ok else "🔴 ERROR"
 
     hb_rows = "".join(
-        f"<tr><td><b>{m}</b></td><td>{v.get('age_hours','?')}h ago</td><td>{status_badge(v['ok'])}</td></tr>"
+        f"<tr><td><b>{m}</b></td><td>{'Not yet run' if v.get('status') == 'pending_first_run' else str(v.get('age_hours','?')) + 'h ago'}</td><td>{status_badge(v['ok'], v.get('status',''))}</td></tr>"
         for m, v in heartbeats.items()
     )
     api_rows = "".join(
