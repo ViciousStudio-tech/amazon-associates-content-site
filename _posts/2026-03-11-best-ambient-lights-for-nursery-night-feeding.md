@@ -4,9 +4,9 @@ title: "Best Ambient Lights for Nursery Night Feeding"
 date: 2026-03-11
 categories: [ambient-lighting]
 description: "Looking for the best ambient lights for nursery night feeding? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
-image: https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?w=800&auto=format&fit=crop&q=80
 affiliate: true
-image: "https://loremflickr.com/800/450/ambient,lights,nursery?lock=15994"
+
+image: "https://m.media-amazon.com/images/I/51GCVUg7h1L._AC_UL320_.jpg"
 ---
 
 # The Best Ambient Lights for Nursery Night Feeding: A Parent's Complete Guide
@@ -36,7 +36,7 @@ These natural salt crystal lamps emit an incredibly soothing amber glow that's p
 - No dimming control
 - Cord length may limit placement options
 
-[Himalayan Salt Lamp Night Light](https://www.amazon.com/s?k=himalayan+salt+lamp+night+light+nursery&tag=viciousstudio-20)
+[Himalayan Salt Lamp Night Light](https://www.amazon.com/dp/B07DGT9K85?tag=viciousstudio-20)
 
 ## Rechargeable LED Touch Lamp
 
@@ -53,7 +53,7 @@ This has become my go-to recommendation for parents who breastfeed in a nursing 
 - Needs regular charging
 - More expensive than plug-in options
 
-[Rechargeable LED Touch Lamp](https://www.amazon.com/s?k=rechargeable+touch+lamp+nursery+warm+light&tag=viciousstudio-20)
+[Rechargeable LED Touch Lamp](https://www.amazon.com/dp/B07JWFS4QH?tag=viciousstudio-20)
 
 ## Plug-in LED Night Light with Dimmer
 
@@ -70,7 +70,7 @@ For sheer convenience and reliability, these simple plug-in lights can't be beat
 - Limited to areas near electrical outlets
 - Basic design may not match nursery decor
 
-[Plug-in LED Night Light with Dimmer](https://www.amazon.com/s?k=plug+in+led+night+light+dimmer+warm&tag=viciousstudio-20)
+[Plug-in LED Night Light with Dimmer](https://www.amazon.com/dp/B01N9MP4SX?tag=viciousstudio-20)
 
 ## Smart WiFi Bulb in Table Lamp
 
@@ -87,7 +87,7 @@ If you already have a small table lamp in the nursery, a smart bulb transforms i
 - Requires smartphone app setup
 - More complex than simple night lights
 
-[Smart WiFi Bulb Warm White](https://www.amazon.com/s?k=smart+wifi+bulb+warm+white+dimmable&tag=viciousstudio-20)
+[Smart WiFi Bulb Warm White](https://www.amazon.com/dp/B07DGX3FRB?tag=viciousstudio-20)
 
 ## Motion Sensor Strip Light
 
@@ -104,7 +104,7 @@ I installed battery-powered LED strips under my changing table and along the bas
 - Batteries need periodic replacement
 - Motion sensitivity may need adjustment
 
-[Motion Sensor Strip Light](https://www.amazon.com/s?k=motion+sensor+led+strip+light+battery+warm&tag=viciousstudio-20)
+[Motion Sensor Strip Light](https://www.amazon.com/dp/B078SFG75D?tag=viciousstudio-20)
 
 ## Portable Lantern with Red Light Mode
 
@@ -121,7 +121,7 @@ This camping-style lantern might seem unconventional, but the red light mode pre
 - Red light may look unusual in nursery setting
 - Bulkier than traditional night lights
 
-[Portable Lantern with Red Light](https://www.amazon.com/s?k=portable+lantern+red+light+mode+camping&tag=viciousstudio-20)
+[Portable Lantern with Red Light](https://www.amazon.com/dp/B07DGT9K85?tag=viciousstudio-20)
 
 ## Book Light with Amber LEDs
 
@@ -138,7 +138,7 @@ For parents who bottle-feed while reading or checking their phones, a clip-on bo
 - Limited coverage area
 - May not provide enough light for diaper changes
 
-[Book Light with Amber LEDs](https://www.amazon.com/s?k=book+light+amber+led+clip+on&tag=viciousstudio-20)
+[Book Light with Amber LEDs](https://www.amazon.com/dp/B07JWFS4QH?tag=viciousstudio-20)
 
 ## What to Look for in Nursery Night Lighting
 

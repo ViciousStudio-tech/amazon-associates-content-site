@@ -9,6 +9,7 @@ from datetime import datetime
 from pathlib import Path
 from dotenv import load_dotenv
 import anthropic
+from amazon_scraper import scrape_amazon_products
 
 load_dotenv()
 
@@ -33,14 +34,16 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-SYSTEM_PROMPT = f"""You are an expert Amazon affiliate content writer. Your articles rank on Google 
-and convert readers into buyers. You write with genuine authority and specific, helpful detail.
+SYSTEM_PROMPT = f"""You are writing an Amazon affiliate article. You will be given real Amazon products
+with their titles, prices, ratings, and direct product URLs. Link directly to these product pages
+using the exact URLs provided. NEVER use amazon.com/s?k= search URLs. ALWAYS use direct product
+page URLs in format https://www.amazon.com/dp/ASIN?tag={ASSOCIATE_TAG}
 
 Rules:
 - Write 1800-2500 words
-- Target keyword in: H1 title, first 100 words, 2-3 subheadings, conclusion  
-- Include 5-7 specific product recommendations with pros, cons, price range
-- Affiliate links format: [Product Name](https://www.amazon.com/s?k=PRODUCT+SEARCH+QUERY&tag={ASSOCIATE_TAG})
+- Target keyword in: H1 title, first 100 words, 2-3 subheadings, conclusion
+- Include product recommendations using ONLY the real products provided — use their actual titles, prices, and ratings
+- Affiliate links: use the exact product URLs provided (https://www.amazon.com/dp/ASIN?tag={ASSOCIATE_TAG})
 - Use h2 and h3 subheadings generously
 - Write in first-person expert voice — direct, specific, no filler
 - End with a clear "Our Pick" recommendation
@@ -94,22 +97,35 @@ def write_article(client, keyword_data: dict) -> str:
     keyword = keyword_data["keyword"]
     category = keyword_data["category"]
 
-    user_prompt = f"""Write a complete Amazon affiliate article targeting this keyword:
+    # First, scrape real Amazon products for this keyword
+    products = scrape_amazon_products(keyword, ASSOCIATE_TAG, 5)
+    if not products:
+        log.error(f"Scraping blocked for keyword '{keyword}' — skipping article")
+        return None
+
+    # Store products on keyword_data so build_front_matter can access the first image
+    keyword_data["_scraped_products"] = products
+
+    products_json = json.dumps(products, indent=2)
+
+    user_prompt = f"""REAL PRODUCTS (use these exact titles, prices, ratings, and URLs):
+{products_json}
+
+Write a complete Amazon affiliate article targeting this keyword:
 
 Keyword: "{keyword}"
 Category: {category}
 Commission rate for this category: {keyword_data['commission']}
 
-Include 5-7 real Amazon product recommendations. For each product:
-- Give it a descriptive name (not a made-up brand)
-- Include a realistic price range (e.g., "$35-$55")
-- List 2-3 pros and 1-2 cons
-- Create an Amazon search affiliate link in this format:
-  [Product Name](https://www.amazon.com/s?k=SEARCH+TERMS+HERE&tag={ASSOCIATE_TAG})
+Use the real products above for your recommendations. For each product:
+- Use its actual title, price, and rating from the data
+- Link directly to its product page URL (the 'url' field)
+- List 2-3 pros and 1-2 cons based on the product
+- NEVER use amazon.com/s?k= search URLs — ONLY use the direct /dp/ URLs provided
 
 Structure your article with:
 1. Hook intro (address the reader's problem directly)
-2. Quick answer / recommendation summary  
+2. Quick answer / recommendation summary
 3. Detailed product reviews (H2 for each product)
 4. Buying guide section (what to look for)
 5. FAQ section (3-5 questions)
@@ -152,20 +168,26 @@ def save_article(conn, keyword_data: dict, content: str, filename: str):
     except Exception as e:
         log.error(f"DB save error: {e}")
 
-def fetch_article_image(keywords: str) -> str:
-    """Generate a deterministic, keyword-relevant image URL using loremflickr."""
+def fetch_article_image(keyword_data: dict, title: str) -> str:
+    """Get image URL from scraped products, falling back to loremflickr."""
+    # Use first scraped product image if available
+    products = keyword_data.get("_scraped_products", [])
+    if products and products[0].get("image"):
+        return products[0]["image"]
+
+    # Fallback to loremflickr
     stop = {'a','an','the','and','but','or','for','nor','on','at','to','by','in','of','up',
             'with','your','our','is','are','best','top','most','very'}
-    words = [w for w in re.sub(r'[^a-z0-9\s]', '', keywords.lower()).split()
+    words = [w for w in re.sub(r'[^a-z0-9\s]', '', title.lower()).split()
              if w not in stop and len(w) > 2][:3]
     search_term = ",".join(words) if words else "product"
-    lock = int(hashlib.md5(keywords.encode()).hexdigest()[:8], 16) % 100000
+    lock = int(hashlib.md5(title.encode()).hexdigest()[:8], 16) % 100000
     return f"https://loremflickr.com/800/450/{search_term}?lock={lock}"
 
 def build_front_matter(keyword_data: dict, title: str) -> str:
     today = datetime.now().strftime("%Y-%m-%d")
     description = f"Looking for the {keyword_data['keyword']}? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
-    image_url = fetch_article_image(title)
+    image_url = fetch_article_image(keyword_data, title)
     return f"""---
 layout: post
 title: "{title}"
