@@ -6,6 +6,7 @@ categories: [home-decor]
 description: "Looking for the best spring wreath for front door? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
 image: https://images.unsplash.com/photo-1512389142860-9c449e58a543?w=800&auto=format&fit=crop&q=80
 affiliate: true
+image: "https://loremflickr.com/800/450/spring,wreath,front?lock=25087"
 ---
 
 # Best Spring Wreath for Front Door: 7 Beautiful Options That Welcome the Season

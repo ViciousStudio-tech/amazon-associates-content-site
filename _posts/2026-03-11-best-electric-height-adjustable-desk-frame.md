@@ -6,6 +6,7 @@ categories: [desk-workspace-setup]
 description: "Looking for the best electric height adjustable desk frame? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
 image: https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800&auto=format&fit=crop&q=80
 affiliate: true
+image: "https://loremflickr.com/800/450/electric,height,adjustable?lock=8365"
 ---
 
 # Best Electric Height Adjustable Desk Frame: 7 Top Picks for Your Standing Desk Setup

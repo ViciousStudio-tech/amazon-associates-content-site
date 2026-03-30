@@ -6,6 +6,7 @@ categories: [minimalist-home-accessories]
 description: "Looking for the best neutral area rug 5x7? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
 image: https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&auto=format&fit=crop&q=80
 affiliate: true
+image: "https://loremflickr.com/800/450/neutral,area,rug?lock=16550"
 ---
 
 # Best Neutral Area Rug 5x7: 7 Stunning Options That Transform Any Room

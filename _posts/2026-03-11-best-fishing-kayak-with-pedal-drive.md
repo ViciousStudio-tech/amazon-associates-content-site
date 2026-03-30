@@ -6,6 +6,7 @@ categories: [sports-outdoors]
 description: "Looking for the best fishing kayak with pedal drive? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
 image: https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&auto=format&fit=crop&q=80
 affiliate: true
+image: "https://loremflickr.com/800/450/fishing,kayak,pedal?lock=90094"
 ---
 
 # Best Fishing Kayak with Pedal Drive: 7 Top Models That Actually Work in 2024

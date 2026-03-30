@@ -6,6 +6,7 @@ categories: [home-decor]
 description: "Looking for the best cordless table lamps for reading? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
 image: https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=80
 affiliate: true
+image: "https://loremflickr.com/800/450/cordless,table,lamps?lock=36729"
 ---
 
 # Best Cordless Table Lamps for Reading: 7 Top Picks That Actually Work

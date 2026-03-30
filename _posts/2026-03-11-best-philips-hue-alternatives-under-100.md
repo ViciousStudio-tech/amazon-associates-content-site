@@ -6,6 +6,7 @@ categories: [ambient-lighting]
 description: "Looking for the best philips hue alternatives under 100? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
 image: https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&auto=format&fit=crop&q=80
 affiliate: true
+image: "https://loremflickr.com/800/450/philips,hue,alternatives?lock=18434"
 ---
 
 # Best Philips Hue Alternatives Under $100: Smart Lighting That Won't Break the Bank

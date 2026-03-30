@@ -6,6 +6,7 @@ categories: [desk-workspace-setup]
 description: "Looking for the best ergonomic office chair under 300? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
 image: https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800&auto=format&fit=crop&q=80
 affiliate: true
+image: "https://loremflickr.com/800/450/ergonomic,office,chair?lock=38945"
 ---
 
 # The Best Ergonomic Office Chair Under $300: 7 Options That Actually Support Your Back

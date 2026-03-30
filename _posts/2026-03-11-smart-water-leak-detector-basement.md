@@ -6,6 +6,7 @@ categories: [smart-home-devices]
 description: "Looking for the smart water leak detector basement? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
 image: https://images.unsplash.com/photo-1558002038-1055907df827?w=800&auto=format&fit=crop&q=80
 affiliate: true
+image: "https://loremflickr.com/800/450/smart,water,leak?lock=45240"
 ---
 
 # The Best Smart Water Leak Detector for Your Basement: Protect Your Home from Costly Water Damage

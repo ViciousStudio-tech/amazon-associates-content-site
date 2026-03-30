@@ -6,6 +6,7 @@ categories: [home-decor]
 description: "Looking for the best holiday mantle garland with lights? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
 image: https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?w=800&auto=format&fit=crop&q=80
 affiliate: true
+image: "https://loremflickr.com/800/450/holiday,mantle,garland?lock=92112"
 ---
 
 # The Best Holiday Mantle Garland with Lights: Transform Your Fireplace Into a Festive Focal Point

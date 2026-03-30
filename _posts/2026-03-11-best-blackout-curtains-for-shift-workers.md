@@ -6,6 +6,7 @@ categories: [home-decor-aesthetic]
 description: "Looking for the best blackout curtains for shift workers? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
 image: https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&auto=format&fit=crop&q=80
 affiliate: true
+image: "https://loremflickr.com/800/450/blackout,curtains,shift?lock=20950"
 ---
 
 # Best Blackout Curtains for Shift Workers: Sleep Better During Daylight Hours

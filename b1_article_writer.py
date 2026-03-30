@@ -4,7 +4,7 @@ Writes SEO-optimized Amazon affiliate articles using Claude.
 Reads pending keywords from DB. Outputs Markdown files to ./_posts/
 """
 
-import os, json, sqlite3, logging, time, re
+import os, json, sqlite3, logging, time, re, hashlib
 from datetime import datetime
 from pathlib import Path
 from dotenv import load_dotenv
@@ -152,15 +152,27 @@ def save_article(conn, keyword_data: dict, content: str, filename: str):
     except Exception as e:
         log.error(f"DB save error: {e}")
 
+def fetch_article_image(keywords: str) -> str:
+    """Generate a deterministic, keyword-relevant image URL using loremflickr."""
+    stop = {'a','an','the','and','but','or','for','nor','on','at','to','by','in','of','up',
+            'with','your','our','is','are','best','top','most','very'}
+    words = [w for w in re.sub(r'[^a-z0-9\s]', '', keywords.lower()).split()
+             if w not in stop and len(w) > 2][:3]
+    search_term = ",".join(words) if words else "product"
+    lock = int(hashlib.md5(keywords.encode()).hexdigest()[:8], 16) % 100000
+    return f"https://loremflickr.com/800/450/{search_term}?lock={lock}"
+
 def build_front_matter(keyword_data: dict, title: str) -> str:
     today = datetime.now().strftime("%Y-%m-%d")
     description = f"Looking for the {keyword_data['keyword']}? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
+    image_url = fetch_article_image(title)
     return f"""---
 layout: post
 title: "{title}"
 date: {today}
 categories: [{keyword_data['category'].lower().replace(' & ', '-').replace(' ', '-')}]
 description: "{description}"
+image: "{image_url}"
 affiliate: true
 ---
 

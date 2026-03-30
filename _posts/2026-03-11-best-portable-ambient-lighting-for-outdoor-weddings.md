@@ -6,6 +6,7 @@ categories: [ambient-lighting]
 description: "Looking for the best portable ambient lighting for outdoor weddings? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
 image: https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?w=800&auto=format&fit=crop&q=80
 affiliate: true
+image: "https://loremflickr.com/800/450/portable,ambient,lighting?lock=50781"
 ---
 
 # Best Portable Ambient Lighting for Outdoor Weddings: Transform Your Venue Into a Magical Space

@@ -6,6 +6,7 @@ categories: [kitchen-gadgets]
 description: "Looking for the best sous vide machine under 100? Our expert guide covers the top picks with detailed reviews, pros & cons, and a buying guide."
 image: https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&auto=format&fit=crop&q=80
 affiliate: true
+image: "https://loremflickr.com/800/450/sous,vide,machine?lock=79204"
 ---
 
 # Best Sous Vide Machine Under $100: Top Budget Picks for Perfect Precision Cooking
