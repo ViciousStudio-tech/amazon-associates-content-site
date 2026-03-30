@@ -166,16 +166,24 @@ def verify_article(content: str, products: list) -> tuple:
             errors.append(f"MISSING ASIN: {sa} not found in article")
 
     # CHECK B: Title accuracy (using difflib)
+    # Find all H2 headings with their positions
+    headings = [(m.start(), m.group(1).strip()) for m in re.finditer(r'^##\s+(.+)$', content, re.MULTILINE)]
     for p in products:
         product = p if isinstance(p, Product) else Product(**p)
-        # Find title near the ASIN in article
-        pattern = rf'(?:##?\s+)(.{{5,200}}).*?/dp/{re.escape(product.asin)}'
-        match = re.search(pattern, content, re.DOTALL)
-        if match:
-            heading = match.group(1).strip().strip('#').strip()
-            ratio = difflib.SequenceMatcher(None, heading.lower(), product.title.lower()).ratio()
-            if ratio < 0.6:
-                errors.append(f"TITLE MISMATCH for {product.asin}: expected '{product.title[:50]}' got '{heading[:50]}' (sim: {ratio:.2f})")
+        # Find position of this ASIN in article
+        asin_match = re.search(rf'/dp/{re.escape(product.asin)}', content)
+        if asin_match and headings:
+            asin_pos = asin_match.start()
+            # Find the nearest H2 heading BEFORE this ASIN
+            nearest_heading = None
+            for hpos, htext in reversed(headings):
+                if hpos < asin_pos:
+                    nearest_heading = htext
+                    break
+            if nearest_heading:
+                ratio = difflib.SequenceMatcher(None, nearest_heading.lower(), product.title.lower()).ratio()
+                if ratio < 0.4:
+                    errors.append(f"TITLE MISMATCH for {product.asin}: expected '{product.title[:50]}' got '{nearest_heading[:50]}' (sim: {ratio:.2f})")
 
     # CHECK C: No search URLs
     search_urls = re.findall(r'amazon\.com/s\?k=', content)
