@@ -36,9 +36,12 @@ jobs:
         run: python rebuild_v2.py
 
       - name: Commit and push rebuilt articles
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config user.name "Amazon Empire Bot"
           git config user.email "bot@amazon-empire.local"
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/ViciousStudio-tech/amazon-associates-content-site.git
           git add -A
           git status
           git diff --staged --quiet || git commit -m "Rebuild v2: articles with verified real ASINs from SerpApi, zero hallucinations, zero search URLs"
