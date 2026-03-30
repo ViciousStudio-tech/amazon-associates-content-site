@@ -32,7 +32,7 @@ Here are my top picks for the best pantry door organizers over door systems:
 
 This workhorse handles serious storage needs. I've installed these in pantries storing everything from cereal boxes to cleaning supplies, and they consistently perform.
 
-[Heavy-Duty 6-Tier Wire Rack](https://www.amazon.com/dp/B0CNCP4JHG?tag=viciousstudio-20)
+[Heavy-Duty 6-Tier Wire Rack](https://www.amazon.com/s?k=Heavy-Duty+6-Tier+Wire+Rack&tag=viciousstudio-20)
 
 **Pros:**
 - Holds up to 50 pounds total weight capacity
@@ -51,7 +51,7 @@ The spacing between shelves accommodates standard spice jars on top tiers and la
 
 When you need maximum flexibility, this system delivers. Each basket adjusts independently, letting you customize storage for your specific needs.
 
-[Adjustable 8-Basket Pantry System](https://www.amazon.com/dp/B0CYZLPJFS?tag=viciousstudio-20)
+[Adjustable 8-Basket Pantry System](https://www.amazon.com/s?k=Adjustable+8-Basket+Pantry+System&tag=viciousstudio-20)
 
 **Pros:**
 - Eight moveable baskets accommodate changing storage needs
@@ -70,7 +70,7 @@ I particularly appreciate how the baskets tilt forward slightly, making it easy 
 
 For smaller pantries or doors that swing close to walls, this slim organizer maximizes storage without eating up space.
 
-[Narrow Profile 4-Shelf Unit](https://www.amazon.com/dp/B0D8M2GMKB?tag=viciousstudio-20)
+[Narrow Profile 4-Shelf Unit](https://www.amazon.com/s?k=Narrow+Profile+4-Shelf+Unit&tag=viciousstudio-20)
 
 **Pros:**
 - Only 4 inches deep—won't interfere with door closing
@@ -89,7 +89,7 @@ This organizer excels in apartments or condos where every inch counts. The narro
 
 Built like a commercial kitchen organizer, this premium unit handles heavy use and maximum loads.
 
-[Premium Steel Multi-Rack Organizer](https://www.amazon.com/dp/B0C4LPSQP3?tag=viciousstudio-20)
+[Premium Steel Multi-Rack Organizer](https://www.amazon.com/s?k=Premium+Steel+Multi-Rack+Organizer&tag=viciousstudio-20)
 
 **Pros:**
 - Heavy-gauge steel construction supports up to 70 pounds
@@ -108,7 +108,7 @@ The investment pays off in durability. I've seen these units perform flawlessly 
 
 Dedicated spice storage that actually makes sense. This specialized organizer keeps spices visible and accessible.
 
-[Compact 3-Tier Spice Organizer](https://www.amazon.com/dp/B0DLWJ85VV?tag=viciousstudio-20)
+[Compact 3-Tier Spice Organizer](https://www.amazon.com/s?k=Compact+3-Tier+Spice+Organizer&tag=viciousstudio-20)
 
 **Pros:**
 - Three narrow shelves perfectly sized for spice jars
@@ -127,7 +127,7 @@ The angled shelf design is brilliant—you can read spice labels at a glance ins
 
 For families who buy in bulk or store larger pantry items, these wide baskets handle the job.
 
-[Wide-Basket Pantry Caddy](https://www.amazon.com/dp/B0CNCP4JHG?tag=viciousstudio-20)
+[Wide-Basket Pantry Caddy](https://www.amazon.com/s?k=Wide-Basket+Pantry+Caddy&tag=viciousstudio-20)
 
 **Pros:**
 - Extra-wide baskets accommodate bulk items and large containers
@@ -192,7 +192,7 @@ Wipe down weekly with a damp cloth and mild detergent. For wire organizers, remo
 
 ## Our Top Pick: Heavy-Duty 6-Tier Wire Rack
 
-After testing numerous options, the [Heavy-Duty 6-Tier Wire Rack](https://www.amazon.com/dp/B0CYZLPJFS?tag=viciousstudio-20) delivers the best combination of storage capacity, durability, and value. Its six shelves provide ample space for everything from spices to cereal boxes, while the 50-pound weight capacity handles real-world storage needs.
+After testing numerous options, the [Heavy-Duty 6-Tier Wire Rack](https://www.amazon.com/s?k=Heavy-Duty+6-Tier+Wire+Rack&tag=viciousstudio-20) delivers the best combination of storage capacity, durability, and value. Its six shelves provide ample space for everything from spices to cereal boxes, while the 50-pound weight capacity handles real-world storage needs.
 
 The wire construction allows excellent airflow, preventing moisture buildup that can damage packaging. At $45-$65, it's priced fairly for the quality and capacity provided. While assembly takes some time, the result is a robust storage solution that transforms wasted door space into a highly functional pantry extension.
 

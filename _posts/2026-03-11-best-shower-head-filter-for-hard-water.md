@@ -33,7 +33,7 @@ That's when I discovered shower head filters specifically designed for hard wate
 
 **Price:** $35-45
 
-The [AquaBliss High Output Universal Shower Filter](https://www.amazon.com/dp/B0C85RLCZ7?tag=viciousstudio-20) has been my go-to recommendation for most people dealing with hard water. This filter uses a 12-stage filtration system that effectively removes chlorine, heavy metals, and reduces mineral buildup.
+The [AquaBliss High Output Universal Shower Filter](https://www.amazon.com/s?k=AquaBliss+High+Output+Universal+Shower+Filter&tag=viciousstudio-20) has been my go-to recommendation for most people dealing with hard water. This filter uses a 12-stage filtration system that effectively removes chlorine, heavy metals, and reduces mineral buildup.
 
 **Pros:**
 - 12-stage filtration system provides comprehensive water treatment
@@ -51,7 +51,7 @@ The [AquaBliss High Output Universal Shower Filter](https://www.amazon.com/dp/B0
 
 **Price:** $25-35
 
-The [Culligan WSH-C125](https://www.amazon.com/dp/B01MUBU0YC?tag=viciousstudio-20) is perfect if you want an all-in-one solution. This shower head comes with built-in filtration and offers excellent value for money.
+The [Culligan WSH-C125](https://www.amazon.com/s?k=Culligan+WSH-C125&tag=viciousstudio-20) is perfect if you want an all-in-one solution. This shower head comes with built-in filtration and offers excellent value for money.
 
 **Pros:**
 - Integrated design eliminates need for separate filter housing
@@ -70,7 +70,7 @@ The [Culligan WSH-C125](https://www.amazon.com/dp/B01MUBU0YC?tag=viciousstudio-2
 
 **Price:** $40-55
 
-For those who don't want to compromise on luxury while filtering hard water, the [AquaHomeGroup Luxury Filtered Shower Head](https://www.amazon.com/dp/B08RJ93846?tag=viciousstudio-20) delivers premium performance and features.
+For those who don't want to compromise on luxury while filtering hard water, the [AquaHomeGroup Luxury Filtered Shower Head](https://www.amazon.com/s?k=AquaHomeGroup+Luxury+Filtered+Shower+Head&tag=viciousstudio-20) delivers premium performance and features.
 
 **Pros:**
 - 15-stage filtration system for maximum water purification
@@ -89,7 +89,7 @@ For those who don't want to compromise on luxury while filtering hard water, the
 
 **Price:** $30-40
 
-The [Sprite Showers HO2-WH-M](https://www.amazon.com/dp/B072YXV467?tag=viciousstudio-20) excels at chlorine removal while also addressing hard water minerals. Sprite has been in the shower filtration business for decades, and their experience shows.
+The [Sprite Showers HO2-WH-M](https://www.amazon.com/s?k=Sprite+Showers+HO2-WH-M&tag=viciousstudio-20) excels at chlorine removal while also addressing hard water minerals. Sprite has been in the shower filtration business for decades, and their experience shows.
 
 **Pros:**
 - Patented KDF-55 and chlorgon filtration media
@@ -108,7 +108,7 @@ The [Sprite Showers HO2-WH-M](https://www.amazon.com/dp/B072YXV467?tag=viciousst
 
 **Price:** $20-30
 
-If you're looking for basic hard water filtration on a tight budget, the [Captain Eco Universal Shower Filter](https://www.amazon.com/dp/B01MUBU0YC?tag=viciousstudio-20) provides decent performance without breaking the bank.
+If you're looking for basic hard water filtration on a tight budget, the [Captain Eco Universal Shower Filter](https://www.amazon.com/s?k=Captain+Eco+Universal+Shower+Filter&tag=viciousstudio-20) provides decent performance without breaking the bank.
 
 **Pros:**
 - Most affordable option on the list

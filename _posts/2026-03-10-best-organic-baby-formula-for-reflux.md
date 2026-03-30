@@ -44,7 +44,7 @@ Earth's Best has been my go-to recommendation for parents dealing with reflux is
 - Can be more expensive than conventional formulas
 - May take 2-3 days for baby to adjust to taste
 
-[Earth's Best Organic Sensitivity Formula](https://www.amazon.com/dp/B01AHZ5J4O?tag=viciousstudio-20)
+[Earth's Best Organic Sensitivity Formula](https://www.amazon.com/s?k=Earth%27s+Best+Organic+Sensitivity+Formula&tag=viciousstudio-20)
 
 ### Happy Baby Organics Sensitive Formula
 
@@ -61,7 +61,7 @@ Happy Baby's sensitive formula stands out for its dual prebiotic blend and organ
 - Higher price point
 - Powder can be slightly clumpy when mixing
 
-[Happy Baby Organics Sensitive Formula](https://www.amazon.com/dp/B0081XPTBS?tag=viciousstudio-20)
+[Happy Baby Organics Sensitive Formula](https://www.amazon.com/s?k=Happy+Baby+Organics+Sensitive+Formula&tag=viciousstudio-20)
 
 ### Similac Organic A2 Formula
 
@@ -78,7 +78,7 @@ This premium organic formula features A2 beta-casein protein, which many babies 
 - Most expensive option on this list
 - Limited availability in some regions
 
-[Similac Organic A2 Formula](https://www.amazon.com/dp/B07B218Q5V?tag=viciousstudio-20)
+[Similac Organic A2 Formula](https://www.amazon.com/s?k=Similac+Organic+A2+Formula&tag=viciousstudio-20)
 
 ### Baby's Only Organic LactoRelief Formula
 
@@ -95,7 +95,7 @@ For babies with both reflux and lactose sensitivity, this formula is a game-chan
 - Not suitable for babies who need lactose for development
 - Corn syrup solids may concern some parents
 
-[Baby's Only Organic LactoRelief Formula](https://www.amazon.com/dp/B0D2YBBBBD?tag=viciousstudio-20)
+[Baby's Only Organic LactoRelief Formula](https://www.amazon.com/s?k=Baby%27s+Only+Organic+LactoRelief+Formula&tag=viciousstudio-20)
 
 ### Plum Organics Gentle Formula
 
@@ -112,7 +112,7 @@ Plum Organics offers an affordable entry point into organic formulas for reflux.
 - Less specialized for severe reflux cases
 - Fewer premium ingredients compared to higher-priced options
 
-[Plum Organics Gentle Formula](https://www.amazon.com/dp/B01AHZ5JOY?tag=viciousstudio-20)
+[Plum Organics Gentle Formula](https://www.amazon.com/s?k=Plum+Organics+Gentle+Formula&tag=viciousstudio-20)
 
 ### Honest Company Organic Gentle Formula
 
@@ -129,7 +129,7 @@ The Honest Company's gentle formula combines organic ingredients with smart nutr
 - May not be strong enough for severe reflux
 - Limited research on long-term digestive benefits
 
-[Honest Company Organic Gentle Formula](https://www.amazon.com/dp/B01AHZ5J4O?tag=viciousstudio-20)
+[Honest Company Organic Gentle Formula](https://www.amazon.com/s?k=Honest+Company+Organic+Gentle+Formula&tag=viciousstudio-20)
 
 ### Nature's One Baby's Only Organic DHA/ARA Formula
 
@@ -146,7 +146,7 @@ This comprehensive organic formula includes additional DHA and ARA while maintai
 - Can be harder to find than mainstream brands
 - Some babies may need time to adjust to the taste
 
-[Nature's One Baby's Only Organic DHA/ARA Formula](https://www.amazon.com/dp/B0081XPTBS?tag=viciousstudio-20)
+[Nature's One Baby's Only Organic DHA/ARA Formula](https://www.amazon.com/s?k=Nature%27s+One+Baby%27s+Only+Organic+DHA%2FARA+Formula&tag=viciousstudio-20)
 
 ## What to Look for in Organic Baby Formula for Reflux
 

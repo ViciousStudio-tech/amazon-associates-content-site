@@ -24,7 +24,7 @@ After spending countless hours researching and testing various desk lamps for ey
 ### BenQ ScreenBar Halo
 **Price: $109**
 
-The [BenQ ScreenBar Halo](https://www.amazon.com/dp/B0DK59YKRS?tag=viciousstudio-20) revolutionized my workspace setup. This innovative monitor light bar eliminates screen glare while providing asymmetric lighting that illuminates your desk without creating reflections.
+The [BenQ ScreenBar Halo](https://www.amazon.com/s?k=BenQ+ScreenBar+Halo&tag=viciousstudio-20) revolutionized my workspace setup. This innovative monitor light bar eliminates screen glare while providing asymmetric lighting that illuminates your desk without creating reflections.
 
 **Pros:**
 - Zero screen glare with patented curved design
@@ -41,7 +41,7 @@ The [BenQ ScreenBar Halo](https://www.amazon.com/dp/B0DK59YKRS?tag=viciousstudio
 ### TaoTronics LED Desk Lamp TT-DL16
 **Price: $79**
 
-I've been impressed by the [TaoTronics LED Desk Lamp](https://www.amazon.com/dp/B08DKQ3JG1?tag=viciousstudio-20) for its comprehensive feature set at a reasonable price. The memory function remembers your preferred settings, which I find incredibly convenient for daily use.
+I've been impressed by the [TaoTronics LED Desk Lamp](https://www.amazon.com/s?k=TaoTronics+LED+Desk+Lamp&tag=viciousstudio-20) for its comprehensive feature set at a reasonable price. The memory function remembers your preferred settings, which I find incredibly convenient for daily use.
 
 **Pros:**
 - Memory function saves favorite settings
@@ -58,7 +58,7 @@ I've been impressed by the [TaoTronics LED Desk Lamp](https://www.amazon.com/dp/
 ### Philips Hue Go Portable Light
 **Price: $80**
 
-The [Philips Hue Go](https://www.amazon.com/dp/B0B6P9J3J5?tag=viciousstudio-20) offers unmatched versatility for those who want smart lighting integration. While not a traditional desk lamp, its color-changing capabilities make it excellent for reducing eye strain throughout the day.
+The [Philips Hue Go](https://www.amazon.com/s?k=Philips+Hue+Go&tag=viciousstudio-20) offers unmatched versatility for those who want smart lighting integration. While not a traditional desk lamp, its color-changing capabilities make it excellent for reducing eye strain throughout the day.
 
 **Pros:**
 - Smart home integration with app control
@@ -76,7 +76,7 @@ The [Philips Hue Go](https://www.amazon.com/dp/B0B6P9J3J5?tag=viciousstudio-20) 
 ### JUKSTG Eye-Caring Desk Lamp
 **Price: $45**
 
-For budget-conscious buyers, the [JUKSTG Eye-Caring Desk Lamp](https://www.amazon.com/dp/B0CZ9P1QW9?tag=viciousstudio-20) delivers impressive eye strain reduction features without breaking the bank. I was surprised by how well it performed considering the price point.
+For budget-conscious buyers, the [JUKSTG Eye-Caring Desk Lamp](https://www.amazon.com/s?k=JUKSTG+Eye-Caring+Desk+Lamp&tag=viciousstudio-20) delivers impressive eye strain reduction features without breaking the bank. I was surprised by how well it performed considering the price point.
 
 **Pros:**
 - Excellent value for money
@@ -94,7 +94,7 @@ For budget-conscious buyers, the [JUKSTG Eye-Caring Desk Lamp](https://www.amazo
 ### Dyson Lightcycle Morph
 **Price: $649**
 
-The [Dyson Lightcycle Morph](https://www.amazon.com/dp/B0CKRJZBTX?tag=viciousstudio-20) represents the pinnacle of desk lamp technology. While expensive, its daylight tracking and heat pipe cooling system create an unparalleled lighting experience.
+The [Dyson Lightcycle Morph](https://www.amazon.com/s?k=Dyson+Lightcycle+Morph&tag=viciousstudio-20) represents the pinnacle of desk lamp technology. While expensive, its daylight tracking and heat pipe cooling system create an unparalleled lighting experience.
 
 **Pros:**
 - Intelligent daylight tracking mimics natural light

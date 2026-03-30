@@ -33,7 +33,7 @@ After extensive testing, here are my top picks for smart doorbells that work ful
 
 The Eufy Security Video Doorbell 2K has been my go-to recommendation for homeowners who want premium features without subscription costs. I installed this at my neighbor's house six months ago, and it's performed flawlessly.
 
-[Eufy Security Video Doorbell 2K](https://www.amazon.com/dp/B0DWXN52ZH?tag=viciousstudio-20)
+[Eufy Security Video Doorbell 2K](https://www.amazon.com/s?k=Eufy+Security+Video+Doorbell+2K&tag=viciousstudio-20)
 
 **Pros:**
 - True 2K resolution provides crystal-clear footage
@@ -54,7 +54,7 @@ The 2K video quality is genuinely impressive. During my testing, I could clearly
 
 Amazon's Ring ecosystem gets a bad rap for subscription pushing, but the basic Ring Video Doorbell Wired actually functions quite well without Ring Protect. I've had this model installed at a rental property for over a year.
 
-[Ring Video Doorbell Wired](https://www.amazon.com/dp/B0G6D8G9B8?tag=viciousstudio-20)
+[Ring Video Doorbell Wired](https://www.amazon.com/s?k=Ring+Video+Doorbell+Wired&tag=viciousstudio-20)
 
 **Pros:**
 - Reliable live view and two-way talk without subscription
@@ -75,7 +75,7 @@ The installation was straightforward—it connects to your existing doorbell wir
 
 Arlo surprised me with this model. While their cameras typically require subscriptions for advanced features, the Essential Video Doorbell offers impressive functionality out of the box.
 
-[Arlo Essential Video Doorbell Wired](https://www.amazon.com/dp/B0FL7BJP5Q?tag=viciousstudio-20)
+[Arlo Essential Video Doorbell Wired](https://www.amazon.com/s?k=Arlo+Essential+Video+Doorbell+Wired&tag=viciousstudio-20)
 
 **Pros:**
 - 180-degree field of view captures packages left to the side
@@ -96,7 +96,7 @@ I tested the local storage extensively, and it works reliably. You can store wee
 
 Google's approach to subscription-free operation focuses on live features rather than storage. While you need Nest Aware for cloud recording, the core doorbell functionality works excellently without any monthly fees.
 
-[Google Nest Doorbell Battery](https://www.amazon.com/dp/B0G2KXL57H?tag=viciousstudio-20)
+[Google Nest Doorbell Battery](https://www.amazon.com/s?k=Google+Nest+Doorbell+Battery&tag=viciousstudio-20)
 
 **Pros:**
 - Excellent integration with Google Assistant and smart displays
@@ -117,7 +117,7 @@ The built-in three-hour rolling storage is clever. It continuously saves the las
 
 AOSU isn't a household name, but this doorbell punches well above its weight class. I discovered it through a security installer who recommended it for budget-conscious clients wanting premium features.
 
-[AOSU Wireless Video Doorbell 2K](https://www.amazon.com/dp/B0CD7NT4Y9?tag=viciousstudio-20)
+[AOSU Wireless Video Doorbell 2K](https://www.amazon.com/s?k=AOSU+Wireless+Video+Doorbell+2K&tag=viciousstudio-20)
 
 **Pros:**
 - Exceptional 6-month battery life in testing
@@ -138,7 +138,7 @@ The 2K video quality rivals much more expensive models. Night vision performs we
 
 Reolink built their reputation on security cameras, and that expertise shows in their doorbell. This model prioritizes local control and storage over cloud-dependent features.
 
-[Reolink Video Doorbell WiFi](https://www.amazon.com/dp/B0DWXN52ZH?tag=viciousstudio-20)
+[Reolink Video Doorbell WiFi](https://www.amazon.com/s?k=Reolink+Video+Doorbell+WiFi&tag=viciousstudio-20)
 
 **Pros:**
 - Dual-band WiFi ensures stable connection
@@ -159,7 +159,7 @@ Reolink's commitment to local storage is absolute—everything can be stored loc
 
 TP-Link's Tapo series focuses on affordable smart home devices with no subscription requirements. Their wire-free doorbell delivers solid performance at an attractive price point.
 
-[TP-Link Tapo Wire-Free Video Doorbell](https://www.amazon.com/dp/B0G6D8G9B8?tag=viciousstudio-20)
+[TP-Link Tapo Wire-Free Video Doorbell](https://www.amazon.com/s?k=TP-Link+Tapo+Wire-Free+Video+Doorbell&tag=viciousstudio-20)
 
 **Pros:**
 - Easy wireless installation—no wiring required

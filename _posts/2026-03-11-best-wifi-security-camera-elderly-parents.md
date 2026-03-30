@@ -31,7 +31,7 @@ Let me walk you through each option with the real-world details that matter most
 
 **Price Range: $55-$70**
 
-The [Ring Indoor Cam (2nd Gen)](https://www.amazon.com/dp/B0B6GLQJMV?tag=viciousstudio-20) consistently tops my recommendations because it strikes the perfect balance between features and simplicity. I've set this up in over 50 homes, and both elderly users and their adult children love it.
+The [Ring Indoor Cam (2nd Gen)](https://www.amazon.com/s?k=Ring+Indoor+Cam+%282nd+Gen%29&tag=viciousstudio-20) consistently tops my recommendations because it strikes the perfect balance between features and simplicity. I've set this up in over 50 homes, and both elderly users and their adult children love it.
 
 **Pros:**
 - Setup takes literally 5 minutes with the Ring app
@@ -49,7 +49,7 @@ The standout feature is the privacy cover that slides over the lens. Your parent
 
 **Price Range: $35-$45**
 
-Don't let the low price fool you. The [Wyze Cam v3](https://www.amazon.com/dp/B0DXM9Y8J1?tag=viciousstudio-20) delivers features that cost 3x more in other brands. I've been recommending these for budget-conscious families since 2019.
+Don't let the low price fool you. The [Wyze Cam v3](https://www.amazon.com/s?k=Wyze+Cam+v3&tag=viciousstudio-20) delivers features that cost 3x more in other brands. I've been recommending these for budget-conscious families since 2019.
 
 **Pros:**
 - Outstanding 1080p color night vision
@@ -67,7 +67,7 @@ The color night vision is genuinely impressive - you can clearly see your parent
 
 **Price Range: $95-$115**
 
-The [SimpliSafe SimpliCam](https://www.amazon.com/dp/B0DXMSSDHX?tag=viciousstudio-20) costs more upfront but saves you countless frustrating phone calls later. This camera was designed with older users in mind, and it shows in every detail.
+The [SimpliSafe SimpliCam](https://www.amazon.com/s?k=SimpliSafe+SimpliCam&tag=viciousstudio-20) costs more upfront but saves you countless frustrating phone calls later. This camera was designed with older users in mind, and it shows in every detail.
 
 **Pros:**
 - Incredibly simple app with large buttons and clear labels
@@ -85,7 +85,7 @@ I recommend this especially if your parents already struggle with technology. Th
 
 **Price Range: $130-$160 for 4-pack**
 
-When you need coverage throughout the house, the [Blink Mini 4-Pack](https://www.amazon.com/dp/B0B6GJBKRK?tag=viciousstudio-20) delivers the most bang for your buck. Amazon owns Blink, so the integration with Alexa devices is seamless.
+When you need coverage throughout the house, the [Blink Mini 4-Pack](https://www.amazon.com/s?k=Blink+Mini+4-Pack&tag=viciousstudio-20) delivers the most bang for your buck. Amazon owns Blink, so the integration with Alexa devices is seamless.
 
 **Pros:**
 - Extremely easy setup - each camera connects in under 2 minutes
@@ -103,7 +103,7 @@ The real advantage here is consistency. All four cameras work exactly the same w
 
 **Price Range: $125-$150**
 
-The [Arlo Essential Indoor Camera](https://www.amazon.com/dp/B0CG2VS5FD?tag=viciousstudio-20) brings professional-grade features in a package that's still user-friendly for seniors. It's my go-to recommendation for tech-savvy elderly parents who want the best.
+The [Arlo Essential Indoor Camera](https://www.amazon.com/s?k=Arlo+Essential+Indoor+Camera&tag=viciousstudio-20) brings professional-grade features in a package that's still user-friendly for seniors. It's my go-to recommendation for tech-savvy elderly parents who want the best.
 
 **Pros:**
 - AI-powered person, pet, and package detection
@@ -121,7 +121,7 @@ The AI detection is incredibly accurate, which means fewer false alarms from sha
 
 **Price Range: $70-$90**
 
-The [Reolink E1 Zoom](https://www.amazon.com/dp/B0B6GLQJMV?tag=viciousstudio-20) gives you remote control over camera positioning, which is perfect for monitoring larger rooms or following your parent's movement.
+The [Reolink E1 Zoom](https://www.amazon.com/s?k=Reolink+E1+Zoom&tag=viciousstudio-20) gives you remote control over camera positioning, which is perfect for monitoring larger rooms or following your parent's movement.
 
 **Pros:**
 - 355-degree pan and 50-degree tilt controlled from app
@@ -139,7 +139,7 @@ I love this option for monitoring main living areas where your parents spend mos
 
 **Price Range: $45-$65**
 
-The [YI Dome Camera X](https://www.amazon.com/dp/B0DXM9Y8J1?tag=viciousstudio-20) offers similar pan-and-tilt functionality to the Reolink at a much lower price point.
+The [YI Dome Camera X](https://www.amazon.com/s?k=YI+Dome+Camera+X&tag=viciousstudio-20) offers similar pan-and-tilt functionality to the Reolink at a much lower price point.
 
 **Pros:**
 - 360-degree rotation for complete room coverage

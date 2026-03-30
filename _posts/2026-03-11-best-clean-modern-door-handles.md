@@ -40,7 +40,7 @@ This handle represents everything I love about contemporary hardware design. The
 
 The mounting hardware comes with everything you need for standard door preparations, and I've installed these on both hollow core and solid wood doors without issues. The internal mechanism operates smoothly even after two years of heavy use in my test home.
 
-[Sleek Matte Black Modern Lever Handle](https://www.amazon.com/dp/B096CGRF12?tag=viciousstudio-20)
+[Sleek Matte Black Modern Lever Handle](https://www.amazon.com/s?k=Sleek+Matte+Black+Modern+Lever+Handle&tag=viciousstudio-20)
 
 ## Contemporary Brushed Nickel Lever Handle
 
@@ -58,7 +58,7 @@ For those wanting modern style without the premium price tag, this brushed nicke
 
 I've used these in rental properties where I need good-looking hardware that won't break the budget. The brushed nickel finish hides minor scratches well, and the simple lever mechanism has proven reliable across multiple installations.
 
-[Contemporary Brushed Nickel Lever Handle](https://www.amazon.com/dp/B08HK872VW?tag=viciousstudio-20)
+[Contemporary Brushed Nickel Lever Handle](https://www.amazon.com/s?k=Contemporary+Brushed+Nickel+Lever+Handle&tag=viciousstudio-20)
 
 ## Ultra-Minimal Square Bar Pull Handle
 
@@ -77,7 +77,7 @@ This is the handle for architects and design enthusiasts who want their hardware
 
 The installation requires precise measurement since the square bar creates visual emphasis on any misalignment. But when properly installed, these handles transform doors into design features rather than mere functional elements.
 
-[Ultra-Minimal Square Bar Pull Handle](https://www.amazon.com/dp/B0DTP1F4NC?tag=viciousstudio-20)
+[Ultra-Minimal Square Bar Pull Handle](https://www.amazon.com/s?k=Ultra-Minimal+Square+Bar+Pull+Handle&tag=viciousstudio-20)
 
 ## Streamlined Chrome Tube Handle
 
@@ -96,7 +96,7 @@ Chrome remains a classic choice for modern interiors, and this tube-style handle
 
 I particularly like using these in bathrooms and kitchens where the chrome coordinates with other fixtures. The tube diameter feels comfortable for all hand sizes, and the smooth finish wipes clean easily.
 
-[Streamlined Chrome Tube Handle](https://www.amazon.com/dp/B0C4KKV6S4?tag=viciousstudio-20)
+[Streamlined Chrome Tube Handle](https://www.amazon.com/s?k=Streamlined+Chrome+Tube+Handle&tag=viciousstudio-20)
 
 ## Minimalist Flat Bar Handle in Stainless Steel
 
@@ -114,7 +114,7 @@ Sometimes the most modern approach is also the most simple. This flat bar handle
 
 The flat profile makes these handles particularly good for narrow hallways or areas where protruding hardware could be problematic. The stainless steel finish develops a subtle patina over time that adds character without looking worn.
 
-[Minimalist Flat Bar Handle in Stainless Steel](https://www.amazon.com/dp/B096CDBCB3?tag=viciousstudio-20)
+[Minimalist Flat Bar Handle in Stainless Steel](https://www.amazon.com/s?k=Minimalist+Flat+Bar+Handle+in+Stainless+Steel&tag=viciousstudio-20)
 
 ## Geometric Angular Door Pull
 
@@ -132,7 +132,7 @@ For spaces that embrace bold modern design, this angular pull handle creates str
 
 These handles work particularly well on feature doors or in spaces where the hardware can serve as a design accent. The angular geometry complements modern furniture and architectural details.
 
-[Geometric Angular Door Pull](https://www.amazon.com/dp/B096CGRF12?tag=viciousstudio-20)
+[Geometric Angular Door Pull](https://www.amazon.com/s?k=Geometric+Angular+Door+Pull&tag=viciousstudio-20)
 
 ## Sleek Oval Tube Handle
 
@@ -150,7 +150,7 @@ The oval tube design offers a softer alternative to square and round handles whi
 
 I've found these handles work particularly well in family homes where comfort and safety are priorities alongside modern aesthetics. The oval shape provides more surface area for grip than round tubes.
 
-[Sleek Oval Tube Handle](https://www.amazon.com/dp/B08HK872VW?tag=viciousstudio-20)
+[Sleek Oval Tube Handle](https://www.amazon.com/s?k=Sleek+Oval+Tube+Handle&tag=viciousstudio-20)
 
 ## What to Look for in Modern Door Handles
 
@@ -194,7 +194,7 @@ Modern handles can actually enhance traditional doors by creating interesting co
 
 ## Our Top Pick: Sleek Matte Black Modern Lever Handle
 
-After extensive testing and installation experience, the [Sleek Matte Black Modern Lever Handle](https://www.amazon.com/dp/B0DTP1F4NC?tag=viciousstudio-20) earns our top recommendation. It delivers the perfect balance of modern aesthetics, practical function, and long-term durability.
+After extensive testing and installation experience, the [Sleek Matte Black Modern Lever Handle](https://www.amazon.com/s?k=Sleek+Matte+Black+Modern+Lever+Handle&tag=viciousstudio-20) earns our top recommendation. It delivers the perfect balance of modern aesthetics, practical function, and long-term durability.
 
 The matte black finish looks sophisticated while hiding the fingerprints and minor scratches that plague other finishes. The substantial weight communicates quality, and the smooth lever operation works reliably even after years of use. At $45-65 per handle, it represents excellent value for those wanting premium modern style without breaking the budget.
 

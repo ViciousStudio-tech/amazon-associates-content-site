@@ -30,7 +30,7 @@ This powerhouse has been my go-to recommendation for large rooms and heavy pet d
 - Can be noisy on highest setting
 - Replacement filters are somewhat expensive
 
-[Honeywell HPA300 True HEPA Air Purifier](https://www.amazon.com/dp/B07DD9H6YH?tag=viciousstudio-20)
+[Honeywell HPA300 True HEPA Air Purifier](https://www.amazon.com/s?k=Honeywell+HPA300+True+HEPA+Air+Purifier&tag=viciousstudio-20)
 
 ### Levoit Core 300 Air Purifier
 **Price Range: $100-$130**
@@ -47,7 +47,7 @@ For smaller spaces and budget-conscious pet owners, the Core 300 punches well ab
 - Limited to smaller rooms (219 sq ft coverage)
 - No smart features or remote control
 
-[Levoit Core 300 Air Purifier](https://www.amazon.com/dp/B0925HB662?tag=viciousstudio-20)
+[Levoit Core 300 Air Purifier](https://www.amazon.com/s?k=Levoit+Core+300+Air+Purifier&tag=viciousstudio-20)
 
 ### Blueair Blue Pure 211+ Air Purifier
 **Price Range: $180-$220**
@@ -64,7 +64,7 @@ The Blue Pure 211+ combines Scandinavian design with serious filtration power. I
 - No HEPA certification (though performance is comparable)
 - Limited smart features
 
-[Blueair Blue Pure 211+ Air Purifier](https://www.amazon.com/dp/B07PY4QTRL?tag=viciousstudio-20)
+[Blueair Blue Pure 211+ Air Purifier](https://www.amazon.com/s?k=Blueair+Blue+Pure+211%2B+Air+Purifier&tag=viciousstudio-20)
 
 ### Winix 5500-2 Air Purifier
 **Price Range: $160-$190**
@@ -81,7 +81,7 @@ This feature-packed purifier offers excellent value with its combination of True
 - Some users find the air quality indicator overly sensitive
 - PlasmaWave produces trace amounts of ozone (can be turned off)
 
-[Winix 5500-2 Air Purifier](https://www.amazon.com/dp/B08JTZMRML?tag=viciousstudio-20)
+[Winix 5500-2 Air Purifier](https://www.amazon.com/s?k=Winix+5500-2+Air+Purifier&tag=viciousstudio-20)
 
 ### Coway AP-1512HH Mighty Air Purifier
 **Price Range: $200-$230**
@@ -98,7 +98,7 @@ The Coway Mighty has earned a reputation as one of the most reliable and efficie
 - Ionizer cannot be disabled on some models
 - Filter replacement indicator could be more precise
 
-[Coway AP-1512HH Mighty Air Purifier](https://www.amazon.com/dp/B092CXN8LX?tag=viciousstudio-20)
+[Coway AP-1512HH Mighty Air Purifier](https://www.amazon.com/s?k=Coway+AP-1512HH+Mighty+Air+Purifier&tag=viciousstudio-20)
 
 ## Buying Guide: What to Look For
 

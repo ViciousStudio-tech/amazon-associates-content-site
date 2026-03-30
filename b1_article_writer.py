@@ -7,14 +7,15 @@ Reads pending keywords from DB. Outputs Markdown files to ./_posts/
 import os, json, sqlite3, logging, time, re, hashlib
 from datetime import datetime
 from pathlib import Path
+from urllib.parse import quote_plus, unquote_plus, urlparse, parse_qs
 from dotenv import load_dotenv
 import anthropic
-from amazon_scraper import scrape_amazon_products
+from amazon_scraper import scrape_amazon_products, verify_products, self_test as scraper_self_test
 
 load_dotenv()
 
 DB_PATH   = os.getenv("DB_PATH", "./data/business1.db")
-ASSOCIATE_TAG = os.getenv("AMAZON_ASSOCIATE_TAG", "your-tag-20")
+ASSOCIATE_TAG = os.getenv("AMAZON_ASSOCIATE_TAG", "viciousstudio-20")
 POSTS_DIR = Path("./_posts")
 LOG_DIR   = Path("./logs")
 HEARTBEAT = Path("./heartbeat_article_writer.json")
@@ -34,7 +35,10 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-SYSTEM_PROMPT = f"""You are writing an Amazon affiliate article. You will be given real Amazon products
+# Check scraping availability once at module load
+SCRAPING_AVAILABLE = False
+
+SYSTEM_PROMPT_WITH_PRODUCTS = f"""You are writing an Amazon affiliate article. You will be given real Amazon products
 with their titles, prices, ratings, and direct product URLs. Link directly to these product pages
 using the exact URLs provided. NEVER use amazon.com/s?k= search URLs. ALWAYS use direct product
 page URLs in format https://www.amazon.com/dp/ASIN?tag={ASSOCIATE_TAG}
@@ -43,7 +47,27 @@ Rules:
 - Write 1800-2500 words
 - Target keyword in: H1 title, first 100 words, 2-3 subheadings, conclusion
 - Include product recommendations using ONLY the real products provided — use their actual titles, prices, and ratings
-- Affiliate links: use the exact product URLs provided (https://www.amazon.com/dp/ASIN?tag={ASSOCIATE_TAG})
+- Affiliate links: use the exact product URLs provided (https://www.amazon.com/dp/ASIN?tag={{ASSOCIATE_TAG}})
+- Use h2 and h3 subheadings generously
+- Write in first-person expert voice — direct, specific, no filler
+- End with a clear "Our Pick" recommendation
+- Output raw Markdown ONLY. No preamble. No "Here is the article:" opener."""
+
+SYSTEM_PROMPT_SEARCH_FALLBACK = f"""You are writing an Amazon affiliate article. Since real product data is unavailable,
+use Amazon search links so readers can find the products themselves. For EVERY product you mention,
+the link text MUST exactly match what the URL searches for.
+
+CRITICAL RULE: When you link to a product, the markdown link text must be the product name, and the
+URL must be https://www.amazon.com/s?k={{url_encoded_product_name}}&tag={ASSOCIATE_TAG}
+The link text and search query MUST match. Example:
+- CORRECT: [Braun ThermoScan 7](https://www.amazon.com/s?k=Braun+ThermoScan+7&tag={ASSOCIATE_TAG})
+- WRONG: [Braun ThermoScan 7](https://www.amazon.com/s?k=baby+thermometer&tag={ASSOCIATE_TAG})
+
+Rules:
+- Write 1800-2500 words
+- Target keyword in: H1 title, first 100 words, 2-3 subheadings, conclusion
+- Include 5 specific product recommendations with real brand names and model numbers
+- Affiliate links: https://www.amazon.com/s?k={{url_encoded_exact_product_name}}&tag={ASSOCIATE_TAG}
 - Use h2 and h3 subheadings generously
 - Write in first-person expert voice — direct, specific, no filler
 - End with a clear "Our Pick" recommendation
@@ -93,22 +117,110 @@ def keyword_to_title(keyword: str) -> str:
         for i, w in enumerate(words)
     )
 
+def verify_article_links(content: str) -> tuple:
+    """
+    Verify that every Amazon link's text matches its destination.
+    Returns (is_valid, list_of_issues).
+    """
+    link_re = re.compile(r'\[([^\]]+)\]\((https://www\.amazon\.com/[^\)]+)\)')
+    issues = []
+
+    for match in link_re.finditer(content):
+        link_text = match.group(1)
+        url = match.group(2)
+
+        # Check affiliate tag
+        if f'tag={ASSOCIATE_TAG}' not in url:
+            issues.append(f"Missing tag: [{link_text[:40]}] -> {url}")
+
+        # For search URLs, verify text matches query
+        if '/s?k=' in url:
+            parsed = urlparse(url)
+            params = parse_qs(parsed.query)
+            query = unquote_plus(params.get('k', [''])[0]).lower()
+            text_words = set(w.lower() for w in re.findall(r'[a-zA-Z0-9]+', link_text) if len(w) > 2)
+            query_words = set(w.lower() for w in re.findall(r'[a-zA-Z0-9]+', query) if len(w) > 2)
+            if text_words and query_words:
+                overlap = text_words & query_words
+                if len(overlap) < 1:
+                    issues.append(f"Text/URL mismatch: [{link_text[:40]}] searches for '{query[:40]}'")
+
+    return len(issues) == 0, issues
+
+
+def fix_article_links_post_generation(content: str) -> str:
+    """
+    Post-generation fix: ensure every link text matches its URL destination.
+    Converts /dp/ links to search URLs derived from link text (since we can't verify ASINs).
+    Fixes search URL mismatches.
+    """
+    link_re = re.compile(r'\[([^\]]+)\]\((https://www\.amazon\.com/[^\)]+)\)')
+
+    def fix_link(match):
+        link_text = match.group(1).strip()
+        url = match.group(2)
+
+        if '/dp/' in url and not SCRAPING_AVAILABLE:
+            # Can't verify ASIN, convert to search URL based on link text
+            product_name = link_text.strip('*').strip('_')
+            search_url = f"https://www.amazon.com/s?k={quote_plus(product_name)}&tag={ASSOCIATE_TAG}"
+            return f"[{link_text}]({search_url})"
+
+        if '/s?k=' in url:
+            # Verify the search query matches link text
+            parsed = urlparse(url)
+            params = parse_qs(parsed.query)
+            query = unquote_plus(params.get('k', [''])[0]).lower()
+            text_lower = link_text.lower()
+
+            text_words = set(w for w in re.findall(r'[a-z0-9]+', text_lower) if len(w) > 2)
+            query_words = set(w for w in re.findall(r'[a-z0-9]+', query) if len(w) > 2)
+
+            if text_words and query_words:
+                overlap = text_words & query_words
+                if len(overlap) < 1:
+                    # Mismatch - rebuild URL from link text
+                    product_name = link_text.strip('*').strip('_')
+                    search_url = f"https://www.amazon.com/s?k={quote_plus(product_name)}&tag={ASSOCIATE_TAG}"
+                    return f"[{link_text}]({search_url})"
+
+            # Ensure tag is present
+            if f'tag={ASSOCIATE_TAG}' not in url:
+                sep = '&' if '?' in url else '?'
+                url = f"{url}{sep}tag={ASSOCIATE_TAG}"
+                return f"[{link_text}]({url})"
+
+        return match.group(0)
+
+    return link_re.sub(fix_link, content)
+
+
 def write_article(client, keyword_data: dict) -> str:
     keyword = keyword_data["keyword"]
     category = keyword_data["category"]
 
-    # First, scrape real Amazon products for this keyword
-    products = scrape_amazon_products(keyword, ASSOCIATE_TAG, 5)
-    if not products:
-        log.error(f"Scraping blocked for keyword '{keyword}' — skipping article")
-        return None
+    # First, try to scrape real Amazon products for this keyword
+    products = []
+    if SCRAPING_AVAILABLE:
+        products = scrape_amazon_products(keyword, ASSOCIATE_TAG, 5)
+        if products:
+            valid, errors = verify_products(products)
+            if errors:
+                log.warning(f"Product verification errors for '{keyword}': {errors}")
+            products = valid
 
-    # Store products on keyword_data so build_front_matter can access the first image
-    keyword_data["_scraped_products"] = products
+    if products:
+        # Store products on keyword_data so build_front_matter can access the first image
+        keyword_data["_scraped_products"] = [
+            {"asin": p.asin, "title": p.title, "price": p.price,
+             "rating": p.rating, "image": p.image, "url": p.url}
+            for p in products
+        ]
 
-    products_json = json.dumps(products, indent=2)
+        products_json = json.dumps(keyword_data["_scraped_products"], indent=2)
+        system_prompt = SYSTEM_PROMPT_WITH_PRODUCTS
 
-    user_prompt = f"""REAL PRODUCTS (use these exact titles, prices, ratings, and URLs):
+        user_prompt = f"""REAL PRODUCTS (use these exact titles, prices, ratings, and URLs):
 {products_json}
 
 Write a complete Amazon affiliate article targeting this keyword:
@@ -133,15 +245,52 @@ Structure your article with:
 
 Write the complete article now:"""
 
+    else:
+        # Scraping blocked — use search URL fallback
+        log.warning(f"Scraping unavailable for '{keyword}' — using search URL fallback")
+        system_prompt = SYSTEM_PROMPT_SEARCH_FALLBACK
+
+        user_prompt = f"""Write a complete Amazon affiliate article targeting this keyword:
+
+Keyword: "{keyword}"
+Category: {category}
+Commission rate for this category: {keyword_data['commission']}
+
+IMPORTANT: For every product you recommend, create a markdown link where:
+- The link text is the exact product name (brand + model)
+- The URL is https://www.amazon.com/s?k={{url_encoded_exact_product_name}}&tag={ASSOCIATE_TAG}
+- The link text and search query MUST be the same product name
+
+Structure your article with:
+1. Hook intro (address the reader's problem directly)
+2. Quick answer / recommendation summary
+3. Detailed product reviews (H2 for each product with 5 specific products)
+4. Buying guide section (what to look for)
+5. FAQ section (3-5 questions)
+6. Conclusion with "Our Top Pick"
+
+Write the complete article now:"""
+
     for attempt in range(3):
         try:
             resp = client.messages.create(
                 model="claude-sonnet-4-20250514",
                 max_tokens=4000,
-                system=SYSTEM_PROMPT,
+                system=system_prompt,
                 messages=[{"role": "user", "content": user_prompt}]
             )
-            return resp.content[0].text.strip()
+            article_text = resp.content[0].text.strip()
+
+            # Post-generation verification and fix
+            article_text = fix_article_links_post_generation(article_text)
+
+            is_valid, issues = verify_article_links(article_text)
+            if not is_valid:
+                log.warning(f"Link verification issues for '{keyword}': {issues}")
+                # The fix_article_links_post_generation should have handled these,
+                # but log for visibility
+
+            return article_text
         except anthropic.RateLimitError:
             wait = 60 * (attempt + 1)
             log.warning(f"Rate limit — waiting {wait}s")
@@ -172,8 +321,12 @@ def fetch_article_image(keyword_data: dict, title: str) -> str:
     """Get image URL from scraped products, falling back to loremflickr."""
     # Use first scraped product image if available
     products = keyword_data.get("_scraped_products", [])
-    if products and products[0].get("image"):
-        return products[0]["image"]
+    if products:
+        # Handle both dict and dataclass forms
+        first = products[0]
+        img = first.get("image") if isinstance(first, dict) else getattr(first, "image", None)
+        if img and img.startswith("https://"):
+            return img
 
     # Fallback to loremflickr
     stop = {'a','an','the','and','but','or','for','nor','on','at','to','by','in','of','up',
@@ -210,6 +363,8 @@ def write_heartbeat(status: str, articles_written: int):
     HEARTBEAT.write_text(json.dumps(data, indent=2))
 
 def main():
+    global SCRAPING_AVAILABLE
+
     log.info("=" * 60)
     log.info("B1 Article Writer — Starting")
     log.info("=" * 60)
@@ -218,6 +373,14 @@ def main():
         log.error("ANTHROPIC_API_KEY not set")
         write_heartbeat("error_no_api_key", 0)
         return
+
+    # Check if Amazon scraping is available
+    log.info("Testing Amazon scraper availability...")
+    SCRAPING_AVAILABLE = scraper_self_test()
+    if SCRAPING_AVAILABLE:
+        log.info("Scraper: AVAILABLE — will use real product data")
+    else:
+        log.warning("Scraper: BLOCKED — will use search URL fallback (link text = search query)")
 
     client = anthropic.Anthropic(api_key=API_KEY)
     conn = init_db()

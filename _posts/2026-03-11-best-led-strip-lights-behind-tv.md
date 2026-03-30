@@ -39,7 +39,7 @@ The Govee Immersion system uses a small camera that mounts on your TV to analyze
 - Camera placement can be tricky on some TV models
 - Requires constant WiFi connection to function properly
 
-[Govee Immersion WiFi LED TV Backlight](https://www.amazon.com/dp/B0FJR9LKBQ?tag=viciousstudio-20)
+[Govee Immersion WiFi LED TV Backlight](https://www.amazon.com/s?k=Govee+Immersion+WiFi+LED+TV+Backlight&tag=viciousstudio-20)
 
 The installation took me about 30 minutes. The adhesive strips stick well to most TV backs, and the camera calibration process walks you through everything step-by-step. The color accuracy is remarkable – when there's a sunset scene, you'll see warm oranges and reds washing across your wall.
 
@@ -58,7 +58,7 @@ If you're already invested in the Philips Hue ecosystem, these strips integrate 
 - Expensive, especially when factoring in sync box costs
 - Limited to Philips ecosystem
 
-[Philips Hue Light Strip Plus](https://www.amazon.com/dp/B0BCQ9YQYW?tag=viciousstudio-20)
+[Philips Hue Light Strip Plus](https://www.amazon.com/s?k=Philips+Hue+Light+Strip+Plus&tag=viciousstudio-20)
 
 The installation requires the Hue Bridge and ideally a Sync Box for the full TV-syncing experience. But if you want the absolute best color quality and don't mind paying premium prices, nothing beats Philips Hue.
 
@@ -77,7 +77,7 @@ TP-Link's Kasa strips offer solid smart features without breaking the bank. I ap
 - Limited color range compared to premium options
 - No camera sync functionality
 
-[Kasa Smart WiFi LED Strip Lights](https://www.amazon.com/dp/B0CHS2BGHY?tag=viciousstudio-20)
+[Kasa Smart WiFi LED Strip Lights](https://www.amazon.com/s?k=Kasa+Smart+WiFi+LED+Strip+Lights&tag=viciousstudio-20)
 
 These are perfect if you want smart control without the complexity of camera-based systems. The colors are vibrant enough for ambient lighting, though they won't match the cinematic experience of sync-enabled strips.
 
@@ -96,7 +96,7 @@ Nanoleaf's reputation for innovative lighting products carries over to their TV 
 - Requires compatible Thread border router for full features
 - More expensive than basic RGB options
 
-[Nanoleaf Essentials Light Strips](https://www.amazon.com/dp/B0D3TYK3QS?tag=viciousstudio-20)
+[Nanoleaf Essentials Light Strips](https://www.amazon.com/s?k=Nanoleaf+Essentials+Light+Strips&tag=viciousstudio-20)
 
 The color transitions are smooth, and I've never experienced connectivity drops like I have with some WiFi-based strips. If you're building a serious smart home setup, the Thread compatibility is future-proof.
 
@@ -115,7 +115,7 @@ LIFX strips produce some of the brightest, most saturated colors I've tested. Th
 - Can be overwhelming in darker rooms
 - Higher power consumption than competitors
 
-[LIFX Z TV LED Strip](https://www.amazon.com/dp/B0CHS2BGHY?tag=viciousstudio-20)
+[LIFX Z TV LED Strip](https://www.amazon.com/s?k=LIFX+Z+TV+LED+Strip&tag=viciousstudio-20)
 
 These strips excel when you want bold, attention-grabbing lighting. The brightness can wash out more subtle ambient effects, but for gaming or action movies, they create an incredible atmosphere.
 
@@ -134,7 +134,7 @@ Originally designed for gaming setups, these strips work brilliantly behind TVs.
 - Primarily designed for PC setups
 - Software can be overwhelming for casual users
 
-[Corsair iCUE LS100 Smart Lighting Strip](https://www.amazon.com/dp/B0FJR9LKBQ?tag=viciousstudio-20)
+[Corsair iCUE LS100 Smart Lighting Strip](https://www.amazon.com/s?k=Corsair+iCUE+LS100+Smart+Lighting+Strip&tag=viciousstudio-20)
 
 The installation hardware feels premium, and the magnetic mounting system makes adjustments easy. These are overkill if you just want basic ambient lighting, but perfect for enthusiasts who want precise control.
 
@@ -153,7 +153,7 @@ Sometimes you just want basic backlighting without smart features. I keep a few 
 - No smart home integration
 - Basic adhesive may fail over time
 
-[RGB LED Strip Lights with Remote](https://www.amazon.com/dp/B0BCQ9YQYW?tag=viciousstudio-20)
+[RGB LED Strip Lights with Remote](https://www.amazon.com/s?k=RGB+LED+Strip+Lights+with+Remote&tag=viciousstudio-20)
 
 These won't sync with your TV content, but they provide pleasant ambient lighting for under $20. The remote controls basic colors and effects, which covers most people's needs.
 

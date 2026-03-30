@@ -29,7 +29,7 @@ Here are my favorite white noise machines that have transformed my sleep quality
 
 **Price: $199.99**
 
-The [Hatch Restore 2](https://www.amazon.com/dp/B0DLLSCVZW?tag=viciousstudio-20) has completely changed how I approach bedtime. This isn't just a white noise machine – it's a complete sleep ecosystem that I control through my phone.
+The [Hatch Restore 2](https://www.amazon.com/s?k=Hatch+Restore+2&tag=viciousstudio-20) has completely changed how I approach bedtime. This isn't just a white noise machine – it's a complete sleep ecosystem that I control through my phone.
 
 **What I love about it:**
 - **Sunrise alarm feature**: Gradually brightens to wake me naturally instead of jarring alarms
@@ -53,7 +53,7 @@ The [Hatch Restore 2](https://www.amazon.com/dp/B0DLLSCVZW?tag=viciousstudio-20)
 
 **Price: $44.95**
 
-The [Marpac Dohm Classic](https://www.amazon.com/dp/B0DLLSCVZW?tag=viciousstudio-20) is the machine that started my white noise journey. There's something magical about its mechanical fan system that digital machines struggle to replicate.
+The [Marpac Dohm Classic](https://www.amazon.com/s?k=Marpac+Dohm+Classic&tag=viciousstudio-20) is the machine that started my white noise journey. There's something magical about its mechanical fan system that digital machines struggle to replicate.
 
 **The authentic experience:**
 This machine uses actual moving air to create sound, not speakers playing recordings. The result is incredibly natural white noise that doesn't have the artificial quality of digital alternatives.
@@ -75,7 +75,7 @@ This machine uses actual moving air to create sound, not speakers playing record
 
 **Price: $79.95**
 
-When I need options, the [LectroFan EVO](https://www.amazon.com/dp/B0DLLTJFJL?tag=viciousstudio-20) delivers. With 22 different sounds, it's perfect for people who get bored with the same noise every night.
+When I need options, the [LectroFan EVO](https://www.amazon.com/s?k=LectroFan+EVO&tag=viciousstudio-20) delivers. With 22 different sounds, it's perfect for people who get bored with the same noise every night.
 
 **Sound diversity that matters:**
 - 10 fan sounds ranging from gentle breeze to industrial strength
@@ -98,7 +98,7 @@ When I need options, the [LectroFan EVO](https://www.amazon.com/dp/B0DLLTJFJL?ta
 
 **Price: $19.99**
 
-The [Yogasleep Rohm](https://www.amazon.com/dp/B0DW1SKGHS?tag=viciousstudio-20) became my travel essential after one particularly noisy hotel experience. Don't let the small size fool you – this little machine packs impressive sound.
+The [Yogasleep Rohm](https://www.amazon.com/s?k=Yogasleep+Rohm&tag=viciousstudio-20) became my travel essential after one particularly noisy hotel experience. Don't let the small size fool you – this little machine packs impressive sound.
 
 **Travel-tested performance:**
 I've taken this through airports, hotels, and camping trips. The rechargeable battery lasts all night, and the compact size fits in any luggage corner.
@@ -120,7 +120,7 @@ I've taken this through airports, hotels, and camping trips. The rechargeable ba
 
 **Price: $24.99**
 
-The [Big Red Rooster Sound Machine](https://www.amazon.com/dp/B0FPFP7LJS?tag=viciousstudio-20) proves you don't need to spend a fortune for better sleep. It's the machine I recommend to friends who want to try white noise without a big investment.
+The [Big Red Rooster Sound Machine](https://www.amazon.com/s?k=Big+Red+Rooster+Sound+Machine&tag=viciousstudio-20) proves you don't need to spend a fortune for better sleep. It's the machine I recommend to friends who want to try white noise without a big investment.
 
 **Surprising quality for the price:**
 With 6 soothing sounds and a simple interface, this machine covers all the basics without unnecessary complexity.
@@ -174,4 +174,4 @@ After testing all these machines extensively, here's how I'd choose based on dif
 
 **For budget-conscious buyers**: The **Big Red Rooster** delivers surprisingly good performance that will satisfy most people's white noise needs.
 
-Remember, the [best white noise machine for sleeping](https://www.amazon.com/dp/B0DLLSCVZW?tag=viciousstudio-20) is the one you'll actually use consistently. Start with your specific needs and budget, then choose the machine that best fits your sleep environment and preferences.
+Remember, the [best white noise machine for sleeping](https://www.amazon.com/s?k=white+noise+machine+for+sleeping&tag=viciousstudio-20) is the one you'll actually use consistently. Start with your specific needs and budget, then choose the machine that best fits your sleep environment and preferences.

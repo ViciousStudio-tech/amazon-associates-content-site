@@ -29,7 +29,7 @@ Let's dive into the detailed reviews and help you choose the perfect mandoline f
 
 **Price Range: $45-$65**
 
-The [OXO Good Grips V-Blade Mandoline](https://www.amazon.com/dp/B001THGPDO?tag=viciousstudio-20) consistently ranks as my top recommendation for beginners, and for good reason. This mandoline strikes the perfect balance between safety and performance that new users desperately need.
+The [OXO Good Grips V-Blade Mandoline](https://www.amazon.com/s?k=OXO+Good+Grips+V-Blade+Mandoline&tag=viciousstudio-20) consistently ranks as my top recommendation for beginners, and for good reason. This mandoline strikes the perfect balance between safety and performance that new users desperately need.
 
 ### Pros:
 - **Exceptional hand guard**: The textured, non-slip hand guard actually stays put on vegetables and provides genuine protection
@@ -48,7 +48,7 @@ The V-shaped blade produces incredibly uniform slices, whether you're making pot
 
 **Price Range: $25-$35**
 
-For budget-conscious beginners who want simplicity above all else, the [Kyocera Advanced Ceramic Adjustable Slicer](https://www.amazon.com/dp/B01IW6ORDY?tag=viciousstudio-20) offers an elegant solution. This Japanese-made slicer proves that effective doesn't have to mean expensive.
+For budget-conscious beginners who want simplicity above all else, the [Kyocera Advanced Ceramic Adjustable Slicer](https://www.amazon.com/s?k=Kyocera+Advanced+Ceramic+Adjustable+Slicer&tag=viciousstudio-20) offers an elegant solution. This Japanese-made slicer proves that effective doesn't have to mean expensive.
 
 ### Pros:
 - **Ceramic blade stays sharp longer**: Won't rust or react with acidic foods like tomatoes
@@ -67,7 +67,7 @@ The compact size makes this ideal for small kitchens or anyone who wants a mando
 
 **Price Range: $55-$75**
 
-The [Swissmar Borner V-1001 V-Slicer Plus](https://www.amazon.com/dp/B000YDO2LG?tag=viciousstudio-20) represents the premium tier of beginner mandolines. If you're serious about precision and plan to use your mandoline frequently, this German-engineered tool delivers restaurant-quality results.
+The [Swissmar Borner V-1001 V-Slicer Plus](https://www.amazon.com/s?k=Swissmar+Borner+V-1001+V-Slicer+Plus&tag=viciousstudio-20) represents the premium tier of beginner mandolines. If you're serious about precision and plan to use your mandoline frequently, this German-engineered tool delivers restaurant-quality results.
 
 ### Pros:
 - **Multiple blade inserts**: Straight cuts, julienne, and waffle cuts all included
@@ -86,7 +86,7 @@ The safety holder deserves special mention. Unlike basic hand guards, this syste
 
 **Price Range: $20-$30**
 
-The [Progressive International Adjust-A-Slice Mandoline](https://www.amazon.com/dp/B0FDY6W1CY?tag=viciousstudio-20) targets the entry-level market with surprising effectiveness. While it lacks some premium features, it delivers solid performance at an incredibly accessible price point.
+The [Progressive International Adjust-A-Slice Mandoline](https://www.amazon.com/s?k=Progressive+International+Adjust-A-Slice+Mandoline&tag=viciousstudio-20) targets the entry-level market with surprising effectiveness. While it lacks some premium features, it delivers solid performance at an incredibly accessible price point.
 
 ### Pros:
 - **Budget-friendly**: Excellent value for occasional use
@@ -105,7 +105,7 @@ The fold-flat design impressed me during testing — it's genuinely thin enough 
 
 **Price Range: $30-$45**
 
-The [Mueller Austria V-Pro Multi Blade Adjustable Mandoline](https://www.amazon.com/dp/B015HONRP8?tag=viciousstudio-20) attempts to bridge the gap between budget and premium mandolines. It offers multiple blade options at a mid-range price, though with some compromises.
+The [Mueller Austria V-Pro Multi Blade Adjustable Mandoline](https://www.amazon.com/s?k=Mueller+Austria+V-Pro+Multi+Blade+Adjustable+Mandoline&tag=viciousstudio-20) attempts to bridge the gap between budget and premium mandolines. It offers multiple blade options at a mid-range price, though with some compromises.
 
 ### Pros:
 - **Five interchangeable blades**: Straight, julienne, and waffle cuts included
@@ -124,7 +124,7 @@ I've found the straight slicing blade performs admirably, while the specialty bl
 
 **Price Range: $25-$40**
 
-The [Prepworks by Progressive Collapsible Mandoline](https://www.amazon.com/dp/B001THGPDO?tag=viciousstudio-20) offers a unique space-saving design that caught my attention during testing. While not perfect, it solves real storage problems many home cooks face.
+The [Prepworks by Progressive Collapsible Mandoline](https://www.amazon.com/s?k=Prepworks+by+Progressive+Collapsible+Mandoline&tag=viciousstudio-20) offers a unique space-saving design that caught my attention during testing. While not perfect, it solves real storage problems many home cooks face.
 
 ### Pros:
 - **Truly collapsible**: Folds to less than 2 inches thick
@@ -217,7 +217,7 @@ For classic potato gratin, aim for 1/8-inch thickness. This allows the potatoes 
 
 ## Our Top Pick: OXO Good Grips V-Blade Mandoline
 
-After extensive testing and teaching hundreds of students, the [OXO Good Grips V-Blade Mandoline](https://www.amazon.com/dp/B01IW6ORDY?tag=viciousstudio-20) remains my top recommendation for beginners. It perfectly balances safety, performance, and ease of use in ways that matter most to new mandoline users.
+After extensive testing and teaching hundreds of students, the [OXO Good Grips V-Blade Mandoline](https://www.amazon.com/s?k=OXO+Good+Grips+V-Blade+Mandoline&tag=viciousstudio-20) remains my top recommendation for beginners. It perfectly balances safety, performance, and ease of use in ways that matter most to new mandoline users.
 
 The superior hand guard design provides genuine protection without being cumbersome, while the intuitive thickness dial eliminates guesswork. Yes, you'll pay more than budget alternatives, but the confidence and safety this mandoline provides makes it worth every penny.
 

@@ -31,7 +31,7 @@ Each of these solutions offers something different, depending on your specific n
 
 **Price Range: $45-$65**
 
-The [Heavy Duty Floating Shelf Brackets](https://www.amazon.com/dp/B0FC67K432?tag=viciousstudio-20) represent the gold standard for minimalist shelf support. These systems use a rod-and-sleeve design that completely disappears once installed, creating that coveted floating appearance.
+The [Heavy Duty Floating Shelf Brackets](https://www.amazon.com/s?k=Heavy+Duty+Floating+Shelf+Brackets&tag=viciousstudio-20) represent the gold standard for minimalist shelf support. These systems use a rod-and-sleeve design that completely disappears once installed, creating that coveted floating appearance.
 
 **Pros:**
 - Completely invisible once installed
@@ -48,7 +48,7 @@ I've used these in three different rooms, and the installation process, while re
 
 **Price Range: $18-$28**
 
-Sometimes the simplest solution is the best solution. These [Minimalist Steel L-Brackets](https://www.amazon.com/dp/B0DKDX8LQF?tag=viciousstudio-20) offer clean lines without breaking the budget.
+Sometimes the simplest solution is the best solution. These [Minimalist Steel L-Brackets](https://www.amazon.com/s?k=Minimalist+Steel+L-Brackets&tag=viciousstudio-20) offer clean lines without breaking the budget.
 
 **Pros:**
 - Extremely affordable for quality materials
@@ -65,7 +65,7 @@ I recommend these particularly for beginners or renters who want to test minimal
 
 **Price Range: $35-$50**
 
-For spaces that can handle a touch of industrial aesthetic within minimalist design, these [Low Profile Industrial Brackets](https://www.amazon.com/dp/B0D4Z2VSCL?tag=viciousstudio-20) strike an excellent balance.
+For spaces that can handle a touch of industrial aesthetic within minimalist design, these [Low Profile Industrial Brackets](https://www.amazon.com/s?k=Low+Profile+Industrial+Brackets&tag=viciousstudio-20) strike an excellent balance.
 
 **Pros:**
 - Exceptional weight capacity (up to 75 pounds per pair)
@@ -82,7 +82,7 @@ These work particularly well in modern minimalist spaces with exposed brick, con
 
 **Price Range: $25-$40**
 
-When you want shelves that appear to float without any visible support, [Blind Shelf Support Pins](https://www.amazon.com/dp/B08118Q999?tag=viciousstudio-20) offer the most invisible solution possible.
+When you want shelves that appear to float without any visible support, [Blind Shelf Support Pins](https://www.amazon.com/s?k=Blind+Shelf+Support+Pins&tag=viciousstudio-20) offer the most invisible solution possible.
 
 **Pros:**
 - Completely invisible installation
@@ -100,7 +100,7 @@ These pins work by inserting into pre-drilled holes in both the wall and shelf. 
 
 **Price Range: $55-$75**
 
-For those who value flexibility, this [Adjustable Minimalist Bracket System](https://www.amazon.com/dp/B0BZDRQCQ9?tag=viciousstudio-20) allows height and angle adjustments while maintaining clean aesthetics.
+For those who value flexibility, this [Adjustable Minimalist Bracket System](https://www.amazon.com/s?k=Adjustable+Minimalist+Bracket+System&tag=viciousstudio-20) allows height and angle adjustments while maintaining clean aesthetics.
 
 **Pros:**
 - Height adjustability without re-drilling holes
@@ -117,7 +117,7 @@ This system shines in spaces where you might want to reconfigure your shelving a
 
 **Price Range: $30-$45**
 
-Corner installations present unique challenges in minimalist design. These [Slim Corner Brackets](https://www.amazon.com/dp/B0FC67K432?tag=viciousstudio-20) solve the problem elegantly.
+Corner installations present unique challenges in minimalist design. These [Slim Corner Brackets](https://www.amazon.com/s?k=Slim+Corner+Brackets&tag=viciousstudio-20) solve the problem elegantly.
 
 **Pros:**
 - Designed specifically for corner installations
@@ -134,7 +134,7 @@ Corner spaces often get neglected in minimalist designs, but these brackets help
 
 **Price Range: $40-$60**
 
-For DIY enthusiasts who want everything included, this [Complete Floating Shelf Kit](https://www.amazon.com/dp/B0DKDX8LQF?tag=viciousstudio-20) provides all necessary components for professional-looking installation.
+For DIY enthusiasts who want everything included, this [Complete Floating Shelf Kit](https://www.amazon.com/s?k=Complete+Floating+Shelf+Kit&tag=viciousstudio-20) provides all necessary components for professional-looking installation.
 
 **Pros:**
 - Includes all hardware, screws, and installation guides
@@ -197,7 +197,7 @@ Yes, but maintain consistency in finish and overall aesthetic approach. For exam
 
 ## Our Top Pick: Heavy-Duty Floating Shelf Brackets
 
-After extensive testing and real-world use, the [Heavy Duty Floating Shelf Brackets](https://www.amazon.com/dp/B0D4Z2VSCL?tag=viciousstudio-20) earn our top recommendation for the best minimalist wall shelf brackets. They deliver the perfect combination of invisibility, strength, and long-term reliability that minimalist design demands.
+After extensive testing and real-world use, the [Heavy Duty Floating Shelf Brackets](https://www.amazon.com/s?k=Heavy+Duty+Floating+Shelf+Brackets&tag=viciousstudio-20) earn our top recommendation for the best minimalist wall shelf brackets. They deliver the perfect combination of invisibility, strength, and long-term reliability that minimalist design demands.
 
 While the initial investment is higher and installation requires more precision than simple L-brackets, the results justify the effort. These brackets create that floating shelf aesthetic that defines high-end minimalist interiors, supporting real weight while completely disappearing from view.
 

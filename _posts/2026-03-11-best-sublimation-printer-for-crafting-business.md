@@ -31,7 +31,7 @@ Let me break down exactly why each printer made this list and which one fits you
 
 ## Epson EcoTank ET-2800: The Budget Business Builder
 
-The [Epson EcoTank ET-2800](https://www.amazon.com/dp/B096N8CNBZ?tag=viciousstudio-20) transformed my friend Sarah's home craft business from hobby to profit in just three months.
+The [Epson EcoTank ET-2800](https://www.amazon.com/s?k=Epson+EcoTank+ET-2800&tag=viciousstudio-20) transformed my friend Sarah's home craft business from hobby to profit in just three months.
 
 **Price Range:** $150-$200
 
@@ -48,7 +48,7 @@ This printer shines for beginners testing sublimation waters. The tank system me
 
 ## Sawgrass SG500 Virtuoso: The Professional Standard
 
-When I upgraded to the [Sawgrass SG500 Virtuoso](https://www.amazon.com/dp/B096N8DN2H?tag=viciousstudio-20), my print quality immediately jumped two levels.
+When I upgraded to the [Sawgrass SG500 Virtuoso](https://www.amazon.com/s?k=Sawgrass+SG500+Virtuoso&tag=viciousstudio-20), my print quality immediately jumped two levels.
 
 **Price Range:** $400-$500
 
@@ -65,7 +65,7 @@ This is the printer I recommend to serious crafters ready to scale. The color pr
 
 ## Epson WorkForce WF-7720: The Wide Format Winner
 
-For larger projects, nothing beats the [Epson WorkForce WF-7720](https://www.amazon.com/dp/B0BHXNP6B1?tag=viciousstudio-20) in its price range.
+For larger projects, nothing beats the [Epson WorkForce WF-7720](https://www.amazon.com/s?k=Epson+WorkForce+WF-7720&tag=viciousstudio-20) in its price range.
 
 **Price Range:** $250-$300
 
@@ -82,7 +82,7 @@ This printer opened doors to custom poster printing and oversized transfers that
 
 ## Canon PIXMA TR8620: The Versatile All-Rounder
 
-The [Canon PIXMA TR8620](https://www.amazon.com/dp/B0BM9BFLMX?tag=viciousstudio-20) surprised me with its sublimation capabilities after conversion.
+The [Canon PIXMA TR8620](https://www.amazon.com/s?k=Canon+PIXMA+TR8620&tag=viciousstudio-20) surprised me with its sublimation capabilities after conversion.
 
 **Price Range:** $180-$230
 
@@ -99,7 +99,7 @@ While Canon isn't the traditional choice for sublimation, this printer delivers 
 
 ## Epson Expression Photo HD XP-15000: The Quality Champion
 
-For absolute print quality, the [Epson Expression Photo HD XP-15000](https://www.amazon.com/dp/B0CN8B8J4G?tag=viciousstudio-20) stands alone in its class.
+For absolute print quality, the [Epson Expression Photo HD XP-15000](https://www.amazon.com/s?k=Epson+Expression+Photo+HD+XP-15000&tag=viciousstudio-20) stands alone in its class.
 
 **Price Range:** $280-$350
 
@@ -116,7 +116,7 @@ This printer is my go-to for high-end custom work where quality commands premium
 
 ## Brother MFC-J995DW: The Reliable Workhorse
 
-The [Brother MFC-J995DW](https://www.amazon.com/dp/B096N8CNBZ?tag=viciousstudio-20) keeps printing when others quit.
+The [Brother MFC-J995DW](https://www.amazon.com/s?k=Brother+MFC-J995DW&tag=viciousstudio-20) keeps printing when others quit.
 
 **Price Range:** $200-$250
 
@@ -133,7 +133,7 @@ Brother printers don't get enough credit in the sublimation world, but this mode
 
 ## Sawgrass SG1000 Virtuoso: The High-Volume Champion
 
-For serious production, the [Sawgrass SG1000 Virtuoso](https://www.amazon.com/dp/B096N8DN2H?tag=viciousstudio-20) handles whatever you throw at it.
+For serious production, the [Sawgrass SG1000 Virtuoso](https://www.amazon.com/s?k=Sawgrass+SG1000+Virtuoso&tag=viciousstudio-20) handles whatever you throw at it.
 
 **Price Range:** $800-$1000
 

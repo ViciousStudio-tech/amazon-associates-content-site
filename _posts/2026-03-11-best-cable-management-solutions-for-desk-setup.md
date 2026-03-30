@@ -37,7 +37,7 @@ The under-desk cable tray has become my go-to recommendation for anyone serious 
 - Requires drilling or strong adhesive mounting
 - May not fit desks with complex undersides or drawers
 
-[Under Desk Cable Tray](https://www.amazon.com/dp/B0F217D84G?tag=viciousstudio-20)
+[Under Desk Cable Tray](https://www.amazon.com/s?k=Under+Desk+Cable+Tray&tag=viciousstudio-20)
 
 ### Adhesive Cable Clips
 
@@ -53,7 +53,7 @@ These small but mighty cable clips are absolute lifesavers for managing individu
 - Adhesive may leave residue when removed
 - Not suitable for very heavy cables or high-stress areas
 
-[Adhesive Cable Clips](https://www.amazon.com/dp/B0BPLRX32S?tag=viciousstudio-20)
+[Adhesive Cable Clips](https://www.amazon.com/s?k=Adhesive+Cable+Clips&tag=viciousstudio-20)
 
 ### Cable Management Spine
 
@@ -69,7 +69,7 @@ The cable management spine is like a flexible tunnel that bundles multiple cable
 - Can be challenging to thread cables through initially
 - May not accommodate very thick or bulky connectors
 
-[Cable Management Spine](https://www.amazon.com/dp/B0BZ3GHM8N?tag=viciousstudio-20)
+[Cable Management Spine](https://www.amazon.com/s?k=Cable+Management+Spine&tag=viciousstudio-20)
 
 ### Desk Grommet with Cable Management
 
@@ -85,7 +85,7 @@ A desk grommet completely changes how cables transition from your desktop to und
 - Requires cutting a hole in your desk surface
 - Installation is permanent and not easily reversible
 
-[Desk Grommet Cable Management](https://www.amazon.com/dp/B0DK13ZHNJ?tag=viciousstudio-20)
+[Desk Grommet Cable Management](https://www.amazon.com/s?k=Desk+Grommet+Cable+Management&tag=viciousstudio-20)
 
 ### Cable Management Box
 
@@ -101,7 +101,7 @@ Cable management boxes are perfect for hiding power strips and the inevitable ta
 - Takes up floor space near your setup
 - Can trap heat if not properly ventilated
 
-[Cable Management Box](https://www.amazon.com/dp/B09L62NFJ2?tag=viciousstudio-20)
+[Cable Management Box](https://www.amazon.com/s?k=Cable+Management+Box&tag=viciousstudio-20)
 
 ## Buying Guide: What to Look For
 

@@ -46,7 +46,7 @@ This scale has become my daily driver for keto meal prep, and for good reason. T
 
 What sets this scale apart for keto dieters is its intelligent net carb calculation. When I weigh 100g of broccoli, it automatically shows me that I'm getting 4g net carbs, not the 7g total carbs that would throw off my daily tracking.
 
-[Greater Goods Nourish Digital Kitchen Scale](https://www.amazon.com/dp/B0CF9PYFTZ?tag=viciousstudio-20)
+[Greater Goods Nourish Digital Kitchen Scale](https://www.amazon.com/s?k=Greater+Goods+Nourish+Digital+Kitchen+Scale&tag=viciousstudio-20)
 
 ## Etekcity Digital Kitchen Scale with App
 
@@ -65,7 +65,7 @@ For keto beginners who want smart functionality without breaking the bank, this 
 
 The VeSync app integration means you can track your daily macros across all meals, though you'll need to manually add some keto staples like specific MCT oil brands or artisanal cheeses.
 
-[Etekcity Digital Kitchen Scale with App](https://www.amazon.com/dp/B00O5U4NDQ?tag=viciousstudio-20)
+[Etekcity Digital Kitchen Scale with App](https://www.amazon.com/s?k=Etekcity+Digital+Kitchen+Scale+with+App&tag=viciousstudio-20)
 
 ## RENPHO Smart Food Scale
 
@@ -84,7 +84,7 @@ RENPHO has built a reputation in the smart health device space, and their food s
 
 The RENPHO app automatically calculates net carbs and provides visual macro breakdowns that make it easy to see if you're hitting your keto targets throughout the day.
 
-[RENPHO Smart Food Scale](https://www.amazon.com/dp/B09QFWXSD8?tag=viciousstudio-20)
+[RENPHO Smart Food Scale](https://www.amazon.com/s?k=RENPHO+Smart+Food+Scale&tag=viciousstudio-20)
 
 ## Escali SmartConnect Bluetooth Kitchen Scale
 
@@ -103,7 +103,7 @@ When precision absolutely matters - like when you're measuring expensive keto su
 
 I particularly appreciate how this scale maintains accuracy even when weighing very small amounts - crucial when measuring potent keto supplements like exogenous ketones or precise spice quantities.
 
-[Escali SmartConnect Bluetooth Kitchen Scale](https://www.amazon.com/dp/B0CG989NGG?tag=viciousstudio-20)
+[Escali SmartConnect Bluetooth Kitchen Scale](https://www.amazon.com/s?k=Escali+SmartConnect+Bluetooth+Kitchen+Scale&tag=viciousstudio-20)
 
 ## Perfect Portions Digital Food Scale
 
@@ -122,7 +122,7 @@ This scale focuses specifically on portion control and nutritional balance, maki
 
 While not as technologically advanced as some options, the Perfect Portions scale excels at the fundamentals that matter most for successful keto adherence.
 
-[Perfect Portions Digital Food Scale](https://www.amazon.com/dp/B0BJXRPQD6?tag=viciousstudio-20)
+[Perfect Portions Digital Food Scale](https://www.amazon.com/s?k=Perfect+Portions+Digital+Food+Scale&tag=viciousstudio-20)
 
 ## GreaterGoods Nutrition Scale
 
@@ -141,7 +141,7 @@ This is GreaterGoods' more advanced offering, and it shows. The nutrition databa
 
 I find this scale particularly valuable when working with farmers market finds or bulk keto ingredients where exact nutritional information isn't always available on packaging.
 
-[GreaterGoods Nutrition Scale](https://www.amazon.com/dp/B0CF9PYFTZ?tag=viciousstudio-20)
+[GreaterGoods Nutrition Scale](https://www.amazon.com/s?k=GreaterGoods+Nutrition+Scale&tag=viciousstudio-20)
 
 ## Drop Connected Kitchen Scale
 
@@ -160,7 +160,7 @@ Originally designed for baking enthusiasts, the Drop scale has found a devoted f
 
 If you're serious about keto meal prep and want to scale recipes up or down while maintaining perfect macros, this scale is unmatched.
 
-[Drop Connected Kitchen Scale](https://www.amazon.com/dp/B00O5U4NDQ?tag=viciousstudio-20)
+[Drop Connected Kitchen Scale](https://www.amazon.com/s?k=Drop+Connected+Kitchen+Scale&tag=viciousstudio-20)
 
 ## What to Look for in a Smart Food Scale for Keto
 

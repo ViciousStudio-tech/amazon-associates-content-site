@@ -27,7 +27,7 @@ The **best air fryer toaster oven combo** for most people is the Cuisinart TOA-6
 
 ### Cuisinart TOA-60 Convection Toaster Oven Air Fryer - Best Overall
 
-[Cuisinart TOA-60 Convection Toaster Oven Air Fryer](https://www.amazon.com/dp/B09HSWBTN4?tag=viciousstudio-20)
+[Cuisinart TOA-60 Convection Toaster Oven Air Fryer](https://www.amazon.com/s?k=Cuisinart+TOA-60+Convection+Toaster+Oven+Air+Fryer&tag=viciousstudio-20)
 
 **Price Range:** $180-$220
 
@@ -46,7 +46,7 @@ The convection fan creates proper air circulation for genuine air frying results
 
 ### Black+Decker Crisp 'N Bake Air Fry Toaster Oven - Best Budget
 
-[Black+Decker Crisp 'N Bake Air Fry Toaster Oven](https://www.amazon.com/dp/B0FPP4RCV3?tag=viciousstudio-20)
+[Black+Decker Crisp 'N Bake Air Fry Toaster Oven](https://www.amazon.com/s?k=Black%2BDecker+Crisp+%27N+Bake+Air+Fry+Toaster+Oven&tag=viciousstudio-20)
 
 **Price Range:** $80-$110
 
@@ -65,7 +65,7 @@ The air frying results aren't quite as crispy as the Cuisinart, but for the pric
 
 ### Breville Smart Oven Air Fryer Pro - Best Premium
 
-[Breville Smart Oven Air Fryer Pro](https://www.amazon.com/dp/B09HSW1YGD?tag=viciousstudio-20)
+[Breville Smart Oven Air Fryer Pro](https://www.amazon.com/s?k=Breville+Smart+Oven+Air+Fryer+Pro&tag=viciousstudio-20)
 
 **Price Range:** $350-$400
 
@@ -84,7 +84,7 @@ The Smart Oven Pro includes 13 cooking functions, and each one is genuinely usef
 
 ### Ninja Foodi Personal Air Fryer Toaster Oven - Best Compact
 
-[Ninja Foodi Personal Air Fryer Toaster Oven](https://www.amazon.com/dp/B09HSTRL87?tag=viciousstudio-20)
+[Ninja Foodi Personal Air Fryer Toaster Oven](https://www.amazon.com/s?k=Ninja+Foodi+Personal+Air+Fryer+Toaster+Oven&tag=viciousstudio-20)
 
 **Price Range:** $120-$150
 
@@ -103,7 +103,7 @@ The flip-up design is genius for small spaces. When closed, it takes up minimal 
 
 ### Instant Omni Plus Toaster Oven Air Fryer - Most Versatile
 
-[Instant Omni Plus Toaster Oven Air Fryer](https://www.amazon.com/dp/B01K0W8LTE?tag=viciousstudio-20)
+[Instant Omni Plus Toaster Oven Air Fryer](https://www.amazon.com/s?k=Instant+Omni+Plus+Toaster+Oven+Air+Fryer&tag=viciousstudio-20)
 
 **Price Range:** $200-$250
 
@@ -122,7 +122,7 @@ This model excels at specialty cooking tasks. The rotisserie function produces r
 
 ### Hamilton Beach Sure-Crisp Air Fryer Toaster Oven - Best for Families
 
-[Hamilton Beach Sure-Crisp Air Fryer Toaster Oven](https://www.amazon.com/dp/B09HSWBTN4?tag=viciousstudio-20)
+[Hamilton Beach Sure-Crisp Air Fryer Toaster Oven](https://www.amazon.com/s?k=Hamilton+Beach+Sure-Crisp+Air+Fryer+Toaster+Oven&tag=viciousstudio-20)
 
 **Price Range:** $140-$180
 
@@ -141,7 +141,7 @@ The Sure-Crisp works best when you follow the included cooking guide religiously
 
 ### PowerXL Vortex Air Fryer Oven - Best for Large Batches
 
-[PowerXL Vortex Air Fryer Oven](https://www.amazon.com/dp/B0FPP4RCV3?tag=viciousstudio-20)
+[PowerXL Vortex Air Fryer Oven](https://www.amazon.com/s?k=PowerXL+Vortex+Air+Fryer+Oven&tag=viciousstudio-20)
 
 **Price Range:** $160-$200
 
@@ -200,7 +200,7 @@ Most combo units feature removable crumb trays, non-stick interiors, and dishwas
 
 ## Our Top Pick: Cuisinart TOA-60 Convection Toaster Oven Air Fryer
 
-After extensive testing, the [Cuisinart TOA-60 Convection Toaster Oven Air Fryer](https://www.amazon.com/dp/B09HSW1YGD?tag=viciousstudio-20) earns our top recommendation for the **best air fryer toaster oven combo 2026**. 
+After extensive testing, the [Cuisinart TOA-60 Convection Toaster Oven Air Fryer](https://www.amazon.com/s?k=Cuisinart+TOA-60+Convection+Toaster+Oven+Air+Fryer&tag=viciousstudio-20) earns our top recommendation for the **best air fryer toaster oven combo 2026**. 
 
 It strikes the perfect balance between air frying performance, traditional oven functions, build quality, and price. The capacity handles family-sized portions without taking up excessive counter space, and both the air frying and toasting functions deliver consistently excellent results.
 

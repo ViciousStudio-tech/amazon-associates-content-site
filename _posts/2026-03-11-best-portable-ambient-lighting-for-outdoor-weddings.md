@@ -27,7 +27,7 @@ Based on extensive testing across different venue types, here are my top recomme
 
 ## Solar String Lights with Warm Edison Bulbs
 
-[Solar Edison String Lights 48ft Outdoor](https://www.amazon.com/dp/B07QMKZWQF?tag=viciousstudio-20)
+[Solar Edison String Lights 48ft Outdoor](https://www.amazon.com/s?k=Solar+Edison+String+Lights+48ft+Outdoor&tag=viciousstudio-20)
 
 **Price Range: $25-$45**
 
@@ -46,7 +46,7 @@ The 48-foot length covers most ceremony arches or reception perimeters without n
 
 ## Battery-Powered LED Lanterns with Remote Control
 
-[Rechargeable LED Lanterns Set of 12 with Remote](https://www.amazon.com/dp/B07XC78KJC?tag=viciousstudio-20)
+[Rechargeable LED Lanterns Set of 12 with Remote](https://www.amazon.com/s?k=Rechargeable+LED+Lanterns+Set+of+12+with+Remote&tag=viciousstudio-20)
 
 **Price Range: $55-$85**
 
@@ -65,7 +65,7 @@ I use these as table centerpieces combined with flowers or greenery. The ability
 
 ## Rechargeable Uplighting Fixtures 
 
-[Wireless LED Uplight 6-Pack Battery Powered](https://www.amazon.com/dp/B0B6FNKMVF?tag=viciousstudio-20)
+[Wireless LED Uplight 6-Pack Battery Powered](https://www.amazon.com/s?k=Wireless+LED+Uplight+6-Pack+Battery+Powered&tag=viciousstudio-20)
 
 **Price Range: $120-$180**
 
@@ -84,7 +84,7 @@ The key is strategic placement. I typically use 4-6 fixtures to highlight the ma
 
 ## Solar Mason Jar Lights
 
-[Solar Mason Jar Lights Hanging Set of 8](https://www.amazon.com/dp/B0CSF1M8M1?tag=viciousstudio-20)
+[Solar Mason Jar Lights Hanging Set of 8](https://www.amazon.com/s?k=Solar+Mason+Jar+Lights+Hanging+Set+of+8&tag=viciousstudio-20)
 
 **Price Range: $30-$50**
 
@@ -103,7 +103,7 @@ I use these in clusters of 3-5 at varying heights to create depth and visual int
 
 ## Portable LED Strip Lights
 
-[Battery LED Strip Lights 16ft Warm White Waterproof](https://www.amazon.com/dp/B07XC78KJC?tag=viciousstudio-20)
+[Battery LED Strip Lights 16ft Warm White Waterproof](https://www.amazon.com/s?k=Battery+LED+Strip+Lights+16ft+Warm+White+Waterproof&tag=viciousstudio-20)
 
 **Price Range: $20-$35**
 
@@ -122,7 +122,7 @@ These work brilliantly taped under cocktail tables, along walkways, or behind sh
 
 ## Shepherd's Hook Solar Pathway Lights
 
-[Solar Pathway Lights with Shepherd Hooks Set of 8](https://www.amazon.com/dp/B07QMKZWQF?tag=viciousstudio-20)
+[Solar Pathway Lights with Shepherd Hooks Set of 8](https://www.amazon.com/s?k=Solar+Pathway+Lights+with+Shepherd+Hooks+Set+of+8&tag=viciousstudio-20)
 
 **Price Range: $40-$65**
 
@@ -187,6 +187,6 @@ DIY works great for basic ambiance using the products I've recommended. Consider
 
 The best portable ambient lighting for outdoor weddings combines practicality with beauty, creating that magical atmosphere while ensuring your guests feel comfortable and safe. From my experience, the most successful setups layer multiple lighting types – string lights for overhead ambiance, table lighting for intimate conversation areas, and pathway lights for navigation.
 
-**Our Top Pick:** The [Solar Edison String Lights 48ft Outdoor](https://www.amazon.com/dp/B07XC78KJC?tag=viciousstudio-20) offer the best combination of ease, affordability, and romantic impact. Combined with [Battery-Powered LED Lanterns](https://www.amazon.com/dp/B0B6FNKMVF?tag=viciousstudio-20) for table ambiance, these two elements create a complete lighting foundation that transforms any outdoor space into a wedding venue worthy of your special day.
+**Our Top Pick:** The [Solar Edison String Lights 48ft Outdoor](https://www.amazon.com/s?k=Solar+Edison+String+Lights+48ft+Outdoor&tag=viciousstudio-20) offer the best combination of ease, affordability, and romantic impact. Combined with [Battery-Powered LED Lanterns](https://www.amazon.com/s?k=Battery-Powered+LED+Lanterns&tag=viciousstudio-20) for table ambiance, these two elements create a complete lighting foundation that transforms any outdoor space into a wedding venue worthy of your special day.
 
 Remember, great lighting isn't about the most expensive fixtures – it's about thoughtful placement, reliable operation, and creating the warm, inviting atmosphere where your love story unfolds.

@@ -29,7 +29,7 @@ A smart water leak detector basement system monitors moisture levels and sends i
 
 **Price Range: $25-$35**
 
-The [Govee WiFi Water Leak Sensor](https://www.amazon.com/dp/B0G43PPQWR?tag=viciousstudio-20) has been my go-to recommendation for most basement installations. What sets this unit apart is the included 6-foot extension cables that let you position sensors in tight spaces while keeping the main unit accessible.
+The [Govee WiFi Water Leak Sensor](https://www.amazon.com/s?k=Govee+WiFi+Water+Leak+Sensor&tag=viciousstudio-20) has been my go-to recommendation for most basement installations. What sets this unit apart is the included 6-foot extension cables that let you position sensors in tight spaces while keeping the main unit accessible.
 
 **Pros:**
 - Extension cables reach under water heaters, behind furnaces, and into crawl spaces
@@ -46,7 +46,7 @@ I've installed these in five different basements, and they've caught every water
 
 **Price Range: $45-$60**
 
-The [Flo by Moen Smart Water Detector](https://www.amazon.com/dp/B0FVDCYNQG?tag=viciousstudio-20) represents the premium tier of water leak detection. Moen's reputation in plumbing translates to a detector built for long-term reliability in harsh basement environments.
+The [Flo by Moen Smart Water Detector](https://www.amazon.com/s?k=Flo+by+Moen+Smart+Water+Detector&tag=viciousstudio-20) represents the premium tier of water leak detection. Moen's reputation in plumbing translates to a detector built for long-term reliability in harsh basement environments.
 
 **Pros:**
 - 18-month battery life (longest I've tested)
@@ -63,7 +63,7 @@ This detector excels in basements with temperature fluctuations. The built-in te
 
 **Price Range: $30-$40**
 
-The [YoLink Water Leak Sensor](https://www.amazon.com/dp/B0FHPYPNMP?tag=viciousstudio-20) uses LoRa technology instead of WiFi, creating a direct connection to their hub with impressive range. In my testing, it maintained connection through concrete basement walls at distances that killed WiFi-based competitors.
+The [YoLink Water Leak Sensor](https://www.amazon.com/s?k=YoLink+Water+Leak+Sensor&tag=viciousstudio-20) uses LoRa technology instead of WiFi, creating a direct connection to their hub with impressive range. In my testing, it maintained connection through concrete basement walls at distances that killed WiFi-based competitors.
 
 **Pros:**
 - 1000-foot range through walls and floors
@@ -80,7 +80,7 @@ For basements with poor WiFi coverage or homes prone to internet outages, YoLink
 
 **Price Range: $75-$90 for 3-pack**
 
-The [Aqara Water Leak Sensor 3-Pack](https://www.amazon.com/dp/B0G29MKGX1?tag=viciousstudio-20) provides comprehensive basement coverage using Zigbee mesh networking. Each sensor reinforces the signal for others, creating a robust network ideal for large basement spaces.
+The [Aqara Water Leak Sensor 3-Pack](https://www.amazon.com/s?k=Aqara+Water+Leak+Sensor+3-Pack&tag=viciousstudio-20) provides comprehensive basement coverage using Zigbee mesh networking. Each sensor reinforces the signal for others, creating a robust network ideal for large basement spaces.
 
 **Pros:**
 - Mesh networking improves reliability in large areas
@@ -97,7 +97,7 @@ I recommend this system for basements over 1000 square feet or homes with existi
 
 **Price Range: $30-$45**
 
-The [SimpliSafe Water Freeze Sensor](https://www.amazon.com/dp/B08SLQF4VK?tag=viciousstudio-20) combines leak detection with freeze monitoring - crucial for basements with exposed pipes. This dual functionality addresses two major basement water risks in one device.
+The [SimpliSafe Water Freeze Sensor](https://www.amazon.com/s?k=SimpliSafe+Water+Freeze+Sensor&tag=viciousstudio-20) combines leak detection with freeze monitoring - crucial for basements with exposed pipes. This dual functionality addresses two major basement water risks in one device.
 
 **Pros:**
 - Dual water leak and freeze detection
@@ -114,7 +114,7 @@ This sensor shines in unheated basements or seasonal properties. It caught a slo
 
 **Price Range: $40-$55**
 
-The [Honeywell Home Water Leak and Freeze Detector](https://www.amazon.com/dp/B0G43PPQWR?tag=viciousstudio-20) offers industrial reliability in a consumer package. Honeywell's HVAC expertise shows in the temperature accuracy and robust wireless performance.
+The [Honeywell Home Water Leak and Freeze Detector](https://www.amazon.com/s?k=Honeywell+Home+Water+Leak+and+Freeze+Detector&tag=viciousstudio-20) offers industrial reliability in a consumer package. Honeywell's HVAC expertise shows in the temperature accuracy and robust wireless performance.
 
 **Pros:**
 - Accurate temperature readings prevent false freeze alarms
@@ -173,7 +173,7 @@ Most basic sensors only detect standing water through metal probe contact. Advan
 
 ## Our Top Pick: Govee WiFi Water Leak Sensor
 
-After extensive testing in real basement environments, the [Govee WiFi Water Leak Sensor](https://www.amazon.com/dp/B0FVDCYNQG?tag=viciousstudio-20) offers the best combination of reliability, features, and value for most homeowners.
+After extensive testing in real basement environments, the [Govee WiFi Water Leak Sensor](https://www.amazon.com/s?k=Govee+WiFi+Water+Leak+Sensor&tag=viciousstudio-20) offers the best combination of reliability, features, and value for most homeowners.
 
 The extension cables solve the biggest placement problem with basement sensors, allowing effective monitoring in tight spaces around equipment while keeping the main unit accessible. The loud local alarm ensures you'll know about problems immediately, while reliable app notifications keep you informed when away from home.
 

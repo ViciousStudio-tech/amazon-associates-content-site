@@ -33,7 +33,7 @@ The key is finding a mirror that gives you both warm and cool light options—wa
 
 **Price Range: $85-$125**
 
-These mirrors replicate the classic Hollywood vanity setup with LED bulbs surrounding a large rectangular mirror. The [Hollywood Style Vanity Mirror with LED Bulbs](https://www.amazon.com/dp/B0F4WTLVRG?tag=viciousstudio-20) design has become the gold standard for home makeup stations.
+These mirrors replicate the classic Hollywood vanity setup with LED bulbs surrounding a large rectangular mirror. The [Hollywood Style Vanity Mirror with LED Bulbs](https://www.amazon.com/s?k=Hollywood+Style+Vanity+Mirror+with+LED+Bulbs&tag=viciousstudio-20) design has become the gold standard for home makeup stations.
 
 **Pros:**
 - Three color temperature settings (3000K warm, 4000K natural, 6000K cool)
@@ -50,7 +50,7 @@ I've used this style for two years, and the adjustable color temperature is game
 
 **Price Range: $35-$55**
 
-The most practical option for most people, these [Tri-Fold LED Makeup Mirrors](https://www.amazon.com/dp/B0DK1SZRCY?tag=viciousstudio-20) offer excellent functionality without breaking the bank or taking over your bathroom counter.
+The most practical option for most people, these [Tri-Fold LED Makeup Mirrors](https://www.amazon.com/s?k=Tri-Fold+LED+Makeup+Mirrors&tag=viciousstudio-20) offer excellent functionality without breaking the bank or taking over your bathroom counter.
 
 **Pros:**
 - Compact footprint fits any vanity or bathroom counter
@@ -67,7 +67,7 @@ What I love about tri-fold mirrors is the side panels—they eliminate blind spo
 
 **Price Range: $150-$300**
 
-These [Smart Wall-Mounted LED Mirrors](https://www.amazon.com/dp/B0FD45ZBMJ?tag=viciousstudio-20) represent the cutting edge of makeup mirror technology, with smartphone apps that let you save lighting preferences and even sync with your smart home system.
+These [Smart Wall-Mounted LED Mirrors](https://www.amazon.com/s?k=Smart+Wall-Mounted+LED+Mirrors&tag=viciousstudio-20) represent the cutting edge of makeup mirror technology, with smartphone apps that let you save lighting preferences and even sync with your smart home system.
 
 **Pros:**
 - Memory settings store your preferred lighting for different occasions
@@ -84,7 +84,7 @@ The app control is genuinely useful—I have presets for "Morning Rush" (bright,
 
 **Price Range: $45-$75**
 
-Perfect for travel or shared bathrooms, [Rechargeable Portable LED Mirrors](https://www.amazon.com/dp/B0BZVX57FL?tag=viciousstudio-20) offer professional lighting without being tethered to an outlet.
+Perfect for travel or shared bathrooms, [Rechargeable Portable LED Mirrors](https://www.amazon.com/s?k=Rechargeable+Portable+LED+Mirrors&tag=viciousstudio-20) offer professional lighting without being tethered to an outlet.
 
 **Pros:**
 - 8-12 hour battery life handles weeks of daily use
@@ -101,7 +101,7 @@ I keep one of these for travel and backup use. The freedom to position it anywhe
 
 **Price Range: $60-$90**
 
-These [Dual-Sided Magnifying LED Mirrors](https://www.amazon.com/dp/B07RZCT9DH?tag=viciousstudio-20) combine standard and magnified views, essential for detailed work like eyeliner or eyebrow tweezing.
+These [Dual-Sided Magnifying LED Mirrors](https://www.amazon.com/s?k=Dual-Sided+Magnifying+LED+Mirrors&tag=viciousstudio-20) combine standard and magnified views, essential for detailed work like eyeliner or eyebrow tweezing.
 
 **Pros:**
 - 10x magnification side reveals every detail
@@ -118,7 +118,7 @@ The magnifying side is brutal—it shows everything, including things you didn't
 
 **Price Range: $200-$350**
 
-The premium option, these [Large Format Smart Mirrors with Zone Lighting](https://www.amazon.com/dp/B0F4WTLVRG?tag=viciousstudio-20) feature different lighting zones that can be controlled independently.
+The premium option, these [Large Format Smart Mirrors with Zone Lighting](https://www.amazon.com/s?k=Large+Format+Smart+Mirrors+with+Zone+Lighting&tag=viciousstudio-20) feature different lighting zones that can be controlled independently.
 
 **Pros:**
 - Multiple LED zones allow custom lighting patterns
@@ -135,7 +135,7 @@ This is salon-quality equipment for your home. The zone lighting lets you illumi
 
 **Price Range: $70-$110**
 
-These [Voice-Controlled LED Makeup Mirrors](https://www.amazon.com/dp/B0DK1SZRCY?tag=viciousstudio-20) integrate with Amazon Alexa or Google Assistant for hands-free operation.
+These [Voice-Controlled LED Makeup Mirrors](https://www.amazon.com/s?k=Voice-Controlled+LED+Makeup+Mirrors&tag=viciousstudio-20) integrate with Amazon Alexa or Google Assistant for hands-free operation.
 
 **Pros:**
 - Voice commands adjust lighting without interrupting routine
@@ -225,7 +225,7 @@ Color temperature (measured in Kelvin) affects whether light appears warm or coo
 
 ## Our Top Pick: Hollywood Style Vanity Mirror
 
-After extensive testing, the [Hollywood Style Vanity Mirror with LED Bulbs](https://www.amazon.com/dp/B0FD45ZBMJ?tag=viciousstudio-20) delivers the best combination of lighting quality, versatility, and value.
+After extensive testing, the [Hollywood Style Vanity Mirror with LED Bulbs](https://www.amazon.com/s?k=Hollywood+Style+Vanity+Mirror+with+LED+Bulbs&tag=viciousstudio-20) delivers the best combination of lighting quality, versatility, and value.
 
 The three color temperature settings handle any lighting situation, from warm evening looks to bright daylight matching. The large mirror size accommodates your entire routine without repositioning, and the dimming control gives you precise lighting adjustment.
 

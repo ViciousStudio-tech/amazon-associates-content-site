@@ -42,7 +42,7 @@ This commercial-grade shelving system has been my workshop workhorse for two yea
 
 The key advantage here is versatility. I've reconfigured these shelves multiple times as my storage needs changed, and the wire design allows air circulation around stored items—crucial for preventing mold on seasonal gear.
 
-[Heavy Duty 5-Tier Wire Shelving](https://www.amazon.com/dp/B0DJ33ZWHM?tag=viciousstudio-20)
+[Heavy Duty 5-Tier Wire Shelving](https://www.amazon.com/s?k=Heavy+Duty+5-Tier+Wire+Shelving&tag=viciousstudio-20)
 
 ## Industrial Metal Storage Rack System
 
@@ -61,7 +61,7 @@ When you need to store engine blocks, not just gardening supplies, this is your 
 
 I use this system along my garage's back wall for automotive supplies. The solid steel shelves don't flex under the weight of transmission fluid cases or toolboxes, something wire shelving can't match.
 
-[Industrial Heavy Duty Metal Shelving](https://www.amazon.com/dp/B0FM71MKLR?tag=viciousstudio-20)
+[Industrial Heavy Duty Metal Shelving](https://www.amazon.com/s?k=Industrial+Heavy+Duty+Metal+Shelving&tag=viciousstudio-20)
 
 ## 4-Shelf Resin Storage Shelving Unit
 
@@ -80,7 +80,7 @@ Don't let the plastic construction fool you—this resin shelving punches above 
 
 This unit excels in garages with moisture issues. While metal shelving can rust despite protective coatings, resin stays intact through Houston's brutal humidity and temperature swings.
 
-[Heavy Duty Resin Storage Shelving](https://www.amazon.com/dp/B0FQ7Q6673?tag=viciousstudio-20)
+[Heavy Duty Resin Storage Shelving](https://www.amazon.com/s?k=Heavy+Duty+Resin+Storage+Shelving&tag=viciousstudio-20)
 
 ## Adjustable Garage Wall Mounting Shelves
 
@@ -99,7 +99,7 @@ Wall-mounted shelving maximizes floor space while providing serious weight capac
 
 I installed this system above my workbench for frequently-used items. Having tools and supplies at eye level improves workflow, and the wall mounting keeps everything stable even when accessing heavy items.
 
-[Adjustable Wall Mount Garage Shelving](https://www.amazon.com/dp/B0GKNG9XTQ?tag=viciousstudio-20)
+[Adjustable Wall Mount Garage Shelving](https://www.amazon.com/s?k=Adjustable+Wall+Mount+Garage+Shelving&tag=viciousstudio-20)
 
 ## 3-Tier Corner Storage Shelf Unit  
 
@@ -118,7 +118,7 @@ Corner spaces often become dead zones in garage organization, but this triangula
 
 I use mine for automotive fluids and seasonal items that don't need frequent access. The corner design is surprisingly stable, and it's become my go-to recommendation for small garages where every square foot matters.
 
-[Heavy Duty Corner Storage Shelving](https://www.amazon.com/dp/B0F5QDQLZ5?tag=viciousstudio-20)
+[Heavy Duty Corner Storage Shelving](https://www.amazon.com/s?k=Heavy+Duty+Corner+Storage+Shelving&tag=viciousstudio-20)
 
 ## Commercial Grade Mobile Shelving Cart
 
@@ -137,7 +137,7 @@ Sometimes you need heavy-duty storage that moves with your projects. This wheele
 
 This cart has revolutionized my project workflow. I load it with relevant tools and supplies, then roll everything to wherever I'm working. The locking wheels provide stability during use, and the solid steel construction handles daily movement without loosening joints.
 
-[Mobile Heavy Duty Shelving Cart](https://www.amazon.com/dp/B0DJ33ZWHM?tag=viciousstudio-20)
+[Mobile Heavy Duty Shelving Cart](https://www.amazon.com/s?k=Mobile+Heavy+Duty+Shelving+Cart&tag=viciousstudio-20)
 
 ## Extra-Wide 2-Tier Storage Platform
 
@@ -156,7 +156,7 @@ For oversized items like lawn mowers, snow blowers, or large containers, standar
 
 I use this for seasonal equipment storage. The wide shelves accommodate my lawn mower on the bottom and leaf blower plus related supplies on top. The low profile means it fits under my garage door tracks without interference.
 
-[Extra Wide Heavy Duty Storage Platform](https://www.amazon.com/dp/B0FM71MKLR?tag=viciousstudio-20)
+[Extra Wide Heavy Duty Storage Platform](https://www.amazon.com/s?k=Extra+Wide+Heavy+Duty+Storage+Platform&tag=viciousstudio-20)
 
 ## What to Look for in Heavy-Duty Garage Storage Shelves
 

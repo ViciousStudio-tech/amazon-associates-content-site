@@ -29,7 +29,7 @@ Let me break down each option so you can choose the perfect solution for your do
 
 ## Heavy-Duty Steel Bed Risers with Storage Legs
 
-[Heavy-Duty Steel Bed Risers](https://www.amazon.com/dp/B0DJ93WSDT?tag=viciousstudio-20)
+[Heavy-Duty Steel Bed Risers](https://www.amazon.com/s?k=Heavy-Duty+Steel+Bed+Risers&tag=viciousstudio-20)
 
 **Price Range**: $45-$65
 
@@ -48,7 +48,7 @@ The steel construction makes all the difference when you're dealing with dorm be
 
 ## Plastic Stackable Bed Riser Sets
 
-[Plastic Stackable Bed Riser Sets](https://www.amazon.com/dp/B0F5VF4YP1?tag=viciousstudio-20)
+[Plastic Stackable Bed Riser Sets](https://www.amazon.com/s?k=Plastic+Stackable+Bed+Riser+Sets&tag=viciousstudio-20)
 
 **Price Range**: $15-$25
 
@@ -67,7 +67,7 @@ These work well in climate-controlled dorms, but I've seen them become brittle i
 
 ## Adjustable Height Steel Bed Frame Risers
 
-[Adjustable Height Steel Bed Frame Risers](https://www.amazon.com/dp/B0DLNBJ6K9?tag=viciousstudio-20)
+[Adjustable Height Steel Bed Frame Risers](https://www.amazon.com/s?k=Adjustable+Height+Steel+Bed+Frame+Risers&tag=viciousstudio-20)
 
 **Price Range**: $55-$75
 
@@ -86,7 +86,7 @@ I particularly like these for students who change their room layout frequently o
 
 ## Industrial Metal Bed Lift Risers
 
-[Industrial Metal Bed Lift Risers](https://www.amazon.com/dp/B0B4648LMY?tag=viciousstudio-20)
+[Industrial Metal Bed Lift Risers](https://www.amazon.com/s?k=Industrial+Metal+Bed+Lift+Risers&tag=viciousstudio-20)
 
 **Price Range**: $65-$85
 
@@ -105,7 +105,7 @@ These are honestly more than most students need, but they're worth considering i
 
 ## Wide-Base Furniture Risers with Non-Slip Pads
 
-[Wide-Base Furniture Risers with Non-Slip Pads](https://www.amazon.com/dp/B08FMV494F?tag=viciousstudio-20)
+[Wide-Base Furniture Risers with Non-Slip Pads](https://www.amazon.com/s?k=Wide-Base+Furniture+Risers+with+Non-Slip+Pads&tag=viciousstudio-20)
 
 **Price Range**: $30-$45
 
@@ -124,7 +124,7 @@ I especially recommend these for students in older dorms with uneven floors or t
 
 ## Compact Bed Riser Sets for Small Dorms
 
-[Compact Bed Riser Sets for Small Dorms](https://www.amazon.com/dp/B0DJ93WSDT?tag=viciousstudio-20)
+[Compact Bed Riser Sets for Small Dorms](https://www.amazon.com/s?k=Compact+Bed+Riser+Sets+for+Small+Dorms&tag=viciousstudio-20)
 
 **Price Range**: $20-$35
 
@@ -143,7 +143,7 @@ Perfect for students in converted study rooms or particularly small double occup
 
 ## Premium Steel Bed Risers with Cable Management
 
-[Premium Steel Bed Risers with Cable Management](https://www.amazon.com/dp/B0F5VF4YP1?tag=viciousstudio-20)
+[Premium Steel Bed Risers with Cable Management](https://www.amazon.com/s?k=Premium+Steel+Bed+Risers+with+Cable+Management&tag=viciousstudio-20)
 
 **Price Range**: $70-$95
 
@@ -212,7 +212,7 @@ Consider adding LED strip lights under your elevated bed to create ambient light
 
 ## Our Top Pick: Heavy-Duty Steel Bed Risers with Storage Legs
 
-After testing dozens of options in real dorm settings, the [Heavy-Duty Steel Bed Risers](https://www.amazon.com/dp/B0DLNBJ6K9?tag=viciousstudio-20) consistently deliver the best combination of durability, storage capacity, and value. At $45-$65, they're priced fairly for their build quality, and the steel construction ensures they'll last your entire college career.
+After testing dozens of options in real dorm settings, the [Heavy-Duty Steel Bed Risers](https://www.amazon.com/s?k=Heavy-Duty+Steel+Bed+Risers&tag=viciousstudio-20) consistently deliver the best combination of durability, storage capacity, and value. At $45-$65, they're priced fairly for their build quality, and the steel construction ensures they'll last your entire college career.
 
 The 8-12 inches of clearance they provide creates substantial storage space while maintaining comfortable bed height. I've personally seen these risers support everything from mini-fridges to full desk setups without any stability issues.
 

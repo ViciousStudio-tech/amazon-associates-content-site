@@ -33,7 +33,7 @@ Let me walk you through each option with the details that matter most for holida
 
 This has been my go-to holiday storage solution for three years running. The IRIS USA clear storage tote strikes the perfect balance between size, durability, and visibility. At 64 quarts, it holds a substantial amount of decorations without becoming too heavy to move when full.
 
-[IRIS USA Clear Storage Tote](https://www.amazon.com/dp/B00CQGTGXS?tag=viciousstudio-20)
+[IRIS USA Clear Storage Tote](https://www.amazon.com/s?k=IRIS+USA+Clear+Storage+Tote&tag=viciousstudio-20)
 
 **Pros:**
 - Crystal-clear visibility from all angles
@@ -52,7 +52,7 @@ I use these primarily for storing my collection of glass ball ornaments and smal
 
 When you need serious storage capacity, this Sterilite giant delivers. I purchased this specifically for storing my 9-foot artificial Christmas tree sections and oversized holiday decorations. The latching mechanism provides security, and the wheels make moving this substantial container manageable.
 
-[Sterilite 116 Quart Latching Box](https://www.amazon.com/dp/B00I3944PW?tag=viciousstudio-20)
+[Sterilite 116 Quart Latching Box](https://www.amazon.com/s?k=Sterilite+116+Quart+Latching+Box&tag=viciousstudio-20)
 
 **Pros:**
 - Massive 116-quart capacity handles large items
@@ -71,7 +71,7 @@ This container excels at storing garlands, large artificial greenery, and bulky 
 
 Organization enthusiasts will appreciate this three-container system. Each bin features a different internal configuration - one with adjustable dividers, one with smaller compartments, and one open space. This variety accommodates different decoration types perfectly.
 
-[SONGMICS Clear Storage Bins Set](https://www.amazon.com/dp/B0CGTHK9YG?tag=viciousstudio-20)
+[SONGMICS Clear Storage Bins Set](https://www.amazon.com/s?k=SONGMICS+Clear+Storage+Bins+Set&tag=viciousstudio-20)
 
 **Pros:**
 - Multiple organizational options in one purchase
@@ -90,7 +90,7 @@ I dedicate one bin to delicate ornaments using the divided compartments, another
 
 This represents the premium tier of clear holiday storage. The plastic quality surpasses budget options significantly, and the attached lid design prevents the common problem of misplaced covers. The clarity remains exceptional even after years of use.
 
-[Akro-Mils KeepBox Container](https://www.amazon.com/dp/B0GPT7DTXQ?tag=viciousstudio-20)
+[Akro-Mils KeepBox Container](https://www.amazon.com/s?k=Akro-Mils+KeepBox+Container&tag=viciousstudio-20)
 
 **Pros:**
 - Superior plastic clarity that doesn't yellow over time
@@ -109,7 +109,7 @@ I use this for storing my most valuable holiday decorations - vintage ornaments,
 
 Rubbermaid's reputation for durability shines in this holiday storage solution. The snap-lid mechanism operates smoothly even after repeated use, and the container maintains its shape under substantial weight. This becomes my choice for frequently accessed decorations.
 
-[Rubbermaid Clever Store Container](https://www.amazon.com/dp/B0GL4S4BQM?tag=viciousstudio-20)
+[Rubbermaid Clever Store Container](https://www.amazon.com/s?k=Rubbermaid+Clever+Store+Container&tag=viciousstudio-20)
 
 **Pros:**
 - Reliable snap-lid system for easy access

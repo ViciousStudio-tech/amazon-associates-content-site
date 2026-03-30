@@ -37,7 +37,7 @@ This premium option has become my daily driver for good reason. The memory foam 
 - Higher price point than basic models
 - Slightly bulky for very tight spaces
 
-[Adjustable Memory Foam Footrest](https://www.amazon.com/dp/B0FVDC2YQZ?tag=viciousstudio-20)
+[Adjustable Memory Foam Footrest](https://www.amazon.com/s?k=Adjustable+Memory+Foam+Footrest&tag=viciousstudio-20)
 
 ### Basic Foam Platform Footrest
 
@@ -53,7 +53,7 @@ Don't let the "basic" label fool you—this straightforward design delivers exce
 - No height adjustment options
 - May compress over time with heavy use
 
-[Basic Foam Platform Footrest](https://www.amazon.com/dp/B08DHMMBFF?tag=viciousstudio-20)
+[Basic Foam Platform Footrest](https://www.amazon.com/s?k=Basic+Foam+Platform+Footrest&tag=viciousstudio-20)
 
 ### Rocking Footrest with Massage Rollers
 
@@ -69,7 +69,7 @@ This innovative design takes foot comfort to the next level with its gentle rock
 - Motion might be distracting for some users
 - Requires more floor space than static models
 
-[Rocking Footrest with Massage Rollers](https://www.amazon.com/dp/B0C2KLLJPD?tag=viciousstudio-20)
+[Rocking Footrest with Massage Rollers](https://www.amazon.com/s?k=Rocking+Footrest+with+Massage+Rollers&tag=viciousstudio-20)
 
 ### Inflatable Under Desk Footrest
 
@@ -85,7 +85,7 @@ When it comes to versatility and convenience, this inflatable option is hard to 
 - Requires occasional re-inflation
 - Less durable than solid foam options
 
-[Inflatable Under Desk Footrest](https://www.amazon.com/dp/B0BFQX3YFY?tag=viciousstudio-20)
+[Inflatable Under Desk Footrest](https://www.amazon.com/s?k=Inflatable+Under+Desk+Footrest&tag=viciousstudio-20)
 
 ### Steel Frame Adjustable Footrest
 
@@ -101,7 +101,7 @@ For those who need maximum durability and stability, this steel-frame option is 
 - Higher price point reflects premium construction
 - Heavier weight makes it less portable
 
-[Steel Frame Adjustable Footrest](https://www.amazon.com/dp/B0CN3CYTPX?tag=viciousstudio-20)
+[Steel Frame Adjustable Footrest](https://www.amazon.com/s?k=Steel+Frame+Adjustable+Footrest&tag=viciousstudio-20)
 
 ## Buying Guide: What to Look For
 

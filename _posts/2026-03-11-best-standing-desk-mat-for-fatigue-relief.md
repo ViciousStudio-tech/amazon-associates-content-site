@@ -29,7 +29,7 @@ This premium mat combines exceptional comfort with unique balance features that 
 - Higher price point than basic mats
 - Larger footprint may not fit smaller workspaces
 
-[UPLIFT E7 Anti-Fatigue Mat](https://www.amazon.com/dp/B07RVD52XW?tag=viciousstudio-20)
+[UPLIFT E7 Anti-Fatigue Mat](https://www.amazon.com/s?k=UPLIFT+E7+Anti-Fatigue+Mat&tag=viciousstudio-20)
 
 ### Ergodriven Topo Mini ($60-$80)
 
@@ -45,7 +45,7 @@ The Topo Mini revolutionizes standing comfort with its innovative terrain-like s
 - Takes time to adjust to the textured surface
 - Limited flat standing space for those who prefer traditional mats
 
-[Ergodriven Topo Mini Mat](https://www.amazon.com/dp/B0CH13FN9T?tag=viciousstudio-20)
+[Ergodriven Topo Mini Mat](https://www.amazon.com/s?k=Ergodriven+Topo+Mini+Mat&tag=viciousstudio-20)
 
 ### ComfiLife Anti-Fatigue Floor Mat ($40-$60)
 
@@ -61,7 +61,7 @@ This budget-friendly champion proves you don't need to break the bank for qualit
 - Basic design lacks interactive features of premium mats
 - May compress slightly over time with heavy daily use
 
-[ComfiLife Anti-Fatigue Mat](https://www.amazon.com/dp/B08721VQK3?tag=viciousstudio-20)
+[ComfiLife Anti-Fatigue Mat](https://www.amazon.com/s?k=ComfiLife+Anti-Fatigue+Mat&tag=viciousstudio-20)
 
 ### Sky Solutions Anti-Fatigue Mat ($30-$50)
 
@@ -77,7 +77,7 @@ Perfect for those new to standing desks, this affordable option provides solid b
 - Thinner cushioning compared to premium options
 - Limited size options available
 
-[Sky Solutions Anti-Fatigue Mat](https://www.amazon.com/dp/B0D3HZ2VLD?tag=viciousstudio-20)
+[Sky Solutions Anti-Fatigue Mat](https://www.amazon.com/s?k=Sky+Solutions+Anti-Fatigue+Mat&tag=viciousstudio-20)
 
 ### CumulusPRO Standing Desk Mat ($70-$90)
 
@@ -93,7 +93,7 @@ This premium contoured mat combines therapeutic design with commercial-grade dur
 - Massage features may feel too intense for some users initially
 - Higher price point puts it out of reach for budget shoppers
 
-[CumulusPRO Standing Mat](https://www.amazon.com/dp/B07X2RP4DG?tag=viciousstudio-20)
+[CumulusPRO Standing Mat](https://www.amazon.com/s?k=CumulusPRO+Standing+Mat&tag=viciousstudio-20)
 
 ## Buying Guide: What to Look For
 

@@ -29,7 +29,7 @@ The gold standard for good reason, Hydro Flask delivers exceptional temperature 
 - Premium price point
 - Can dent if dropped on hard surfaces
 
-[Hydro Flask Standard Mouth](https://www.amazon.com/dp/B01KXHGWQU?tag=viciousstudio-20)
+[Hydro Flask Standard Mouth](https://www.amazon.com/s?k=Hydro+Flask+Standard+Mouth&tag=viciousstudio-20)
 
 ### YETI Rambler Bottle ($30-40)
 
@@ -45,7 +45,7 @@ YETI's double-wall vacuum insulation rivals Hydro Flask while offering a more ru
 - Limited color options compared to competitors
 - Heavier than some alternatives
 
-[YETI Rambler Bottle](https://www.amazon.com/dp/B0CJCTT8XR?tag=viciousstudio-20)
+[YETI Rambler Bottle](https://www.amazon.com/s?k=YETI+Rambler+Bottle&tag=viciousstudio-20)
 
 ### Simple Modern Summit Water Bottle ($20-30)
 
@@ -61,7 +61,7 @@ Offering premium performance at a fraction of the cost, Simple Modern proves you
 - Flip lid can be difficult to clean thoroughly
 - Not as durable as premium options
 
-[Simple Modern Summit Water Bottle](https://www.amazon.com/dp/B09PMV947K?tag=viciousstudio-20)
+[Simple Modern Summit Water Bottle](https://www.amazon.com/s?k=Simple+Modern+Summit+Water+Bottle&tag=viciousstudio-20)
 
 ### Takeya Actives Insulated Bottle ($25-35)
 
@@ -77,7 +77,7 @@ Takeya strikes the perfect balance between performance and affordability with th
 - Paint can chip with heavy use
 - Fewer size options available
 
-[Takeya Actives Insulated Bottle](https://www.amazon.com/dp/B0DG33PJWL?tag=viciousstudio-20)
+[Takeya Actives Insulated Bottle](https://www.amazon.com/s?k=Takeya+Actives+Insulated+Bottle&tag=viciousstudio-20)
 
 ### Contigo AUTOSEAL Chill ($25-35)
 
@@ -93,7 +93,7 @@ The AUTOSEAL technology is genuinely revolutionary—press to drink, release to 
 - More complex mechanism can be harder to clean
 - Limited to cold drinks only (not suitable for hot beverages)
 
-[Contigo AUTOSEAL Chill](https://www.amazon.com/dp/B01KXHIWL8?tag=viciousstudio-20)
+[Contigo AUTOSEAL Chill](https://www.amazon.com/s?k=Contigo+AUTOSEAL+Chill&tag=viciousstudio-20)
 
 ## Buying Guide: What to Look For
 

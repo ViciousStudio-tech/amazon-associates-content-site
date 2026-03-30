@@ -29,7 +29,7 @@ Now let's dive into the detailed reviews that'll help you make the right choice 
 
 **Price Range:** $3,800-$4,200
 
-The [Hobie Pro Angler 12](https://www.amazon.com/dp/B00J0GW5O4?tag=viciousstudio-20) represents the gold standard in pedal-driven fishing kayaks. I've put over 200 hours on this platform, and it continues to impress with its combination of stability, speed, and fishing features.
+The [Hobie Pro Angler 12](https://www.amazon.com/s?k=Hobie+Pro+Angler+12&tag=viciousstudio-20) represents the gold standard in pedal-driven fishing kayaks. I've put over 200 hours on this platform, and it continues to impress with its combination of stability, speed, and fishing features.
 
 The MirageDrive 360 system is simply the most refined pedal drive on the market. Unlike traditional propeller systems, the oscillating fins provide smooth, quiet propulsion that won't spook fish. The 360-degree steering lets you crab sideways into tight spots or spin in place – invaluable when working structure or following schools.
 
@@ -48,7 +48,7 @@ At 12 feet long with a 36-inch beam, this kayak tracks beautifully in open water
 
 **Price Range:** $2,400-$2,800
 
-The [Old Town Topwater 120 PDL](https://www.amazon.com/dp/B0FT3BY9NM?tag=viciousstudio-20) delivers 90% of the Hobie's performance at 60% of the price. Old Town's PDL Drive uses a propeller system that's efficient and surprisingly quiet – a significant improvement over their earlier designs.
+The [Old Town Topwater 120 PDL](https://www.amazon.com/s?k=Old+Town+Topwater+120+PDL&tag=viciousstudio-20) delivers 90% of the Hobie's performance at 60% of the price. Old Town's PDL Drive uses a propeller system that's efficient and surprisingly quiet – a significant improvement over their earlier designs.
 
 What sets the Topwater apart is its thoughtful design for serious anglers. The Element seating system rivals anything on the market, and the hull design provides excellent stability without sacrificing speed. I regularly hit 4+ mph on this kayak with moderate pedaling effort.
 
@@ -67,7 +67,7 @@ The 120's length provides good tracking, while the 34-inch beam offers a nice ba
 
 **Price Range:** $1,800-$2,200
 
-The [Perception Pescador Pilot 12.0](https://www.amazon.com/dp/B01LXKF75F?tag=viciousstudio-20) proves that pedal-driven fishing kayaks don't have to break the bank. Perception's Pilot Drive system keeps things simple with a reliable propeller design that's easy to maintain and surprisingly effective.
+The [Perception Pescador Pilot 12.0](https://www.amazon.com/s?k=Perception+Pescador+Pilot+12.0&tag=viciousstudio-20) proves that pedal-driven fishing kayaks don't have to break the bank. Perception's Pilot Drive system keeps things simple with a reliable propeller design that's easy to maintain and surprisingly effective.
 
 This kayak shines as an entry point into pedal-driven fishing. The hull is forgiving and stable, making it ideal for beginners or anglers upgrading from paddle kayaks. The seat comfort is basic but adequate, and the storage options cover the essentials without overwhelming new users.
 
@@ -86,7 +86,7 @@ At 12 feet with a 33.75-inch beam, the Pescador Pilot offers good stability whil
 
 **Price Range:** $2,800-$3,200
 
-The [Native Watercraft Slayer Propel 13](https://www.amazon.com/dp/B0CPZM9MDS?tag=viciousstudio-20) brings a unique approach to pedal-driven fishing kayaks. Native's Propel Drive system uses a recumbent-style seating position that some anglers find more comfortable than traditional upright pedaling.
+The [Native Watercraft Slayer Propel 13](https://www.amazon.com/s?k=Native+Watercraft+Slayer+Propel+13&tag=viciousstudio-20) brings a unique approach to pedal-driven fishing kayaks. Native's Propel Drive system uses a recumbent-style seating position that some anglers find more comfortable than traditional upright pedaling.
 
 The Slayer's hull design emphasizes stability above all else. This is a kayak that inspires confidence in rough conditions, and the 13-foot length provides excellent tracking in wind and current. The hidden rudder system works well, though it takes some getting used to.
 
@@ -105,7 +105,7 @@ The recumbent drive position reduces fatigue on long days, but the trade-off is 
 
 **Price Range:** $3,200-$3,600
 
-The [Bonafide SS127 with X-Drive](https://www.amazon.com/dp/B0B72HD5B9?tag=viciousstudio-20) represents Texas-bred innovation in pedal-driven fishing kayaks. Bonafide's X-Drive system uses a unique flex-fin design that provides smooth, efficient propulsion with excellent reverse capability.
+The [Bonafide SS127 with X-Drive](https://www.amazon.com/s?k=Bonafide+SS127+with+X-Drive&tag=viciousstudio-20) represents Texas-bred innovation in pedal-driven fishing kayaks. Bonafide's X-Drive system uses a unique flex-fin design that provides smooth, efficient propulsion with excellent reverse capability.
 
 At 12'7" with a 36-inch beam, the SS127 offers an excellent balance of speed and stability. The hull design excels in both calm and rough water, and the kayak tracks beautifully without feeling locked into one direction. The Hi-Lo seating system provides multiple fishing positions.
 
@@ -124,7 +124,7 @@ The SS127 particularly excels in saltwater applications, where its corrosion-res
 
 **Price Range:** $3,400-$3,800
 
-The [Wilderness Systems ATAK 140](https://www.amazon.com/dp/B00J0GW5O4?tag=viciousstudio-20) brings military-inspired design to recreational fishing. The Helix PD drive system delivers reliable propulsion, while the 14-foot hull provides excellent speed and tracking characteristics.
+The [Wilderness Systems ATAK 140](https://www.amazon.com/s?k=Wilderness+Systems+ATAK+140&tag=viciousstudio-20) brings military-inspired design to recreational fishing. The Helix PD drive system delivers reliable propulsion, while the 14-foot hull provides excellent speed and tracking characteristics.
 
 This kayak's standout feature is its versatility. The modular design allows extensive customization, and the large cockpit accommodates anglers of all sizes comfortably. The longer hull design makes this an excellent choice for covering water quickly.
 
@@ -143,7 +143,7 @@ The ATAK 140 excels on large bodies of water where speed and tracking matter mor
 
 **Price Range:** $2,600-$3,000
 
-The [Jackson Kayak Coosa FD](https://www.amazon.com/dp/B0FT3BY9NM?tag=viciousstudio-20) brings whitewater expertise to the fishing world. Jackson's Flex Drive system provides smooth pedal operation, while the hull design offers exceptional maneuverability – perfect for creek fishing and tight quarters.
+The [Jackson Kayak Coosa FD](https://www.amazon.com/s?k=Jackson+Kayak+Coosa+FD&tag=viciousstudio-20) brings whitewater expertise to the fishing world. Jackson's Flex Drive system provides smooth pedal operation, while the hull design offers exceptional maneuverability – perfect for creek fishing and tight quarters.
 
 At 12 feet with a 33-inch beam, the Coosa FD prioritizes maneuverability over straight-line speed. This makes it ideal for river fishing, small lakes, and anywhere precise boat control matters more than covering long distances quickly.
 
@@ -210,10 +210,10 @@ Most anglers adapt to pedal drives within their first outing. The coordination f
 
 ## Our Top Pick: Hobie Pro Angler 12
 
-After extensive testing and real-world use, the [Hobie Pro Angler 12](https://www.amazon.com/dp/B01LXKF75F?tag=viciousstudio-20) remains my top choice for the best fishing kayak with pedal drive. Yes, it's expensive, but the combination of the refined MirageDrive 360 system, exceptional stability, and thoughtful fishing features justify the premium.
+After extensive testing and real-world use, the [Hobie Pro Angler 12](https://www.amazon.com/s?k=Hobie+Pro+Angler+12&tag=viciousstudio-20) remains my top choice for the best fishing kayak with pedal drive. Yes, it's expensive, but the combination of the refined MirageDrive 360 system, exceptional stability, and thoughtful fishing features justify the premium.
 
 The Pro Angler 12 excels in every fishing situation I've encountered – from shallow saltwater flats to deep freshwater structure. The 360-degree drive maneuverability is unmatched, and the overall quality ensures years of reliable service.
 
-For budget-conscious anglers, the [Old Town Topwater 120 PDL](https://www.amazon.com/dp/B0CPZM9MDS?tag=viciousstudio-20) provides excellent performance at a more accessible price point. It's 90% of the Hobie's capability for 60% of the cost.
+For budget-conscious anglers, the [Old Town Topwater 120 PDL](https://www.amazon.com/s?k=Old+Town+Topwater+120+PDL&tag=viciousstudio-20) provides excellent performance at a more accessible price point. It's 90% of the Hobie's capability for 60% of the cost.
 
 The right pedal-driven fishing kayak transforms your angling experience. No more paddle fatigue, no more losing fish while scrambling for position control. Choose based on your budget, fishing style, and local conditions – but choose soon. Once you experience hands-free boat control, you'll never want to go back to paddle-only fishing.

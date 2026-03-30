@@ -29,7 +29,7 @@ Now let's break down exactly why these models dominate the competition and explo
 
 **Price Range: $399-$499**
 
-The [Shark IQ Robot Self-Empty XL](https://www.amazon.com/dp/B07S864GPW?tag=viciousstudio-20) consistently outperforms competitors when it comes to pet hair on stairs. What sets it apart is the self-cleaning brushroll that actively removes pet hair tangles — a feature I wish every robot vacuum manufacturer would steal.
+The [Shark IQ Robot Self-Empty XL](https://www.amazon.com/s?k=Shark+IQ+Robot+Self-Empty+XL&tag=viciousstudio-20) consistently outperforms competitors when it comes to pet hair on stairs. What sets it apart is the self-cleaning brushroll that actively removes pet hair tangles — a feature I wish every robot vacuum manufacturer would steal.
 
 **Pros:**
 - Self-cleaning brushroll eliminates 95% of hair tangles
@@ -46,7 +46,7 @@ I tested this model in a home with two golden retrievers, and it consistently pi
 
 **Price Range: $179-$229**
 
-Don't let the lower price fool you — the [Eufy RoboVac 11S MAX](https://www.amazon.com/dp/B0F3BSWC9P?tag=viciousstudio-20) punches well above its weight class. With 2000Pa suction power, it rivals vacuums costing twice as much.
+Don't let the lower price fool you — the [Eufy RoboVac 11S MAX](https://www.amazon.com/s?k=Eufy+RoboVac+11S+MAX&tag=viciousstudio-20) punches well above its weight class. With 2000Pa suction power, it rivals vacuums costing twice as much.
 
 **Pros:**
 - Excellent suction-to-price ratio
@@ -63,7 +63,7 @@ This vacuum earned its spot by consistently removing pet hair from carpeted stai
 
 **Price Range: $599-$799**
 
-The [iRobot Roomba j7+](https://www.amazon.com/dp/B09T4YZGQR?tag=viciousstudio-20) brings artificial intelligence to pet hair cleanup. Its PrecisionVision Navigation can identify and avoid pet waste — a feature that's saved me from several cleaning disasters.
+The [iRobot Roomba j7+](https://www.amazon.com/s?k=iRobot+Roomba+j7%2B&tag=viciousstudio-20) brings artificial intelligence to pet hair cleanup. Its PrecisionVision Navigation can identify and avoid pet waste — a feature that's saved me from several cleaning disasters.
 
 **Pros:**
 - Pet waste avoidance technology (P.O.O.P. promise)
@@ -80,7 +80,7 @@ In homes with multiple pets, this vacuum's ability to methodically clean stairs 
 
 **Price Range: $149-$199**
 
-The [Tineco PURE ONE S12 Plus](https://www.amazon.com/dp/B08DLRYHKY?tag=viciousstudio-20) breaks the mold by offering both robotic and handheld functionality. This convertible design makes it perfect for stairs that need both automated and manual attention.
+The [Tineco PURE ONE S12 Plus](https://www.amazon.com/s?k=Tineco+PURE+ONE+S12+Plus&tag=viciousstudio-20) breaks the mold by offering both robotic and handheld functionality. This convertible design makes it perfect for stairs that need both automated and manual attention.
 
 **Pros:**
 - Converts to handheld for precise stair cleaning
@@ -97,7 +97,7 @@ For pet owners who want flexibility, this model excels at reaching tight corners
 
 **Price Range: $199-$249**
 
-The [Bissell CrossWave Pet Pro All-in-One](https://www.amazon.com/dp/B0F2GRYPD1?tag=viciousstudio-20) takes a different approach by simultaneously vacuuming and washing stairs. This dual-action cleaning proves especially effective for pet accidents and embedded odors.
+The [Bissell CrossWave Pet Pro All-in-One](https://www.amazon.com/s?k=Bissell+CrossWave+Pet+Pro+All-in-One&tag=viciousstudio-20) takes a different approach by simultaneously vacuuming and washing stairs. This dual-action cleaning proves especially effective for pet accidents and embedded odors.
 
 **Pros:**
 - Vacuums and washes in one pass
@@ -114,7 +114,7 @@ I've found this model invaluable for deep-cleaning carpeted stairs where pets sp
 
 **Price Range: $79-$119**
 
-When robot vacuums can't reach certain spots, the [Black+Decker Dustbuster AdvancedClean+](https://www.amazon.com/dp/B07S864GPW?tag=viciousstudio-20) provides targeted pet hair removal. Its cyclonic action and pet hair tool attachment make it perfect for spot-cleaning problem areas.
+When robot vacuums can't reach certain spots, the [Black+Decker Dustbuster AdvancedClean+](https://www.amazon.com/s?k=Black%2BDecker+Dustbuster+AdvancedClean%2B&tag=viciousstudio-20) provides targeted pet hair removal. Its cyclonic action and pet hair tool attachment make it perfect for spot-cleaning problem areas.
 
 **Pros:**
 - Specialized pet hair tool attachment
@@ -131,7 +131,7 @@ This handheld option serves as an excellent complement to robot vacuums, handlin
 
 **Price Range: $1,399-$1,599**
 
-The [Roborock S7 MaxV Ultra](https://www.amazon.com/dp/B0F3BSWC9P?tag=viciousstudio-20) represents the pinnacle of robot vacuum technology. Its sonic mopping technology combined with powerful suction creates an unmatched cleaning experience for pet owners.
+The [Roborock S7 MaxV Ultra](https://www.amazon.com/s?k=Roborock+S7+MaxV+Ultra&tag=viciousstudio-20) represents the pinnacle of robot vacuum technology. Its sonic mopping technology combined with powerful suction creates an unmatched cleaning experience for pet owners.
 
 **Pros:**
 - Sonic mopping at 3,000 vibrations per minute
@@ -202,7 +202,7 @@ Empty dustbins after every cleaning session when dealing with pet hair. Clean br
 
 ## Our Top Pick: Shark IQ Robot Self-Empty XL
 
-After extensive testing across different home environments, the [Shark IQ Robot Self-Empty XL](https://www.amazon.com/dp/B09T4YZGQR?tag=viciousstudio-20) emerges as our clear winner for **best robot vacuum pet hair stairs**. Its self-cleaning brushroll technology solves the biggest problem plaguing robot vacuums in pet homes — hair tangles that stop cleaning performance.
+After extensive testing across different home environments, the [Shark IQ Robot Self-Empty XL](https://www.amazon.com/s?k=Shark+IQ+Robot+Self-Empty+XL&tag=viciousstudio-20) emerges as our clear winner for **best robot vacuum pet hair stairs**. Its self-cleaning brushroll technology solves the biggest problem plaguing robot vacuums in pet homes — hair tangles that stop cleaning performance.
 
 The 60-day self-emptying base means you can truly set it and forget it, while the methodical cleaning pattern ensures thorough coverage of every stair surface. At $399-$499, it delivers premium performance without the premium price tag of competing models.
 

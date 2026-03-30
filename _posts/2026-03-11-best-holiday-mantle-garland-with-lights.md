@@ -46,7 +46,7 @@ This garland strikes the perfect balance between realism and functionality. The 
 
 The warm white LEDs create that cozy, traditional holiday glow without the harsh brightness of cool white bulbs. I've used this exact model on my own mantle for three seasons, and it still looks as full as day one.
 
-[Mixed Pine Garland with Warm White LEDs](https://www.amazon.com/dp/B074D95TMQ?tag=viciousstudio-20)
+[Mixed Pine Garland with Warm White LEDs](https://www.amazon.com/s?k=Mixed+Pine+Garland+with+Warm+White+LEDs&tag=viciousstudio-20)
 
 ### 6-Foot Traditional Pine Garland with Clear Lights
 
@@ -65,7 +65,7 @@ For smaller mantles or budget-conscious decorators, this 6-foot option delivers 
 
 The clear LED bulbs mimic traditional incandescent Christmas lights while using 90% less energy. This garland works especially well in modern or minimalist holiday decorating schemes.
 
-[6-Foot Traditional Pine Garland Clear Lights](https://www.amazon.com/dp/B00LKRMFKK?tag=viciousstudio-20)
+[6-Foot Traditional Pine Garland Clear Lights](https://www.amazon.com/s?k=6-Foot+Traditional+Pine+Garland+Clear+Lights&tag=viciousstudio-20)
 
 ### Premium Noble Fir Garland with Battery Pack
 
@@ -84,7 +84,7 @@ This is hands-down the most realistic artificial garland I've encountered. The N
 
 The battery operation makes this perfect for mantles without nearby outlets or when you want to avoid visible cords. The timer function automatically turns lights on each evening—a convenience that's worth the premium price.
 
-[Premium Noble Fir Battery Garland](https://www.amazon.com/dp/B008ALEV1A?tag=viciousstudio-20)
+[Premium Noble Fir Battery Garland](https://www.amazon.com/s?k=Premium+Noble+Fir+Battery+Garland&tag=viciousstudio-20)
 
 ### 12-Foot Extra Full Garland with Timer Function
 
@@ -103,7 +103,7 @@ Large mantles demand substantial garlands, and this 12-footer delivers dramatic 
 
 I recommend this for mantles 8 feet or wider. The abundance of lights creates stunning visual impact, especially in great rooms or formal living spaces where the mantle serves as a focal point.
 
-[12-Foot Extra Full LED Garland](https://www.amazon.com/dp/B0FH6FPZPQ?tag=viciousstudio-20)
+[12-Foot Extra Full LED Garland](https://www.amazon.com/s?k=12-Foot+Extra+Full+LED+Garland&tag=viciousstudio-20)
 
 ### Cordless Mixed Greenery Garland with Remote Control
 
@@ -122,7 +122,7 @@ Technology meets tradition with this remote-controlled garland. The mixed greene
 
 The dimming feature lets you adjust brightness throughout the evening—bright for entertaining, dimmed for ambient lighting. The mixed greenery approach works beautifully with both traditional and contemporary décor.
 
-[Cordless Mixed Greenery with Remote](https://www.amazon.com/dp/B005D8EHBM?tag=viciousstudio-20)
+[Cordless Mixed Greenery with Remote](https://www.amazon.com/s?k=Cordless+Mixed+Greenery+with+Remote&tag=viciousstudio-20)
 
 ### 9-Foot Frosted Pine Garland with Color-Changing LEDs
 
@@ -141,7 +141,7 @@ For families who enjoy variety, this color-changing option offers multiple light
 
 While colored lights aren't for everyone, this garland excels in homes with children or anyone who enjoys changing their holiday look throughout the season.
 
-[Frosted Pine Color-Changing LED Garland](https://www.amazon.com/dp/B074D95TMQ?tag=viciousstudio-20)
+[Frosted Pine Color-Changing LED Garland](https://www.amazon.com/s?k=Frosted+Pine+Color-Changing+LED+Garland&tag=viciousstudio-20)
 
 ## What to Look for When Buying Holiday Mantle Garland with Lights
 

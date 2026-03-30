@@ -27,7 +27,7 @@ After extensive testing, here are my top picks for shift workers who need comple
 
 ## NICETOWN Triple Weave Blackout Curtains
 
-[NICETOWN Triple Weave Blackout Curtains](https://www.amazon.com/dp/B08KRM9M8F?tag=viciousstudio-20)
+[NICETOWN Triple Weave Blackout Curtains](https://www.amazon.com/s?k=NICETOWN+Triple+Weave+Blackout+Curtains&tag=viciousstudio-20)
 
 **Price Range**: $25-$40
 
@@ -46,7 +46,7 @@ I've used these in bedrooms with east-facing windows, and they've transformed ro
 
 ## Deconovo Blackout Curtains with Grommets  
 
-[Deconovo Blackout Curtains with Grommets](https://www.amazon.com/dp/B0B2D8KVCF?tag=viciousstudio-20)
+[Deconovo Blackout Curtains with Grommets](https://www.amazon.com/s?k=Deconovo+Blackout+Curtains+with+Grommets&tag=viciousstudio-20)
 
 **Price Range**: $15-$25
 
@@ -65,7 +65,7 @@ These work particularly well in smaller rooms or as secondary curtains behind ex
 
 ## Eclipse Absolute Zero Blackout Curtains
 
-[Eclipse Absolute Zero Blackout Curtains](https://www.amazon.com/dp/B01GCLYTIY?tag=viciousstudio-20)
+[Eclipse Absolute Zero Blackout Curtains](https://www.amazon.com/s?k=Eclipse+Absolute+Zero+Blackout+Curtains&tag=viciousstudio-20)
 
 **Price Range**: $35-$55
 
@@ -84,7 +84,7 @@ I recommend these for shift workers who are particularly sensitive to light or t
 
 ## BGment Thermal Insulated Curtains
 
-[BGment Thermal Insulated Curtains](https://www.amazon.com/dp/B09B214PLD?tag=viciousstudio-20)
+[BGment Thermal Insulated Curtains](https://www.amazon.com/s?k=BGment+Thermal+Insulated+Curtains&tag=viciousstudio-20)
 
 **Price Range**: $30-$50
 
@@ -103,7 +103,7 @@ I've recommended these to shift workers living in studio apartments with floor-t
 
 ## H.VERSAILTEX Blackout Curtains
 
-[H.VERSAILTEX Blackout Curtains](https://www.amazon.com/dp/B015SJ7TNI?tag=viciousstudio-20)
+[H.VERSAILTEX Blackout Curtains](https://www.amazon.com/s?k=H.VERSAILTEX+Blackout+Curtains&tag=viciousstudio-20)
 
 **Price Range**: $40-$65
 
@@ -122,7 +122,7 @@ These have been game-changers for shift workers I know who live near busy street
 
 ## Yakamok Light Blocking Curtains
 
-[Yakamok Light Blocking Curtains](https://www.amazon.com/dp/B08KRM9M8F?tag=viciousstudio-20)
+[Yakamok Light Blocking Curtains](https://www.amazon.com/s?k=Yakamok+Light+Blocking+Curtains&tag=viciousstudio-20)
 
 **Price Range**: $20-$35
 
@@ -185,7 +185,7 @@ Yes, but choose curtains with cord-free operation or proper cord management syst
 
 ## Our Top Pick: NICETOWN Triple Weave Blackout Curtains
 
-After testing numerous options and receiving feedback from shift workers across different industries, the [NICETOWN Triple Weave Blackout Curtains](https://www.amazon.com/dp/B0B2D8KVCF?tag=viciousstudio-20) consistently deliver the best combination of performance, value, and reliability.
+After testing numerous options and receiving feedback from shift workers across different industries, the [NICETOWN Triple Weave Blackout Curtains](https://www.amazon.com/s?k=NICETOWN+Triple+Weave+Blackout+Curtains&tag=viciousstudio-20) consistently deliver the best combination of performance, value, and reliability.
 
 These curtains block enough light to create genuine sleeping conditions during daylight hours while offering thermal benefits that reduce energy costs. The triple-weave construction provides durability that withstands the frequent opening and closing that shift workers require.
 

@@ -27,7 +27,7 @@ Now let's dive into the complete breakdown of the seven best options I've found.
 
 ## Himalayan Salt Lamp with Dimmer Control
 
-The [Himalayan Salt Lamp with Dimmer Switch](https://www.amazon.com/dp/B08628YFPJ?tag=viciousstudio-20) has become my absolute favorite for creating that perfect nursery ambiance. 
+The [Himalayan Salt Lamp with Dimmer Switch](https://www.amazon.com/s?k=Himalayan+Salt+Lamp+with+Dimmer+Switch&tag=viciousstudio-20) has become my absolute favorite for creating that perfect nursery ambiance. 
 
 **Price Range**: $25-$40
 
@@ -44,7 +44,7 @@ I keep mine on the lowest setting during night feeds, and the gentle amber light
 
 ## Smart LED Strip Lights with Color Temperature Control
 
-For tech-savvy parents, [Smart LED Strip Lights with Warm White Settings](https://www.amazon.com/dp/B0G4G6PM2P?tag=viciousstudio-20) offer unmatched versatility.
+For tech-savvy parents, [Smart LED Strip Lights with Warm White Settings](https://www.amazon.com/s?k=Smart+LED+Strip+Lights+with+Warm+White+Settings&tag=viciousstudio-20) offer unmatched versatility.
 
 **Price Range**: $30-$50
 
@@ -61,7 +61,7 @@ I've installed these behind my daughter's headboard, and the ability to graduall
 
 ## Battery-Powered Mushroom Night Light
 
-The [Rechargeable Mushroom Touch Night Light](https://www.amazon.com/dp/B0FXWFF4P7?tag=viciousstudio-20) wins points for portability and kid-friendly design.
+The [Rechargeable Mushroom Touch Night Light](https://www.amazon.com/s?k=Rechargeable+Mushroom+Touch+Night+Light&tag=viciousstudio-20) wins points for portability and kid-friendly design.
 
 **Price Range**: $15-$25
 
@@ -77,7 +77,7 @@ This little light has traveled with us to grandparents' houses, hotels, and even
 
 ## Plug-in Night Light with Adjustable Brightness
 
-Sometimes simple is better. The [Adjustable Plug-in Night Light with Dimmer](https://www.amazon.com/dp/B07BB5H8LB?tag=viciousstudio-20) offers reliable, no-fuss ambient lighting.
+Sometimes simple is better. The [Adjustable Plug-in Night Light with Dimmer](https://www.amazon.com/s?k=Adjustable+Plug-in+Night+Light+with+Dimmer&tag=viciousstudio-20) offers reliable, no-fuss ambient lighting.
 
 **Price Range**: $12-$20
 
@@ -94,7 +94,7 @@ I use these in hallways leading to the nursery and in the bathroom for those ine
 
 ## Moon and Star Projector with Dimming Function
 
-The [Rotating Star Projector with Dimmer Control](https://www.amazon.com/dp/B071KZKYCB?tag=viciousstudio-20) adds a magical element while still providing practical ambient lighting.
+The [Rotating Star Projector with Dimmer Control](https://www.amazon.com/s?k=Rotating+Star+Projector+with+Dimmer+Control&tag=viciousstudio-20) adds a magical element while still providing practical ambient lighting.
 
 **Price Range**: $20-$35
 
@@ -111,7 +111,7 @@ My son was mesmerized by the gentle star patterns during his bedtime routine. Th
 
 ## Table Lamp with Touch Dimming
 
-A [Modern Touch Lamp with Stepless Dimming](https://www.amazon.com/dp/B08628YFPJ?tag=viciousstudio-20) provides traditional lighting with modern convenience.
+A [Modern Touch Lamp with Stepless Dimming](https://www.amazon.com/s?k=Modern+Touch+Lamp+with+Stepless+Dimming&tag=viciousstudio-20) provides traditional lighting with modern convenience.
 
 **Price Range**: $35-$55
 
@@ -128,7 +128,7 @@ I love having this on the changing table. The wide range of brightness levels me
 
 ## Wireless Motion Sensor Strip Light
 
-For hands-free convenience, [Motion Activated LED Strip Lights](https://www.amazon.com/dp/B0G4G6PM2P?tag=viciousstudio-20) with adjustable brightness offer practical automation.
+For hands-free convenience, [Motion Activated LED Strip Lights](https://www.amazon.com/s?k=Motion+Activated+LED+Strip+Lights&tag=viciousstudio-20) with adjustable brightness offer practical automation.
 
 **Price Range**: $25-$40
 
@@ -192,7 +192,7 @@ Night lights typically provide minimal illumination just for navigation, while a
 
 ## Our Top Pick: Himalayan Salt Lamp with Dimmer Control
 
-After testing all these options extensively, the [Himalayan Salt Lamp with Dimmer Switch](https://www.amazon.com/dp/B0FXWFF4P7?tag=viciousstudio-20) remains my top recommendation for most nurseries.
+After testing all these options extensively, the [Himalayan Salt Lamp with Dimmer Switch](https://www.amazon.com/s?k=Himalayan+Salt+Lamp+with+Dimmer+Switch&tag=viciousstudio-20) remains my top recommendation for most nurseries.
 
 The combination of naturally warm light, precise dimming control, and reasonable price point makes it the most versatile option I've found. Unlike LED lights that can feel clinical even on warm settings, salt lamps produce genuinely soothing illumination that feels more like candlelight than electric lighting.
 

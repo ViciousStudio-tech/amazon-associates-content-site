@@ -29,7 +29,7 @@ After testing dozens of pillow combinations on various brown leather sofas, here
 
 **Price Range: $25-$40 per pillow**
 
-[Linen Textured Throw Pillows Set](https://www.amazon.com/dp/B0D1K6L555?tag=viciousstudio-20)
+[Linen Textured Throw Pillows Set](https://www.amazon.com/s?k=Linen+Textured+Throw+Pillows+Set&tag=viciousstudio-20)
 
 These linen-blend pillows are my absolute favorite for brown leather sofas. The natural texture of linen creates beautiful contrast against smooth leather while maintaining an upscale, cohesive look.
 
@@ -48,7 +48,7 @@ I typically recommend a set of three: two in cream or oatmeal, and one accent pi
 
 **Price Range: $30-$55 per pillow**
 
-[Faux Fur Decorative Lumbar Pillows](https://www.amazon.com/dp/B0D1K4TVY2?tag=viciousstudio-20)
+[Faux Fur Decorative Lumbar Pillows](https://www.amazon.com/s?k=Faux+Fur+Decorative+Lumbar+Pillows&tag=viciousstudio-20)
 
 Nothing says luxury quite like the combination of leather and fur textures. These faux fur lumbar pillows add instant sophistication while providing excellent back support.
 
@@ -67,7 +67,7 @@ Choose ivory or camel shades for a monochromatic look, or go bold with a deep bu
 
 **Price Range: $22-$38 per pillow**
 
-[Navy Gold Geometric Throw Pillows](https://www.amazon.com/dp/B0FFB9PPKB?tag=viciousstudio-20)
+[Navy Gold Geometric Throw Pillows](https://www.amazon.com/s?k=Navy+Gold+Geometric+Throw+Pillows&tag=viciousstudio-20)
 
 For those who want to add personality without going overboard, geometric patterns in navy and gold strike the perfect balance. These colors are classic enough to feel timeless yet bold enough to make a statement.
 
@@ -86,7 +86,7 @@ I recommend using these as accent pillows—one or two maximum—paired with sol
 
 **Price Range: $35-$60 per pillow**
 
-[Chunky Knit Cable Throw Pillows](https://www.amazon.com/dp/B0CKRBWK64?tag=viciousstudio-20)
+[Chunky Knit Cable Throw Pillows](https://www.amazon.com/s?k=Chunky+Knit+Cable+Throw+Pillows&tag=viciousstudio-20)
 
 These oversized, chunky knit pillows transform a sleek leather sofa into the coziest spot in your home. The cable-knit texture adds incredible visual and tactile appeal.
 
@@ -105,7 +105,7 @@ Choose cream, oatmeal, or soft gray for the most versatility. These work best as
 
 **Price Range: $28-$45 per pillow**
 
-[Velvet Square Throw Pillows Jewel Tones](https://www.amazon.com/dp/B0D1K6JGST?tag=viciousstudio-20)
+[Velvet Square Throw Pillows Jewel Tones](https://www.amazon.com/s?k=Velvet+Square+Throw+Pillows+Jewel+Tones&tag=viciousstudio-20)
 
 When you want to add richness and depth, velvet pillows in jewel tones are unmatched. The smooth velvet texture complements leather beautifully while adding sophisticated color.
 
@@ -124,7 +124,7 @@ Emerald green, sapphire blue, or deep burgundy work wonderfully. Use these spari
 
 **Price Range: $18-$32 per pillow**
 
-[Cotton Canvas Decorative Pillows Neutral](https://www.amazon.com/dp/B0D1K6L555?tag=viciousstudio-20)
+[Cotton Canvas Decorative Pillows Neutral](https://www.amazon.com/s?k=Cotton+Canvas+Decorative+Pillows+Neutral&tag=viciousstudio-20)
 
 For budget-conscious decorators who don't want to compromise on style, cotton canvas pillows offer durability and versatility at an unbeatable price point.
 
@@ -143,7 +143,7 @@ These work best as foundational pieces. Buy several in complementary neutral sha
 
 **Price Range: $32-$50 per pillow**
 
-[Moroccan Textured Throw Pillows Boho](https://www.amazon.com/dp/B0D1K4TVY2?tag=viciousstudio-20)
+[Moroccan Textured Throw Pillows Boho](https://www.amazon.com/s?k=Moroccan+Textured+Throw+Pillows+Boho&tag=viciousstudio-20)
 
 These globally-inspired pillows feature intricate textures, fringe details, and warm earth tones that complement brown leather perfectly while adding worldly sophistication.
 
@@ -225,6 +225,6 @@ The **best throw pillows for brown leather sofa** styling comes down to balancin
 
 Start with a foundation of neutral textured pillows, then add personality through one accent color or pattern. Mix sizes and textures for visual interest, but keep your color palette cohesive.
 
-**Our Top Pick**: The [Linen Textured Throw Pillows Set](https://www.amazon.com/dp/B0FFB9PPKB?tag=viciousstudio-20) offers the perfect combination of sophistication, comfort, and versatility. Pair these cream linen pillows with one [Faux Fur Lumbar Pillow](https://www.amazon.com/dp/B0CKRBWK64?tag=viciousstudio-20) in camel and one [Navy Gold Geometric Throw Pillow](https://www.amazon.com/dp/B0D1K6JGST?tag=viciousstudio-20) for a designer look that works in any space.
+**Our Top Pick**: The [Linen Textured Throw Pillows Set](https://www.amazon.com/s?k=Linen+Textured+Throw+Pillows+Set&tag=viciousstudio-20) offers the perfect combination of sophistication, comfort, and versatility. Pair these cream linen pillows with one [Faux Fur Lumbar Pillow](https://www.amazon.com/s?k=Faux+Fur+Lumbar+Pillow&tag=viciousstudio-20) in camel and one [Navy Gold Geometric Throw Pillow](https://www.amazon.com/s?k=Navy+Gold+Geometric+Throw+Pillow&tag=viciousstudio-20) for a designer look that works in any space.
 
 This combination gives you the textural contrast of linen against leather, the luxury feel of faux fur, and just enough pattern to keep things interesting—all while maintaining the sophisticated elegance your brown leather sofa deserves.

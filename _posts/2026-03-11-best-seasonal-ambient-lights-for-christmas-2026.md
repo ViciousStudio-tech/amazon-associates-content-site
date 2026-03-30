@@ -46,7 +46,7 @@ These strip lights have revolutionized my approach to holiday decorating. The 16
 
 I've installed these behind my TV, under kitchen cabinets, and along stair railings. The music sync feature turns any room into a light show when playing Christmas carols. The scheduling function automatically turns them on at sunset and off at midnight.
 
-[Smart RGB LED Strip Lights](https://www.amazon.com/dp/B0D4QJZQ7Z?tag=viciousstudio-20)
+[Smart RGB LED Strip Lights](https://www.amazon.com/s?k=Smart+RGB+LED+Strip+Lights&tag=viciousstudio-20)
 
 ## Rotating Snowflake Pattern Laser Projector
 
@@ -65,7 +65,7 @@ This outdoor projector transforms any surface into a moving winter wonderland. U
 
 I set this up on a stake in my front yard, and neighbors stop to ask about it every evening. The snowflake patterns create depth and movement that static lights simply can't match. The remote control lets you adjust rotation speed and brightness from indoors.
 
-[Rotating Snowflake Laser Projector](https://www.amazon.com/dp/B0991Q94KP?tag=viciousstudio-20)
+[Rotating Snowflake Laser Projector](https://www.amazon.com/s?k=Rotating+Snowflake+Laser+Projector&tag=viciousstudio-20)
 
 ## Warm White Fairy String Lights with Timer
 
@@ -84,7 +84,7 @@ Sometimes simple is best. These battery-powered fairy lights use micro LEDs on t
 
 I use these for mantlepiece decoration, wrapped around garland, and inside glass hurricane lamps. The warm white LEDs create that cozy cottage atmosphere that makes rooms feel instantly more inviting. At this price point, I buy several sets for consistent lighting throughout the house.
 
-[Warm White Fairy String Lights](https://www.amazon.com/dp/B08Q7M6RD3?tag=viciousstudio-20)
+[Warm White Fairy String Lights](https://www.amazon.com/s?k=Warm+White+Fairy+String+Lights&tag=viciousstudio-20)
 
 ## Color-Changing Smart Bulb Starter Kit
 
@@ -103,7 +103,7 @@ This kit includes four smart bulbs and a hub that integrates with Alexa, Google 
 
 I replace regular bulbs in table lamps, floor lamps, and ceiling fixtures with these during the holidays. The app includes "Christmas Morning," "Candlelight," and "Winter Wonderland" presets that change the entire mood of a room instantly. The scheduling feature gradually dims them in the evening like a sunset.
 
-[Color-Changing Smart Bulb Kit](https://www.amazon.com/dp/B0D2Y9ZK1Y?tag=viciousstudio-20)
+[Color-Changing Smart Bulb Kit](https://www.amazon.com/s?k=Color-Changing+Smart+Bulb+Kit&tag=viciousstudio-20)
 
 ## Flexible Rope Lights with Remote Control
 
@@ -122,7 +122,7 @@ These rope lights combine the durability of traditional rope lighting with moder
 
 I outline my roofline with these each year because they're robust enough for outdoor installation but flexible enough for curved surfaces. The silicone coating has held up through three seasons without cracking or water damage. The steady-burn white setting looks professional, while color-changing modes add festivity for parties.
 
-[Flexible LED Rope Lights](https://www.amazon.com/dp/B09V366BDY?tag=viciousstudio-20)
+[Flexible LED Rope Lights](https://www.amazon.com/s?k=Flexible+LED+Rope+Lights&tag=viciousstudio-20)
 
 ## Curtain-Style Icicle Light Strings  
 
@@ -141,7 +141,7 @@ These create a curtain of light with varying strand lengths that mimic natural i
 
 I hang these across my front porch and living room windows. The icicle effect looks particularly striking against dark backgrounds. The wave function creates gentle motion that draws the eye without being distracting. For large installations, I connect three panels for a 30-foot continuous curtain.
 
-[Curtain Icicle Light Strings](https://www.amazon.com/dp/B0D4QJZQ7Z?tag=viciousstudio-20)
+[Curtain Icicle Light Strings](https://www.amazon.com/s?k=Curtain+Icicle+Light+Strings&tag=viciousstudio-20)
 
 ## Professional-Grade Motion Projection System
 
@@ -160,7 +160,7 @@ This premium projector offers multiple interchangeable slides including snowflak
 
 This is my choice for homeowners who want showstopping displays. The slide quality and projection clarity exceed cheaper alternatives noticeably. I particularly love the falling snow effect that covers my entire house facade. The initial investment pays off with years of reliable operation.
 
-[Professional Motion Projector](https://www.amazon.com/dp/B0991Q94KP?tag=viciousstudio-20)
+[Professional Motion Projector](https://www.amazon.com/s?k=Professional+Motion+Projector&tag=viciousstudio-20)
 
 ## What to Look for When Buying Christmas Ambient Lights
 

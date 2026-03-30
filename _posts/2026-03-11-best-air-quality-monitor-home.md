@@ -29,7 +29,7 @@ After extensive research and testing, here are my top 5 picks for the best home 
 
 **Price: $269**
 
-The [IQAir AirVisual Pro](https://www.amazon.com/dp/B0D7M5XX6C?tag=viciousstudio-20) is what I consider the gold standard for home air quality monitoring. This Swiss-engineered device provides laboratory-grade accuracy that rivals professional equipment.
+The [IQAir AirVisual Pro](https://www.amazon.com/s?k=IQAir+AirVisual+Pro&tag=viciousstudio-20) is what I consider the gold standard for home air quality monitoring. This Swiss-engineered device provides laboratory-grade accuracy that rivals professional equipment.
 
 **Pros:**
 - Extremely accurate PM2.5, PM10, and CO2 measurements
@@ -47,7 +47,7 @@ The [IQAir AirVisual Pro](https://www.amazon.com/dp/B0D7M5XX6C?tag=viciousstudio
 
 **Price: $199**
 
-The [PurpleAir PA-I-Indoor](https://www.amazon.com/dp/B0007U46T4?tag=viciousstudio-20) has become my go-to recommendation for those primarily concerned with particle pollution. Its dual laser sensors provide exceptional reliability.
+The [PurpleAir PA-I-Indoor](https://www.amazon.com/s?k=PurpleAir+PA-I-Indoor&tag=viciousstudio-20) has become my go-to recommendation for those primarily concerned with particle pollution. Its dual laser sensors provide exceptional reliability.
 
 **Pros:**
 - Dual laser sensors for enhanced accuracy
@@ -65,7 +65,7 @@ The [PurpleAir PA-I-Indoor](https://www.amazon.com/dp/B0007U46T4?tag=viciousstud
 
 **Price: $229**
 
-The [Airthings Wave Plus](https://www.amazon.com/dp/B0CFYX1T2W?tag=viciousstudio-20) stands out as the most comprehensive monitor I've tested, especially if you're concerned about radon exposure alongside general air quality.
+The [Airthings Wave Plus](https://www.amazon.com/s?k=Airthings+Wave+Plus&tag=viciousstudio-20) stands out as the most comprehensive monitor I've tested, especially if you're concerned about radon exposure alongside general air quality.
 
 **Pros:**
 - Monitors radon, CO2, VOCs, humidity, temperature, and air pressure
@@ -83,7 +83,7 @@ The [Airthings Wave Plus](https://www.amazon.com/dp/B0CFYX1T2W?tag=viciousstudio
 
 **Price: $69**
 
-For smart home enthusiasts on a budget, the [Amazon Smart Air Quality Monitor](https://www.amazon.com/dp/B0784TZFRW?tag=viciousstudio-20) offers impressive functionality at an unbeatable price point.
+For smart home enthusiasts on a budget, the [Amazon Smart Air Quality Monitor](https://www.amazon.com/s?k=Smart+Air+Quality+Monitor&tag=viciousstudio-20) offers impressive functionality at an unbeatable price point.
 
 **Pros:**
 - Incredibly affordable entry point
@@ -102,7 +102,7 @@ For smart home enthusiasts on a budget, the [Amazon Smart Air Quality Monitor](h
 
 **Price: $149**
 
-The [Temtop LKC-1000S+](https://www.amazon.com/dp/B097YW5Q72?tag=viciousstudio-20) impressed me with its portability and comprehensive sensor array, making it perfect for testing air quality throughout your home.
+The [Temtop LKC-1000S+](https://www.amazon.com/s?k=Temtop+LKC-1000S%2B&tag=viciousstudio-20) impressed me with its portability and comprehensive sensor array, making it perfect for testing air quality throughout your home.
 
 **Pros:**
 - Portable design with rechargeable battery
