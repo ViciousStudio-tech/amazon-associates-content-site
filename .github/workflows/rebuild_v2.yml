@@ -2,11 +2,16 @@ name: Rebuild V2 — Real Amazon Products via SerpApi
 
 on:
   workflow_dispatch:
+    inputs:
+      start_index:
+        description: 'Article index to start from (0 = beginning)'
+        required: false
+        default: '0'
 
 jobs:
   rebuild:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 350
 
     steps:
       - name: Checkout repo
@@ -27,6 +32,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           AMAZON_ASSOCIATE_TAG: viciousstudio-20
+          START_INDEX: ${{ github.event.inputs.start_index }}
         run: python rebuild_v2.py
 
       - name: Commit and push rebuilt articles

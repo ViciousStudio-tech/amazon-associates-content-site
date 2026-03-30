@@ -251,15 +251,20 @@ Return the complete fixed article:"""
 def rebuild_all():
     """Main rebuild loop."""
     files = sorted(POSTS_DIR.glob("*.md"))
+    start_index = int(os.getenv("START_INDEX", "0"))
     stats["total"] = len(files)
 
     print("=" * 70)
     print(f"REBUILDING {len(files)} ARTICLES WITH REAL AMAZON PRODUCTS (SerpApi)")
+    if start_index > 0:
+        print(f"RESUMING FROM INDEX {start_index}")
     print("=" * 70)
 
     rebuilt_files = []
 
     for i, filepath in enumerate(files):
+        if i < start_index:
+            continue
         filename = filepath.name
         print(f"\n{'─' * 60}")
         print(f"Article {i+1}/{len(files)}: {filename}")
@@ -352,7 +357,7 @@ affiliate: true
         rebuilt_files.append((filepath, products))
 
         print(f"  ✅ REBUILT: {product_count} products | all checks passed")
-        time.sleep(2)
+        time.sleep(0.5)
 
     # FINAL AUDIT
     print("\n" + "=" * 70)
