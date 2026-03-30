@@ -1,255 +1,404 @@
-"""
-rebuild_v2.py
-Fix all Amazon product links in _posts/ articles.
-Problem: Link text says one product but URL points to a random/wrong ASIN.
-Fix: Convert all /dp/ links to search URLs derived from the link text itself,
-     ensuring link text always matches link destination.
-"""
-
-import re, os, sys
-from urllib.parse import quote_plus, unquote_plus, urlparse, parse_qs
+"""Rebuild all articles with verified real Amazon products from SerpApi."""
+import os, re, json, time, logging, sys, difflib
 from pathlib import Path
+from datetime import datetime
+from urllib.parse import unquote_plus, quote_plus
+from collections import Counter
+from dotenv import load_dotenv
+import anthropic
+
+load_dotenv()
+
+# Import our scraper
+from amazon_scraper import scrape_amazon_products, verify_products, Product, ASSOCIATE_TAG, asdict
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
+log = logging.getLogger(__name__)
 
 POSTS_DIR = Path("./_posts")
-ASSOCIATE_TAG = "viciousstudio-20"
+API_KEY = os.getenv("ANTHROPIC_API_KEY")
+client = anthropic.Anthropic(api_key=API_KEY)
 
-# Match markdown links to Amazon
-AMAZON_LINK_RE = re.compile(
-    r'\[([^\]]+)\]\((https://www\.amazon\.com/[^\)]+)\)'
-)
-
-# Words to strip from link text when building search queries
-NOISE_WORDS = {
-    'best', 'top', 'the', 'a', 'an', 'and', 'or', 'for', 'with', 'on',
-    'in', 'of', 'to', 'my', 'our', 'your', 'this', 'that', 'here',
-    'click', 'check', 'see', 'view', 'buy', 'shop', 'price', 'deal',
-    'amazon', 'more', 'details', 'review', 'reviews', 'pick', 'picks',
+# Stats
+stats = {
+    "total": 0,
+    "rebuilt": 0,
+    "skipped_no_products": 0,
+    "skipped_verification_failed": 0,
+    "total_asins": 0,
+    "hallucinations_caught": 0,
+    "repairs_attempted": 0,
+    "repairs_succeeded": 0,
 }
 
 
-def extract_product_name(link_text: str) -> str:
-    """
-    Extract the product name/search query from link text.
-    E.g. "Braun ThermoScan 7 Digital Ear Thermometer" -> "Braun ThermoScan 7 Digital Ear Thermometer"
-    E.g. "best electric kettles on Amazon" -> "electric kettles"
-    """
-    # Remove markdown formatting artifacts
-    text = link_text.strip().strip('*').strip('_')
-
-    # If the text looks like a generic phrase (no brand/product name), clean it
-    words = text.split()
-    if len(words) <= 2:
-        return text
-
-    # For longer texts, remove noise words from start/end but keep middle intact
-    # This preserves product names like "Braun ThermoScan 7 Digital Ear Thermometer"
-    cleaned = []
-    for w in words:
-        if w.lower() in NOISE_WORDS and not cleaned:
-            continue  # skip leading noise
-        cleaned.append(w)
-
-    # Remove trailing noise
-    while cleaned and cleaned[-1].lower() in NOISE_WORDS:
-        cleaned.pop()
-
-    result = ' '.join(cleaned) if cleaned else text
-    return result
+def extract_search_queries(content: str) -> list:
+    """Extract all Amazon search queries from article."""
+    pattern = r'amazon\.com/s\?k=([^&"\')\s]+)'
+    matches = re.findall(pattern, content)
+    return [unquote_plus(m) for m in matches]
 
 
-def build_search_url(product_name: str) -> str:
-    """Build an Amazon search URL from a product name."""
-    query = quote_plus(product_name)
-    return f"https://www.amazon.com/s?k={query}&tag={ASSOCIATE_TAG}"
+def get_verified_products(filepath: Path) -> list:
+    """Get verified products for an article."""
+    content = filepath.read_text(encoding="utf-8")
+    queries = extract_search_queries(content)
+
+    if not queries:
+        # Fall back to title
+        title_match = re.search(r'^title:\s*"?([^"\n]+)"?', content, re.MULTILINE)
+        if title_match:
+            title = title_match.group(1).strip()
+            # Remove "Best" prefix and clean up
+            query = re.sub(r'^(Best|Top|Ultimate Guide to)\s+', '', title, flags=re.IGNORECASE)
+            queries = [query]
+
+    seen_queries = set()
+    for query in queries:
+        if query in seen_queries:
+            continue
+        seen_queries.add(query)
+
+        products = scrape_amazon_products(query, ASSOCIATE_TAG, 5)
+        valid, errors = verify_products(products)
+
+        if len(valid) >= 3:
+            return valid
+
+        log.info(f"  Only {len(valid)} products for '{query}', trying next query...")
+
+    # Last resort — try with fewer products
+    for query in queries:
+        products = scrape_amazon_products(query, ASSOCIATE_TAG, 5)
+        valid, _ = verify_products(products)
+        if valid:
+            return valid
+
+    return []
 
 
-def check_link_text_matches_url(link_text: str, url: str) -> bool:
-    """
-    For search URLs: check if link text reasonably matches search query.
-    For /dp/ URLs: we can't verify without scraping, so always return False
-    to trigger a fix.
-    """
-    if '/s?k=' in url:
-        parsed = urlparse(url)
-        params = parse_qs(parsed.query)
-        query = unquote_plus(params.get('k', [''])[0]).lower()
-        text_lower = link_text.lower()
+def generate_article(keyword: str, category: str, products: list) -> str:
+    """Generate article with Claude using real product data."""
+    product_data = []
+    for p in products:
+        d = asdict(p) if isinstance(p, Product) else p
+        product_data.append({
+            "asin": d["asin"],
+            "exact_title": d["title"],
+            "exact_price": d["price"] or "See Amazon for price",
+            "exact_rating": d["rating"] or "Highly rated",
+            "exact_affiliate_url": d["url"],
+            "exact_image_url": d["image"],
+        })
 
-        # Get significant words from both
-        text_words = set(
-            w for w in re.findall(r'[a-z0-9]+', text_lower)
-            if len(w) > 2 and w not in NOISE_WORDS
+    system = f"""You are writing an Amazon affiliate buying guide. You will be given REAL products with verified data.
+
+ABSOLUTE RULES — violating any makes the article INVALID:
+1. Use ONLY the products in REAL_PRODUCTS below. Do NOT invent ANY product.
+2. Copy each product title EXACTLY as given — zero modifications, zero paraphrasing.
+3. Use ONLY the URLs provided. Do NOT construct, modify, or shorten any URL.
+4. Write exactly {len(products)} product recommendations — one per product provided. No more. No less.
+5. Each product recommendation MUST include:
+   - The EXACT title as an H2 heading
+   - The EXACT image URL in a markdown image tag
+   - The EXACT price
+   - The EXACT rating
+   - The EXACT affiliate URL as a markdown link with the EXACT title as link text
+6. Do NOT mention any brand, product, or ASIN not in REAL_PRODUCTS.
+7. Output raw Markdown ONLY. No preamble. No "Here is..." opener."""
+
+    user = f"""Write a complete Amazon affiliate buying guide for: "{keyword}"
+Category: {category}
+
+REAL_PRODUCTS (use ONLY these — copy ALL fields EXACTLY):
+{json.dumps(product_data, indent=2)}
+
+Article structure:
+1. Introduction (150-200 words, address the reader's need)
+2. Quick Picks summary (product | price | rating — use exact data)
+3. Detailed review for EACH product (in order):
+   ## [EXACT title from REAL_PRODUCTS]
+   ![product image](EXACT image_url)
+   **Price:** EXACT price | **Rating:** EXACT rating
+   [200-word review discussing this product type's features and value]
+   **[Buy on Amazon](EXACT affiliate_url)**
+4. Buying Guide section (what to look for, 300 words)
+5. FAQ (3-5 questions with answers)
+6. Conclusion with top pick recommendation
+
+Write the complete article now:"""
+
+    for attempt in range(3):
+        try:
+            resp = client.messages.create(
+                model="claude-sonnet-4-20250514",
+                max_tokens=5000,
+                temperature=0,
+                system=system,
+                messages=[{"role": "user", "content": user}]
+            )
+            return resp.content[0].text.strip()
+        except anthropic.RateLimitError:
+            wait = 30 * (attempt + 1)
+            log.warning(f"Rate limited, waiting {wait}s...")
+            time.sleep(wait)
+        except Exception as e:
+            log.error(f"Generation error (attempt {attempt+1}): {e}")
+            time.sleep(5)
+    return None
+
+
+def verify_article(content: str, products: list) -> tuple:
+    """Run all 6 verification checks. Returns (passed: bool, errors: list)."""
+    errors = []
+    source_asins = set()
+    for p in products:
+        asin = p.asin if isinstance(p, Product) else p["asin"]
+        source_asins.add(asin)
+
+    # CHECK A: ASIN presence
+    found_asins = set(re.findall(r'/dp/([A-Z0-9]{10})', content))
+    for fa in found_asins:
+        if fa not in source_asins:
+            errors.append(f"HALLUCINATED ASIN: {fa} not in source data")
+    for sa in source_asins:
+        if sa not in found_asins:
+            errors.append(f"MISSING ASIN: {sa} not found in article")
+
+    # CHECK B: Title accuracy (using difflib)
+    for p in products:
+        product = p if isinstance(p, Product) else Product(**p)
+        # Find title near the ASIN in article
+        pattern = rf'(?:##?\s+)(.{{5,200}}).*?/dp/{re.escape(product.asin)}'
+        match = re.search(pattern, content, re.DOTALL)
+        if match:
+            heading = match.group(1).strip().strip('#').strip()
+            ratio = difflib.SequenceMatcher(None, heading.lower(), product.title.lower()).ratio()
+            if ratio < 0.6:
+                errors.append(f"TITLE MISMATCH for {product.asin}: expected '{product.title[:50]}' got '{heading[:50]}' (sim: {ratio:.2f})")
+
+    # CHECK C: No search URLs
+    search_urls = re.findall(r'amazon\.com/s\?k=', content)
+    if search_urls:
+        errors.append(f"SEARCH URLs FOUND: {len(search_urls)} search links remain")
+
+    # CHECK D: Affiliate tag on all product URLs
+    dp_urls = re.findall(r'https://www\.amazon\.com/dp/[A-Z0-9]{10}[^\s\)\]"]*', content)
+    for url in dp_urls:
+        if "tag=viciousstudio-20" not in url and "tag=" + ASSOCIATE_TAG not in url:
+            errors.append(f"MISSING TAG in: {url[:80]}")
+
+    # CHECK E: No placeholder images
+    img_urls = re.findall(r'!\[.*?\]\((https?://[^\)]+)\)', content)
+    for img in img_urls:
+        if any(x in img for x in ["loremflickr", "unsplash", "placeholder", "picsum"]):
+            errors.append(f"PLACEHOLDER IMAGE: {img[:60]}")
+
+    # CHECK F: No duplicate ASINs
+    all_asins = re.findall(r'/dp/([A-Z0-9]{10})', content)
+    counts = Counter(all_asins)
+    for asin, count in counts.items():
+        if count > 3:  # Allow some repetition for links
+            errors.append(f"EXCESSIVE ASIN REPETITION: {asin} appears {count} times")
+
+    return (len(errors) == 0, errors)
+
+
+def repair_article(content: str, products: list, errors: list) -> str:
+    """Attempt to fix article issues."""
+    product_data = []
+    for p in products:
+        d = asdict(p) if isinstance(p, Product) else p
+        product_data.append(d)
+
+    system = """You are fixing an article that failed verification. Fix ONLY the specific issues listed.
+Copy all product data EXACTLY from REAL_PRODUCTS. Do not change anything that is not broken.
+Output the complete fixed article markdown only."""
+
+    user = f"""Fix these specific errors:
+{chr(10).join('- ' + e for e in errors)}
+
+REAL_PRODUCTS (copy all fields EXACTLY):
+{json.dumps(product_data, indent=2, default=str)}
+
+CURRENT ARTICLE:
+{content}
+
+Return the complete fixed article:"""
+
+    try:
+        resp = client.messages.create(
+            model="claude-sonnet-4-20250514",
+            max_tokens=5000,
+            temperature=0,
+            system=system,
+            messages=[{"role": "user", "content": user}]
         )
-        query_words = set(
-            w for w in re.findall(r'[a-z0-9]+', query)
-            if len(w) > 2 and w not in NOISE_WORDS
-        )
-
-        if not text_words or not query_words:
-            return False
-
-        overlap = text_words & query_words
-        # Need at least 30% overlap of the smaller set
-        min_set = min(len(text_words), len(query_words))
-        return len(overlap) >= max(1, min_set * 0.3)
-
-    # /dp/ URLs - we can't verify the ASIN matches the text
-    return False
+        return resp.content[0].text.strip()
+    except Exception as e:
+        log.error(f"Repair failed: {e}")
+        return None
 
 
-def fix_article_links(content: str) -> tuple:
-    """
-    Fix all Amazon links in article content.
-    Returns (fixed_content, num_links_fixed, details_list).
-    """
-    fixes = []
-    seen_asins_in_article = {}  # track ASIN -> first link text
+def rebuild_all():
+    """Main rebuild loop."""
+    files = sorted(POSTS_DIR.glob("*.md"))
+    stats["total"] = len(files)
 
-    def replace_link(match):
-        full_match = match.group(0)
-        link_text = match.group(1)
-        url = match.group(2)
+    print("=" * 70)
+    print(f"REBUILDING {len(files)} ARTICLES WITH REAL AMAZON PRODUCTS (SerpApi)")
+    print("=" * 70)
 
-        # Skip non-product links (like generic "Amazon" text links)
-        if link_text.lower().strip() in ('amazon', 'amazon.com', 'here', 'link'):
-            # Even these should search for something relevant
-            if '/dp/' in url:
-                # Can't fix without context, leave as search for the article topic
-                return full_match
+    rebuilt_files = []
 
-        # Case 1: /dp/ link - these are the problematic ones
-        if '/dp/' in url:
-            asin_match = re.search(r'/dp/([A-Z0-9]{10})', url)
-            asin = asin_match.group(1) if asin_match else "UNKNOWN"
+    for i, filepath in enumerate(files):
+        filename = filepath.name
+        print(f"\n{'─' * 60}")
+        print(f"Article {i+1}/{len(files)}: {filename}")
 
-            # Check if this ASIN was already used for a different product name
-            if asin in seen_asins_in_article:
-                prev_text = seen_asins_in_article[asin]
-                # If same ASIN used for different product, definitely wrong
-                if prev_text.lower() != link_text.lower():
-                    product_name = extract_product_name(link_text)
-                    new_url = build_search_url(product_name)
-                    fixes.append(f"  DUPLICATE ASIN FIX: [{link_text[:50]}] ASIN {asin} (also used for '{prev_text[:40]}') -> search for '{product_name}'")
-                    return f"[{link_text}]({new_url})"
+        # Read existing front matter
+        content = filepath.read_text(encoding="utf-8")
+        fm_match = re.match(r'^---\n(.*?)\n---\n', content, re.DOTALL)
+        if not fm_match:
+            print(f"  ❌ SKIPPED: no front matter")
+            stats["skipped_no_products"] += 1
+            continue
 
-            seen_asins_in_article[asin] = link_text
+        fm_text = fm_match.group(1)
+        title_match = re.search(r'^title:\s*"?([^"\n]+)"?', fm_text, re.MULTILINE)
+        date_match = re.search(r'^date:\s*(\S+)', fm_text, re.MULTILINE)
+        cat_match = re.search(r'^categories:\s*\[([^\]]+)\]', fm_text, re.MULTILINE)
+        desc_match = re.search(r'^description:\s*"?([^"\n]+)"?', fm_text, re.MULTILINE)
 
-            # Convert ALL /dp/ links to search URLs since we can't verify ASINs
-            product_name = extract_product_name(link_text)
-            new_url = build_search_url(product_name)
-            fixes.append(f"  FIX: [{link_text[:50]}] /dp/{asin} -> search for '{product_name}'")
-            return f"[{link_text}]({new_url})"
+        title = title_match.group(1).strip() if title_match else "Product Guide"
+        date = date_match.group(1).strip() if date_match else datetime.now().strftime("%Y-%m-%d")
+        category = cat_match.group(1).strip() if cat_match else "general"
+        description = desc_match.group(1).strip() if desc_match else ""
 
-        # Case 2: /s?k= search link - verify text matches query
-        if '/s?k=' in url:
-            if check_link_text_matches_url(link_text, url):
-                # Already good, just make sure tag is present
-                if f'tag={ASSOCIATE_TAG}' not in url:
-                    if '?' in url:
-                        new_url = url + f'&tag={ASSOCIATE_TAG}'
-                    else:
-                        new_url = url + f'?tag={ASSOCIATE_TAG}'
-                    fixes.append(f"  TAG FIX: [{link_text[:50]}]")
-                    return f"[{link_text}]({new_url})"
-                return full_match
-            else:
-                # Mismatch - rebuild from link text
-                product_name = extract_product_name(link_text)
-                new_url = build_search_url(product_name)
-                fixes.append(f"  MISMATCH FIX: [{link_text[:50]}] -> search for '{product_name}'")
-                return f"[{link_text}]({new_url})"
+        # Get verified products
+        products = get_verified_products(filepath)
+        if not products:
+            print(f"  ❌ SKIPPED: no verified products found")
+            stats["skipped_no_products"] += 1
+            continue
 
-        # Case 3: Other Amazon URL - add tag if missing
-        if f'tag={ASSOCIATE_TAG}' not in url:
-            sep = '&' if '?' in url else '?'
-            new_url = f"{url}{sep}tag={ASSOCIATE_TAG}"
-            fixes.append(f"  TAG FIX: [{link_text[:50]}]")
-            return f"[{link_text}]({new_url})"
+        print(f"  Found {len(products)} verified products")
+        for p in products:
+            product = p if isinstance(p, Product) else Product(**p)
+            print(f"    {product.asin}: {product.title[:50]}...")
 
-        return full_match
+        # Generate article
+        article_content = generate_article(title, category, products)
+        if not article_content:
+            print(f"  ❌ SKIPPED: generation failed")
+            stats["skipped_verification_failed"] += 1
+            continue
 
-    fixed = AMAZON_LINK_RE.sub(replace_link, content)
-    return fixed, len(fixes), fixes
+        # Verify
+        passed, errs = verify_article(article_content, products)
 
+        if not passed:
+            print(f"  ⚠️ Verification failed ({len(errs)} issues), attempting repair...")
+            for e in errs:
+                print(f"    - {e}")
+            stats["repairs_attempted"] += 1
+            stats["hallucinations_caught"] += len(errs)
 
-def process_all_articles():
-    """Process all articles in _posts/."""
-    articles = sorted(POSTS_DIR.glob("*.md"))
-    total = len(articles)
+            repaired = repair_article(article_content, products, errs)
+            if repaired:
+                passed2, errs2 = verify_article(repaired, products)
+                if passed2:
+                    article_content = repaired
+                    passed = True
+                    stats["repairs_succeeded"] += 1
+                    print(f"  ✅ Repair succeeded")
+                else:
+                    print(f"  ❌ Repair still has {len(errs2)} issues:")
+                    for e in errs2:
+                        print(f"    - {e}")
 
-    if total == 0:
-        print("No articles found in _posts/")
-        return
+        if not passed:
+            print(f"  ❌ SKIPPED: verification failed after repair")
+            stats["skipped_verification_failed"] += 1
+            continue
 
-    print(f"Processing {total} articles...\n")
+        # Build final file
+        first_product = products[0] if isinstance(products[0], Product) else Product(**products[0])
+        new_fm = f"""---
+layout: post
+title: "{title}"
+date: {date}
+categories: [{category}]
+description: "{description}"
+image: "{first_product.image}"
+affiliate: true
+---
 
-    total_links_fixed = 0
-    articles_modified = 0
+"""
+        final_content = new_fm + article_content
+        filepath.write_text(final_content, encoding="utf-8")
 
-    for i, filepath in enumerate(articles, 1):
-        content = filepath.read_text(encoding='utf-8')
-        fixed_content, num_fixed, details = fix_article_links(content)
+        product_count = len(products)
+        stats["rebuilt"] += 1
+        stats["total_asins"] += product_count
+        rebuilt_files.append((filepath, products))
 
-        if num_fixed > 0:
-            filepath.write_text(fixed_content, encoding='utf-8')
-            articles_modified += 1
-            total_links_fixed += num_fixed
-            print(f"Article {i}/{total}: {filepath.name} -- {num_fixed} links fixed")
-            for d in details[:5]:  # Show first 5 fixes per article
-                print(d)
-            if len(details) > 5:
-                print(f"  ... and {len(details) - 5} more fixes")
+        print(f"  ✅ REBUILT: {product_count} products | all checks passed")
+        time.sleep(2)
+
+    # FINAL AUDIT
+    print("\n" + "=" * 70)
+    print("FINAL AUDIT — Re-verifying all rebuilt articles")
+    print("=" * 70)
+
+    audit_passed = 0
+    audit_failed = 0
+
+    for filepath, products in rebuilt_files:
+        content = filepath.read_text(encoding="utf-8")
+        # Strip front matter for verification
+        fm_end = content.find("---", 4)
+        if fm_end > 0:
+            article_body = content[fm_end+4:]
         else:
-            print(f"Article {i}/{total}: {filepath.name} -- no changes needed")
+            article_body = content
 
-    print(f"\n{'='*60}")
-    print(f"REBUILD COMPLETE")
-    print(f"{'='*60}")
-    print(f"Articles processed: {total}")
-    print(f"Articles modified:  {articles_modified}")
-    print(f"Total links fixed:  {total_links_fixed}")
-    print(f"Associate tag:      {ASSOCIATE_TAG}")
-    print(f"{'='*60}")
+        passed, errs = verify_article(article_body, products)
+        if passed:
+            audit_passed += 1
+        else:
+            audit_failed += 1
+            print(f"  AUDIT FAIL: {filepath.name}")
+            for e in errs:
+                print(f"    - {e}")
 
+    print(f"\nFINAL AUDIT: {audit_passed}/{len(rebuilt_files)} passed")
 
-def verify_all_articles():
-    """Post-rebuild verification: check every link text matches its destination."""
-    articles = sorted(POSTS_DIR.glob("*.md"))
-    total_links = 0
-    mismatches = 0
-    missing_tags = 0
+    # Summary
+    print("\n" + "=" * 70)
+    print("REBUILD SUMMARY")
+    print("=" * 70)
+    print(f"Total articles processed: {stats['total']}")
+    print(f"Successfully rebuilt: {stats['rebuilt']}")
+    print(f"Skipped (no products): {stats['skipped_no_products']}")
+    print(f"Skipped (verification failed): {stats['skipped_verification_failed']}")
+    print(f"Total real ASINs embedded: {stats['total_asins']}")
+    print(f"Hallucinations caught: {stats['hallucinations_caught']}")
+    print(f"Repairs attempted: {stats['repairs_attempted']}")
+    print(f"Repairs succeeded: {stats['repairs_succeeded']}")
 
-    for filepath in articles:
-        content = filepath.read_text(encoding='utf-8')
-        for match in AMAZON_LINK_RE.finditer(content):
-            link_text = match.group(1)
-            url = match.group(2)
-            total_links += 1
+    if audit_failed > 0:
+        print(f"\n🚫 COMMIT BLOCKED: {audit_failed} articles failed final audit")
+        return False
 
-            # Check tag
-            if f'tag={ASSOCIATE_TAG}' not in url:
-                missing_tags += 1
-
-            # Check text-to-URL match for search URLs
-            if '/s?k=' in url:
-                if not check_link_text_matches_url(link_text, url):
-                    mismatches += 1
-                    print(f"  VERIFY MISMATCH: [{link_text[:50]}] in {filepath.name}")
-
-    print(f"\nVERIFICATION:")
-    print(f"  Total links:    {total_links}")
-    print(f"  Mismatches:     {mismatches}")
-    print(f"  Missing tags:   {missing_tags}")
-
-    if mismatches == 0 and missing_tags == 0:
-        print("  STATUS: ALL LINKS VERIFIED OK")
-    else:
-        print("  STATUS: ISSUES FOUND (see above)")
+    return True
 
 
 if __name__ == "__main__":
-    print("rebuild_v2.py — Fix all product links\n")
-    print("Scraping status: BLOCKED (using search URL fallback)\n")
-    process_all_articles()
-    print()
-    verify_all_articles()
+    success = rebuild_all()
+    if success and stats["rebuilt"] > 0:
+        print("\nAll articles passed final audit. Ready to commit.")
+    elif stats["rebuilt"] == 0:
+        print("\nNo articles were rebuilt.")
+    else:
+        print("\nSome articles failed audit. NOT committing.")

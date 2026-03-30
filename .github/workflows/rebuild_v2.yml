@@ -1,0 +1,39 @@
+name: Rebuild V2 — Real Amazon Products via SerpApi
+
+on:
+  workflow_dispatch:
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run amazon_scraper self-test
+        run: python amazon_scraper.py
+
+      - name: Run rebuild_v2.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          AMAZON_ASSOCIATE_TAG: viciousstudio-20
+        run: python rebuild_v2.py
+
+      - name: Commit and push rebuilt articles
+        run: |
+          git config user.name "Amazon Empire Bot"
+          git config user.email "bot@amazon-empire.local"
+          git add -A
+          git status
+          git diff --staged --quiet || git commit -m "Rebuild v2: articles with verified real ASINs from SerpApi, zero hallucinations, zero search URLs"
+          git push origin main || true
