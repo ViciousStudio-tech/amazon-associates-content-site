@@ -38,15 +38,33 @@ def scrape_amazon_products(search_query: str, associate_tag: str = None, num_res
         "api_key": SERPAPI_KEY,
     }
 
-    try:
-        resp = requests.get(api_url, params=params, timeout=30)
-        resp.raise_for_status()
-        data = resp.json()
-    except Exception as e:
-        log.warning(f"SerpApi request failed for '{search_query}': {e}")
+    for attempt in range(3):
+        try:
+            resp = requests.get(api_url, params=params, timeout=30)
+            if resp.status_code == 429:
+                wait = 10 * (attempt + 1)
+                log.warning(f"SerpApi rate limited for '{search_query}', waiting {wait}s...")
+                time.sleep(wait)
+                continue
+            resp.raise_for_status()
+            data = resp.json()
+            break
+        except requests.exceptions.HTTPError as e:
+            if "429" in str(e):
+                wait = 10 * (attempt + 1)
+                log.warning(f"SerpApi rate limited for '{search_query}', waiting {wait}s...")
+                time.sleep(wait)
+                continue
+            log.warning(f"SerpApi request failed for '{search_query}': {e}")
+            return []
+        except Exception as e:
+            log.warning(f"SerpApi request failed for '{search_query}': {e}")
+            return []
+    else:
+        log.warning(f"SerpApi exhausted retries for '{search_query}'")
         return []
 
-    time.sleep(0.5)
+    time.sleep(1.0)  # Rate limit: ~1 request per second
 
     if "error" in data:
         log.warning(f"SerpApi error for '{search_query}': {data['error']}")
